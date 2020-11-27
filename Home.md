@@ -6,6 +6,8 @@
 
 [Go here (FIXME)]()
 
+Draft Proposal Template
+
 ## Learn & Discuss
 
 Discord chat: [Go here (FIXME)]()
