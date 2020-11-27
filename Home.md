@@ -10,13 +10,7 @@
 
 Discord chat: [Go here (FIXME)]()
 
-Town halls: [Go here](https://github.com/oceanprotocol/oceandao/wiki/OceanDAO-Town-Halls) - full link
-
-Town halls: [Go here](oceandao/wiki/OceanDAO-Town-Halls) - sub 1
-
-Town halls: [Go here](wiki/OceanDAO-Town-Halls) - sub 2
-
-Town halls: [Go here](OceanDAO-Town-Halls) - sub 3
+Town halls: [Go here](OceanDAO-Town-Halls)
 
 ## Vote
 
