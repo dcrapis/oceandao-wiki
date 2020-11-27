@@ -6,7 +6,7 @@
 
 [Go here (FIXME)]()
 
-Draft Proposal Template
+[Draft Proposal Template](https://github.com/oceanprotocol/oceandao/wiki/Grant-Proposal-Template)
 
 ## Learn & Discuss
 
