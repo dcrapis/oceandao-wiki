@@ -4,7 +4,7 @@
 
 ## Post a Project 
 
-Post a proposal[Ocean Discourse](https://port.oceanprotocol.com/c/oceandao/56)
+Post a proposal: [Ocean Discourse](https://port.oceanprotocol.com/c/oceandao/56)
 
 [Draft Proposal Template](https://github.com/oceanprotocol/oceandao/wiki/Grant-Proposal-Template)
 
