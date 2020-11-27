@@ -10,7 +10,7 @@ Post a proposal: [Ocean Discourse](https://port.oceanprotocol.com/c/oceandao/56)
 
 ## Learn & Discuss
 
-Discord chat: [Go here (FIXME)]()
+Discord chat: [Go Here](https://discord.gg/uvyQFWGBn8)
 
 Town halls: [Go here](OceanDAO-Town-Halls)
 
