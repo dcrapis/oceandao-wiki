@@ -14,6 +14,10 @@ Town halls: [Go here](https://github.com/oceanprotocol/oceandao/wiki/OceanDAO-To
 
 ## Vote
 
-## Foo bar bah
+[Go here (FIXME)]()
+
+## Foo 
+
+Bar bah.
 
 
