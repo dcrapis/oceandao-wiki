@@ -1,5 +1,8 @@
 <img src="https://github.com/oceanprotocol/oceandao/blob/main/oceandao-logo.png" width="80%">
 
+Welcome to the OceanDAO Wiki.
+
+
 # OceanDAO Town Hall
 
 Join the OceanDAO community Town Hall. Here you can ask any questions, share proposal feedback, and collaborate with the OceanDAO community in an open format. 
@@ -69,6 +72,7 @@ Meeting ID: 853 4820 5395
 
 Find your local number: https://us02web.zoom.us/u/kbNJCr9PxE
 ```
+
 
 
 
