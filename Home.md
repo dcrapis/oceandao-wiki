@@ -2,6 +2,18 @@
 
 **Welcome to the OceanDAO Wiki!**
 
-## Town Halls
+## Post a Project 
 
-[Go here](https://github.com/oceanprotocol/oceandao/wiki/OceanDAO-Town-Halls)
+[Go here (FIXME)]()
+
+## Learn & Discuss
+
+Discord chat: [Go here (FIXME)]()
+
+Town halls: [Go here](https://github.com/oceanprotocol/oceandao/wiki/OceanDAO-Town-Halls)
+
+## Vote
+
+## Foo bar bah
+
+
