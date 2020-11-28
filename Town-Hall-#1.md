@@ -16,13 +16,10 @@ https://calendar.google.com/calendar/embed?src=led33k5e9p353746vvdtplccddf06m0q%
 
 Topic: OceanDAO Town Hall 
 Time: Dec 2, 2020 04:00 PM Greenwich Mean Time
-        Every week on Wed, until Jan 6, 2021, 6 occurrence(s)
+        Every week on Wed, until Dec 16, 2020, 3 occurrence(s)
         Dec 2, 2020 04:00 PM
         Dec 9, 2020 04:00 PM
         Dec 16, 2020 04:00 PM
-        Dec 23, 2020 04:00 PM
-        Dec 30, 2020 04:00 PM
-        Jan 6, 2021 04:00 PM
 Please download and import the following iCalendar (.ics) files to your calendar system.
 Weekly: https://us02web.zoom.us/meeting/tZEuc-Gqrj4pE9GwdlbCyrRaC8PgzFLA0hte/ics?icsToken=98tyKuGtrT8iGNSQsxCCRpwMA4-gWerziCVej_p6ixvpAQNKcDH3FbpyNahZPPmA
 
