@@ -2,14 +2,18 @@
 
 ## What's OceanDAO?
 
-OceanDAO offers grants curated by the broader community of OCEAN holders.
+OceanDAO offers grants curated by the broader community of OCEAN holders. It's key to growth and sustainability of the Ocean ecosystem. [(Details.)](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e)
 
 - **For Projects:** Propose your project on Ocean Port (forum). Answer questions in Ocean Discord (chat). The community votes whether to fund your project.
 - **For Community Curators:** Learn about projects via Ocean Port or Ocean Discord. Then, vote on Ocean Snapshot. Any OCEAN holder can vote. Vote for the projects that you think will add the most value. The weight of your vote is based on your OCEAN holdings.
 
 ## Quick Links
 
-[Post Proposal](https://github.com/oceanprotocol/oceandao/wiki/Grant-Proposal-Template) ⏺ [View Proposals](https://port.oceanprotocol.com/c/oceandao/) ⏺ [Chat](https://discord.com/channels/612953348487905282/776848812534398986) ⏺ [Vote](https://vote.oceanprotocol.com/)
+🐬 [Post Proposal](https://github.com/oceanprotocol/oceandao/wiki/Grant-Proposal-Template) 
+🐠 [View Proposals](https://port.oceanprotocol.com/c/oceandao/)
+🐙 [Chat](https://discord.com/channels/612953348487905282/776848812534398986)
+🦈 [Town Halls](https://github.com/oceanprotocol/oceandao/wiki/Home/OceanDAO-Town-Hall)
+🐋 [Vote](https://vote.oceanprotocol.com/)
 
 ## What's This Wiki?
 
