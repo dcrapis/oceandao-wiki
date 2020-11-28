@@ -12,7 +12,7 @@ Post a proposal: [Ocean Discourse](https://port.oceanprotocol.com/c/oceandao/56)
 
 Discord chat: [Go Here](https://discord.gg/uvyQFWGBn8)
 
-Town halls: [Go here](OceanDAO-Town-Halls)
+Town Hall: [Go here](OceanDAO-Town-Hall)
 
 ## Vote
 
