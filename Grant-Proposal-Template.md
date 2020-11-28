@@ -1,63 +1,38 @@
-//////
+# Instructions
 
-To be published as Pinned message on [Ocean Discourse](https://port.oceanprotocol.com/c/oceandao/56)
+Instructions:
+1. Fill out the template below.
+2. Publish it as a pinned message on [OceanDAO Discourse](https://port.oceanprotocol.com/c/oceandao/56)
 
-//////
+----
 
 # Grant Proposal Template
 
-**Project:** 
-- The name of the project: 
-- Team Website (if applicable): https://<your_domain>
-- Proposal Wallet Address:
-- The proposal in one sentence:
+### Key Project Data
 
-### Overview
+- Name of project: 
+- Team Website (if applicable): 
+- Proposal Wallet Address: 
+- The proposal in one sentence: 
+- Which category best describes your project? Pick one or more.
+  - [ ] Build / improve applications or integration to Ocean
+  - [ ] Outreach / community (grants don't need to be technical in nature:)
+  - [ ] Unleash data
+  - [ ] Build / improve core Ocean software
 
-Please provide the following:
-- Description of the project?
+
+### Project Overview
+
+- Description of the project:
+
 - What problem is your project solving?
+
 - How does this project drive value to the Ocean ecosystem?
 
-Which category best describes your project? 
 
-- [ ] Build / improve applications and integrations that leverage Ocean
-- [ ] Outreach / communications
-- [ ] Unleash data
-- [ ] Improve core Ocean software
+## Project Deliverables - Category
 
-As a reminder, grants do not necessarily need to be technical in nature.
-
-### Team members
-Name(s) of team member(s), role, & background:
-
-**John Doe**
-- **Role:** developer, UX/UI designer
-- **GitHub:** https://github.com/johndoe
-- **LinkedIn** https://linkedin.com/in/johndoe
-- **Dribble:** https://dribbble.com/johndoe
-- **Background:** 
-  - Co-founder at xxx
-  - Lead developer at yyy 
-  - Creator of xxx.js the official JavaScript library for xxx
-
-## Project Details?
-- What will be done, what are the deliverables?
- 
-- Any mockups or designs to date?
-- An overview of the technology stack?* 
-- Any prior work completed thus far?
-
-## Projected Roadmap?
-- When?
-- Any milestones?
-
-- **Estimated Duration** 
-- **Estimated Milestones**
-
-## Category Deliverable?
-
-IF: Build app using Ocean / integrate software to Ocean, then: 
+IF: Build / improve applications or integration to Ocean, then: 
 - App will be live, at: ____ (url or app store)
 - Software will be open-source with a permissive license at: github.com/___
 
@@ -70,20 +45,37 @@ IF: Outreach / community, then (one or more of):
 IF: Unleash data , then:
 - Data will be made available on Ocean Market (or _____ market)
 
-IF: Improve Ocean core software, then:
+IF: Build / improve Ocean core software, then:
 - A PR will be made to these Ocean components: _______, following best practices for quality etc
 - I commit to working with Ocean core developers to merging the PR
 
+## Project Deliverables - Roadmap
 
-## Future Plans
-Please include the team's long-term plans and intentions.
+- Any prior work completed thus far?
+- What is the project roadmap? That is: what are key milestones, and the target date for each milestone.
+- Please include the milestone: publish an article/tutorial explaining your project as part of the grant (eg medium, etc).
+- Please include the team's long-term plans and intentions.
 
-### Community engagement
-As a grant recipient, produce an article/tutorial explaining your project as part of the grant (eg medium, etc).
+## Project Details - Software
+
+If the project includes software:
+- Are there any mockups or designs to date? 
+- An overview of the technology stack?* 
+
+### Team members
+For each team member, give their name, role and background such as the following.
+
+**John Doe**
+- **Role:** developer, UX/UI designer
+- **GitHub:** https://github.com/johndoe
+- **LinkedIn** https://linkedin.com/in/johndoe
+- **Dribble:** https://dribbble.com/johndoe
+- **Background:** 
+  - Co-founder at xxx
+  - Lead developer at yyy 
+  - Creator of xxx.js the official JavaScript library for xxx
 
 ## Additional Information
-Any additional information?
+Any additional information? For example: Any grants or fundraising to date?
 
-- *<___>
-- * Any grants or fundraising to date?
 
