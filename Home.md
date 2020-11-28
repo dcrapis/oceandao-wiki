@@ -16,10 +16,4 @@ Town Hall: [Go here](OceanDAO-Town-Hall)
 
 ## Vote
 
-[Go here](vote.oceanprotcol.com)
-
-## Foo 
-
-Bar bah.
-
-
+[Go here](https://vote.oceanprotocol.com/)
