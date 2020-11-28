@@ -4,16 +4,15 @@
 
 ## Post a Project 
 
-Post a proposal: [Ocean Discourse](https://port.oceanprotocol.com/c/oceandao/56)
-
-[Draft Proposal Template](https://github.com/oceanprotocol/oceandao/wiki/Grant-Proposal-Template)
+1. Fill out a proposal following [this template](https://github.com/oceanprotocol/oceandao/wiki/Grant-Proposal-Template)
+1. Post the proposal on [Ocean Discourse](https://port.oceanprotocol.com/c/oceandao/56)
 
 ## Learn & Discuss
 
-Discord chat: [Go Here](https://discord.gg/uvyQFWGBn8)
+- Chat at [OceanDAO Discord](https://discord.gg/uvyQFWGBn8)
 
-Town Hall: [Go here](OceanDAO-Town-Hall)
+- Videochat at regular [OceanDAO Town Halls](OceanDAO-Town-Hall)
 
 ## Vote
 
-[Go here](https://vote.oceanprotocol.com/)
+- Vote with [Ocean Shapshot](https://vote.oceanprotocol.com/)
