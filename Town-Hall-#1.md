@@ -2,7 +2,7 @@ OceanDAO Town Hall #1 is Wednesday, December 2nd at 4:00pm GMT
 
 ## Zoom Link
 
- https://us02web.zoom.us/j/85348205395 
+ https://us02web.zoom.us/j/85348205395
  
 ## Calendar
 
