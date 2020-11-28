@@ -8,9 +8,8 @@ OceanDAO Town Hall #1 is Wednesday, December 2nd at 4:00pm GMT
 
 https://calendar.google.com/calendar/u/0/embed?color=%23cd74e6&src=led33k5e9p353746vvdtplccddf06m0q@import.calendar.google.com
 
-https://calendar.google.com/calendar/embed?src=led33k5e9p353746vvdtplccddf06m0q%40import.calendar.google.com
+https://us02web.zoom.us/meeting/tZEuc-Gqrj4pE9GwdlbCyrRaC8PgzFLA0hte/ics?icsToken=98tyKuGtrT8iGNSQsxCCRpwMA4-gWerziCVej_p6ixvpAQNKcDH3FbpyNahZPPmA
 
-<iframe src="https://calendar.google.com/calendar/embed?src=led33k5e9p353746vvdtplccddf06m0q%40import.calendar.google.com&ctz=America%2FDenver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Expanded Zoom Details
 
