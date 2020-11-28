@@ -1,4 +1,4 @@
-Join the 1st OceanDAO Town Hall, this Wed. Dec 2!
+1st OceanDAO Town Hall is Wednesday, December 2nd at 4:00pm GMT
 
 ## Zoom Link
 
