@@ -16,7 +16,7 @@ Town Hall: [Go here](OceanDAO-Town-Hall)
 
 ## Vote
 
-[Go here (FIXME)]()
+[Go here](vote.oceanprotcol.com)
 
 ## Foo 
 
