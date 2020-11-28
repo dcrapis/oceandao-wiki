@@ -21,10 +21,10 @@ Please provide the following:
 
 Which category best describes your project? 
 
-- ( ) Build / improve applications and integrations that leverage Ocean
-- ( ) Outreach / communications
-- ( ) Unleash data
-- ( ) Improve core Ocean software
+- [ ] Build / improve applications and integrations that leverage Ocean
+- [ ] Outreach / communications
+- [ ] Unleash data
+- [ ] Improve core Ocean software
 
 As a reminder, grants do not necessarily need to be technical in nature.
 
