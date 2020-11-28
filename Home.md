@@ -1,4 +1,4 @@
-<img src="https://github.com/oceanprotocol/oceandao/blob/main/oceandao-logo.png" width="80%">
+<img src="https://github.com/oceanprotocol/oceandao/blob/main/oceandao-logo-pink-white.png" width="50%">
 
 ## What's OceanDAO?
 
