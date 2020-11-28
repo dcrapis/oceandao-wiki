@@ -1,4 +1,4 @@
-1st OceanDAO Town Hall is Wednesday, December 2nd at 4:00pm GMT
+OceanDAO Town Hall #1 is Wednesday, December 2nd at 4:00pm GMT
 
 ## Zoom Link
 
