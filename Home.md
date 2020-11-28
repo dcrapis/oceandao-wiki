@@ -10,29 +10,24 @@ OceanDAO offers grants curated by the broader community of OCEAN holders. It's k
 ## Quick Links
 
 🐬 [Post Proposal](https://github.com/oceanprotocol/oceandao/wiki/Grant-Proposal-Template) 
-🐠 [View Proposals](https://port.oceanprotocol.com/c/oceandao/)
-🐙 [Chat](https://discord.com/channels/612953348487905282/776848812534398986)
+🐠 [View Proposals (Port)](https://port.oceanprotocol.com/c/oceandao/)
+🐙 [Chat (Discord)](https://discord.com/channels/612953348487905282/776848812534398986)
 🦈 [Town Halls](https://github.com/oceanprotocol/oceandao/wiki/Home/OceanDAO-Town-Hall)
-🐋 [Vote](https://vote.oceanprotocol.com/)
+🐋 [Vote (Snapshot)](https://vote.oceanprotocol.com/)
 
 ## What's This Wiki?
 
 It has the links and up-to-date information you need, to participate as a project team member or as a community curator. Being a wiki enables rapid update cycles, changeable by everyone to improve it.
 
-## Post a Project 
+## Steps for Projects
 
-Here are steps to post a project.
+1. Post a proposal following [this template](https://github.com/oceanprotocol/oceandao/wiki/Grant-Proposal-Template), to [Ocean Discourse](https://port.oceanprotocol.com/c/oceandao/56).
+1. Answer questions in [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) and [OceanDAO Town Halls](OceanDAO-Town-Hall)
+1. Receive grant, if voted a winner.
+1. Do the project. Doing well here helps future funding requests.
 
-1. Fill out a proposal following [this template](https://github.com/oceanprotocol/oceandao/wiki/Grant-Proposal-Template)
-1. Post the proposal on [Ocean Discourse](https://port.oceanprotocol.com/c/oceandao/56)
+## Steps for Community Curators
 
-## Learn & Discuss
-
-Here are ways that you can learn about different projects
-- Chat at [OceanDAO Discord](https://discord.gg/uvyQFWGBn8)
-
-- Videochat at regular [OceanDAO Town Halls](OceanDAO-Town-Hall)
-
-## Vote
-
-- Vote with [Ocean Shapshot](https://vote.oceanprotocol.com/)
+1. Review projects at [Ocean Discourse](https://port.oceanprotocol.com/c/oceandao/56
+1. Ask questions in [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) and [OceanDAO Town Halls](OceanDAO-Town-Hall)
+1. Vote on projects to choose winners in [Ocean Shapshot](https://vote.oceanprotocol.com/)
