@@ -6,7 +6,7 @@
 🐬 **[Post Proposal](https://github.com/oceanprotocol/oceandao/wiki/Grant-Proposal-Template)**
 🐠 **[View Proposals (Port)](https://port.oceanprotocol.com/c/oceandao/)**
 🐙 **[Chat (Discord)](https://discord.com/channels/612953348487905282/776848812534398986)**
-🦈 **[Town Halls](https://github.com/oceanprotocol/oceandao/wiki/Home/OceanDAO-Town-Hall)**
+🦈 **[Town Halls](OceanDAO-Town-Hall)**
 🐋 **[Vote (Snapshot)](https://vote.oceanprotocol.com/)**
 🐚
 
@@ -44,7 +44,7 @@ Funds are dispersed within 24h of voting ending.
 
 ## Town Hall
 
-The **[Town Hall](https://github.com/oceanprotocol/oceandao/wiki/Home/OceanDAO-Town-Hall)** is a videochat among community members, open to all. It’s a great place to get to know the community. Here you can ask questions, share proposal feedback, and more.
+The **[Town Hall](OceanDAO-Town-Hall)** is a regular videochat gathering among community members, open to all. It’s a great place to get to know the community. Here you can ask questions, share proposal feedback, and more.
 
 The first Town Hall is Wednesday, Dec 2 at 16:00 GMT.
 
