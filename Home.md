@@ -42,6 +42,10 @@ Funds are dispersed within 24h of voting ending.
 1. Ask questions in [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) and [OceanDAO Town Halls](OceanDAO-Town-Hall)
 1. Vote on projects to choose winners in [Ocean Shapshot](https://vote.oceanprotocol.com/)
 
+## On OceanDAO Evolution ** 
+
+The best practices and technology around DAOs are still evolving. OceanDAO’s strategy is to “bake slowly” — to ratchet up value-at-risk over time, to give space to learn and for technology to improve. Accordingly, the amount of funds per Funding Round may vary, and OPF reserves the right to make changes in general. The aim is: if OceanDAO creates positive value, then the funds allocated to OceanDAO will go up.
+
 ## Further resources
 
 * "Introducing OceanDAO", Ocean blog, Nov 30, 2020 [link FIXME]
