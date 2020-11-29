@@ -21,7 +21,7 @@ OceanDAO offers grants curated by the broader community of OCEAN holders. It's k
 
 | **Funding Round**          | **Proposals Due By**      | **Voting Ends**           | **Amount**               |
 | --                         | --                        | --                        |  --                      |
-| [Round 1](Funding-Round-1) | Dec 14, 2020 at 23:59 GMT | Dec 21, 2020 at 23:59 GMT | 10K OCEAN x 5 recipients |
+| [Round 1](Funding-Round-1) | Dec 14, 2020 at 23:59 GMT | Dec 21, 2020 at 23:59 GMT | 10000 OCEAN x 5 recipients |
 | Round 2 (tentative)        | Feb 1, 2021 at 23:59 GMT  | Feb 4, 2021 at 23:59 GMT  | TBD                      |
 | Round 3 (tentative)        | Mar 1, 2021 at 23:59 GMT  | Mar 4, 2021 at 23:59 GMT  | ""                       |
 | Round 4 (tentative)        | Apr 1, 2021 at 23:59 GMT  | Apr 4, 2021 at 23:59 GMT  | ""                       |
