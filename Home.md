@@ -47,6 +47,7 @@ Funds are dispersed within 24h of voting ending.
 * "Introducing OceanDAO", Ocean blog, Nov 30, 2020 [link FIXME]
 * "The Web3 Sustainability Loop (OceanDAO context)", Ocean blog, Sep 1, 2020, [[link]](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e)
 
+
 ## What's This Wiki?
 
 It has the links and up-to-date information you need, to participate as a project team member or as a community curator. Being a wiki enables rapid update cycles, changeable by everyone to improve it.
