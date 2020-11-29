@@ -42,6 +42,12 @@ Funds are dispersed within 24h of voting ending.
 1. Ask questions in [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) and [OceanDAO Town Halls](OceanDAO-Town-Hall)
 1. Vote on projects to choose winners in [Ocean Shapshot](https://vote.oceanprotocol.com/)
 
+## Town Hall
+
+The **[Town Hall](https://github.com/oceanprotocol/oceandao/wiki/Home/OceanDAO-Town-Hall)** is a videochat among community members, open to all. It’s a great place to get to know the community. Here you can ask questions, share proposal feedback, and more.
+
+The first Town Hall is Wednesday, Dec 2 at 16:00 GMT.
+
 ## On OceanDAO Evolution
 
 The best practices and technology around DAOs are still evolving. OceanDAO’s strategy is to “bake slowly” — to ratchet up value-at-risk over time, to give space to learn and for technology to improve. Accordingly, the amount of funds per Funding Round may vary, and OPF reserves the right to make changes in general. The aim is: if OceanDAO creates positive value, then the funds allocated to OceanDAO will go up.
