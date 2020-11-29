@@ -1,15 +1,5 @@
 <img src="https://github.com/oceanprotocol/oceandao/blob/main/oceandao-logo-pink-white.png" width="70%">
 
-### 
-
-🐡 **QUICK LINKS:** 
-🐬 **[Post Proposal](https://github.com/oceanprotocol/oceandao/wiki/Grant-Proposal-Template)**
-🐠 **[View Proposals (Port)](https://port.oceanprotocol.com/c/oceandao/)**
-🐙 **[Chat (Discord)](https://discord.com/channels/612953348487905282/776848812534398986)**
-🦈 **[Town Halls](https://github.com/oceanprotocol/oceandao/wiki/Home/OceanDAO-Town-Hall)**
-🐋 **[Vote (Snapshot)](https://vote.oceanprotocol.com/)**
-🐚
-
 ## What's OceanDAO?
 
 OceanDAO offers grants curated by the broader community of OCEAN holders. It's key to growth and sustainability of the Ocean ecosystem. [(Details.)](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e)
