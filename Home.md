@@ -38,7 +38,7 @@ Funds are dispersed within 24h of voting ending.
 
 ## Steps for Community Curators
 
-1. Review projects at [Ocean Discourse](https://port.oceanprotocol.com/c/oceandao/56
+1. Review projects at [Ocean Discourse](https://port.oceanprotocol.com/c/oceandao/56)
 1. Ask questions in [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) and [OceanDAO Town Halls](OceanDAO-Town-Hall)
 1. Vote on projects to choose winners in [Ocean Shapshot](https://vote.oceanprotocol.com/)
 
