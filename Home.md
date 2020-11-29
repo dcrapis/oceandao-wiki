@@ -17,6 +17,16 @@ OceanDAO offers grants curated by the broader community of OCEAN holders. It's k
 - **For Projects:** Propose your project on Ocean Port (forum). Answer questions in Ocean Discord (chat). The community votes whether to fund your project.
 - **For Community Curators:** Learn about projects via Ocean Port or Ocean Discord. Then, vote on Ocean Snapshot. Any OCEAN holder can vote. Vote for the projects that you think will add the most value. The weight of your vote is based on your OCEAN holdings.
 
+## Funding Rounds
+
+| **Funding Round**          | **Proposals Due By**      | **Voting Ends**           | **Funds Dispersed** | **Amount**               |
+| --                         | --                        | --                        | --                  | --                       |
+| [Round 1](Funding-Round-1) | Dec 14, 2020 at 23:59 GMT | Dec 21, 2020 at 23:59 GMT | 24h after voting    | 10K OCEAN x 5 recipients |
+| Round 2 (tentative)        | Feb 1, 2021 at 23:59 GMT  | Feb 4, 2021 at 23:59 GMT  | ""                  | TBD                      |
+| Round 3 (tentative)        | Mar 1, 2021 at 23:59 GMT  | Mar 4, 2021 at 23:59 GMT  | ""                  | ""                       |
+| Round 4 (tentative)        | Apr 1, 2021 at 23:59 GMT  | Apr 4, 2021 at 23:59 GMT  | ""                  | ""                       |
+| ..                         | ..                        | ..                        | ..                  | ""                       |
+
 ## Steps for Projects
 
 1. Post a proposal following [this template](https://github.com/oceanprotocol/oceandao/wiki/Grant-Proposal-Template), to [Ocean Discourse](https://port.oceanprotocol.com/c/oceandao/56).
