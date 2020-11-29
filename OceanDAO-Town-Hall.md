@@ -1,6 +1,7 @@
 
-Dive in by joining the OceanDAO community Town Hall. Here you can ask any questions, share proposal feedback, and collaborate with OceanDAO in an open format.
+The Town Hall is a videochat among community members, open to all. It’s a great place to get to know the community. Here you can ask questions, share proposal feedback, and more.
 
-The 1st OceanDAO Town Hall is Wednesday, December 2nd at 4:00pm GMT!
+The first Town Hall is Wednesday, Dec 2 at 16:00 GMT.
+
 
 Join: [Town Hall #1](Town-Hall-%231)
