@@ -15,7 +15,7 @@ For more information visit the [OceanDAO Wiki](https://github.com/oceanprotocol/
 
 - Name of project: 
 - Team Website (if applicable): 
-- Proposal Wallet Address (*mandatory proposal requirement): 
+- Proposal Wallet Address (*mandatory): 
 - The proposal in one sentence: 
 - Which category best describes your project? Pick one or more.
   - [ ] Build / improve applications or integration to Ocean
