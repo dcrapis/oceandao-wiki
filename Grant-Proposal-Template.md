@@ -72,7 +72,8 @@ For each team member, give their name, role and background such as the following
   - **LinkedIn** https://linkedin.com/in/johndoe
   - **Dribble:** https://dribbble.com/johndoe
   - **Upwork:** https://upwork.com/o/profiles/users/~johndoe
-- **Background:** 
+  - **Other:**
+- **Background/Experience:** 
   - Co-founder at xxx
   - Lead developer at yyy 
   - Creator of xxx.js the official JavaScript library for xxx
