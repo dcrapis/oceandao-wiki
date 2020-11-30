@@ -68,9 +68,9 @@ For each team member, give their name, role and background such as the following
 **John Doe**
 - **Role:** developer, UX/UI designer
 - **relevant credentials**
-- ***GitHub:*** https://github.com/johndoe
-- ***LinkedIn*** https://linkedin.com/in/johndoe
-- ***Dribble:*** https://dribbble.com/johndoe
+  - **GitHub:** https://github.com/johndoe
+  - **LinkedIn** https://linkedin.com/in/johndoe
+  - **Dribble:** https://dribbble.com/johndoe
 - **Background:** 
   - Co-founder at xxx
   - Lead developer at yyy 
