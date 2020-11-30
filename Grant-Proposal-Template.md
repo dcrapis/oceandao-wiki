@@ -32,11 +32,11 @@ Instructions:
 
 ## Project Deliverables - Category
 
-IF: Build / improve applications or integration to Ocean, then: 
+<u>IF: Build / improve applications or integration to Ocean, then:</u>
 - App will be live, at: ____ (url or app store)
 - Software will be open-source with a permissive license at: github.com/___
 
-IF: Outreach / community, then (one or more of):
+,u>IF: Outreach / community, then (one or more of):</u>
 - __ (e.g. 3) blog posts will be published at: _____ (e.g. medium.com/____)
 - A video production will be published at: _____ (e.g. youtube.com/___)
 - __ (e.g. 3) podcasts will be published at: _____ (url)
