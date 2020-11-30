@@ -1,4 +1,4 @@
-<img src="https://github.com/oceanprotocol/oceandao/blob/main/oceandao-logo-pink-white.png" width="70%">
+<img src="https://github.com/oceanprotocol/oceandao/blob/main/oceandao-logo-animal.png" width="100%">
 
 ###
 
