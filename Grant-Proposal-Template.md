@@ -1,7 +1,7 @@
 # Instructions
 
 Instructions:
-1. Fill out the template below.
+1. Fill out the template <u>as applicable</u> below.
 2. Publish it as a pinned message on [OceanDAO Discourse](https://port.oceanprotocol.com/c/oceandao/56)
 
 ----
@@ -58,13 +58,17 @@ Instructions:
 - Please include the milestone: publish an article/tutorial explaining your project as part of the grant (eg medium, etc).
 - Please include the team's long-term plans and intentions.
 
-## Project Details - Software
+## Project Details
 
 If the project includes software:
 - Are there any mockups or designs to date? 
-- An overview of the technology stack?* 
+- An overview of the technology stack?
 
-### Team members
+If the project includes community engagement: 
+- Running the campaign on social media for how many weeks?
+- Etc
+
+## Team members
 For each team member, give their name, role and background such as the following.
 
 **John Doe**
