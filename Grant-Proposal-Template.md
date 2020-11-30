@@ -56,8 +56,8 @@ Instructions:
 - Any prior work completed thus far?
 - What is the project roadmap? That is: what are key milestones, and the target date for each milestone.
 - Please include the milestone: publish an article/tutorial explaining your project as part of the grant (eg medium, etc).
-- Please include the team's long-term plans and intentions:
-  - Maintenance?
+- Please include the team's future plans and intentions.
+  - Any maintenance?
   - Foreseen or possible additions?
 
 ## Project Details
