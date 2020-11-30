@@ -4,6 +4,8 @@ Instructions:
 1. Fill out the template <u>as applicable</u> below.
 2. Publish it on the [OceanDAO Discourse](https://port.oceanprotocol.com/c/oceandao/56) as a New Topic.
 
+For more information visit the [OceanDAO Wiki](https://github.com/oceanprotocol/oceandao/wiki).
+
 ----
 
 # Grant Proposal Template
