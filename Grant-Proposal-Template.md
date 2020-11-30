@@ -76,6 +76,6 @@ For each team member, give their name, role and background such as the following
   - Creator of xxx.js the official JavaScript library for xxx
 
 ## Additional Information
-Any additional information? For example: Any grants or fundraising to date?
+Any additional information or custom fields you would like to add? For example: Any grants or fundraising to date?
 
 
