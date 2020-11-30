@@ -14,6 +14,11 @@
 
 OceanDAO offers community grants curated by the broader community of OCEAN holders. It's key to growth and sustainability of the [Ocean Protocol](www.oceanprotocol.com) ecosystem. [(Details.)](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e)
 
+OceanDAO is a great way to get involved:
+- If you are looking for funding to build something, do outreach, or unlock data, then OceanDAO could be a fit. 
+- Or, if you’re an OCEAN holder and want to help steer the future of Ocean, you can make an impact by learning about and voting on project proposals.
+
+
 Funding is for projects of these types:
 - Build / improve applications or integrations to Ocean
 - Outreach / community (grants don't need to be technical in nature)
