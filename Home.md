@@ -32,7 +32,7 @@ Funds are dispersed within 24h of voting ending.
 ## Steps for Projects
 
 1. Post a proposal following [this template](https://github.com/oceanprotocol/oceandao/wiki/Grant-Proposal-Template), to [Ocean Discourse](https://port.oceanprotocol.com/c/oceandao/56).
-1. Answer questions in [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) and [OceanDAO Town Halls](OceanDAO-Town-Hall)
+1. Answer questions in [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) and [OceanDAO Town Halls](OceanDAO-Town-Hall).
 1. Receive grant, if voted a winner.
 1. Do the project. Doing well here helps future funding requests.
 
