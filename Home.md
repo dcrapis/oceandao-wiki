@@ -14,19 +14,30 @@
 
 OceanDAO offers community grants curated by the broader community of OCEAN holders. It's key to growth and sustainability of the [Ocean Protocol](www.oceanprotocol.com) ecosystem. [(Details.)](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e)
 
-- **For Projects:** Propose your project on Ocean Port (forum). Answer questions in Ocean Discord (chat). The community votes whether to fund your project.
-- **For Community Curators:** Learn about project proposals via Ocean Port or Ocean Discord. Then, vote on Ocean Snapshot. Any OCEAN holder can vote. Vote for the projects that you think will add the most value. The weight of your vote is based on your OCEAN holdings.
+OceanDAO funding is for projects of these types:
+- build/improve apps & integrations that leverage Ocean tech
+- outreach and communications
+- unleash data
+- improve core Ocean software
+
+Project criteria: (1) ROI towards growth (2) aligned with Ocean mission. Details are in the "Funding Round" page.
 
 ## Funding Rounds
 
-| **Funding Round**          | **Proposals Due By**      | **Voting Ends**           | **Amount**               |
-| --                         | --                        | --                        |  --                      |
-| [Round 1](Funding-Round-1) | Dec 14, 2020 at 23:59 GMT | Dec 21, 2020 at 23:59 GMT | 10000 OCEAN x 5 recipients |
-| Round 2 (tentative)        | Feb 1, 2021 at 23:59 GMT  | Feb 4, 2021 at 23:59 GMT  | TBD                      |
-| Round 3 (tentative)        | Mar 1, 2021 at 23:59 GMT  | Mar 4, 2021 at 23:59 GMT  | ""                       |
-| ..                         | ..                        | ..                        | ..                       |
+| **Funding Round**              | **Proposals Due By**      | **Voting Ends**           | **Amount**                 |
+| --                             | --                        | --                        |  --                        |
+| **[Round 1](Funding-Round-1)** | Dec 14, 2020 at 23:59 GMT | Dec 21, 2020 at 23:59 GMT | 10000 OCEAN x 5 recipients |
+| Round 2 (tentative)            | Feb 1, 2021 at 23:59 GMT  | Feb 4, 2021 at 23:59 GMT  | TBD                        |
+| Round 3 (tentative)            | Mar 1, 2021 at 23:59 GMT  | Mar 4, 2021 at 23:59 GMT  | ""                         |
+| ..                             | ..                        | ..                        | ..                         |
 
 Funds are dispersed within 24h of voting ending.
+
+## Steps - Summary
+
+- **For Projects:** Propose your project on Ocean Port (forum). Answer questions in Ocean Discord (chat). The community votes whether to fund your project.
+- **For Community Curators:** Learn about project proposals via Ocean Port or Ocean Discord. Then, vote on Ocean Snapshot. Any OCEAN holder can vote. Vote for the projects that you think will add the most value. The weight of your vote is based on your OCEAN holdings.
+
 
 ## Steps for Projects
 
