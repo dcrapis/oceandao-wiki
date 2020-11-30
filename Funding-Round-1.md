@@ -12,14 +12,8 @@ OceanDAO Funding Round 1 has these actions and dates:
   - Funds will be disbursed to grantees within 24 hours after voting ends.
 
 #  Project Proposals: Details
-OceanDAO funding is for projects of these types:
-- Build / improve applications or integrations to Ocean
-- Outreach / community (grants don't need to be technical in nature)
-- Unleash data
-- Build / improve core Ocean software
 
 Minimum Proposal Requirements:
-- Create a grant proposal, and submit it for feedback on the OceanDAO Discourse forum
 - Anyone can propose a project to OceanDAO. However, to be considered, you **must have at least 5,000 OCEAN** in the same Ethereum wallet as listed in your proposal by the time the proposal process ends (December 14th, 23:59 pm GMT). If selected for a grant, this will be the same wallet where you will receive your grant funding. This helps to filter towards people with a vested interest or “skin in the game” in OCEAN - that is, Ocean community members. Ocean Protocol team members will verify.
 
 Community members are highly encouraged to give feedback and comments on submitted proposals.
