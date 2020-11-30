@@ -20,7 +20,7 @@ Funding is for projects of these types:
 - Unleash data
 - Build / improve core Ocean software
 
-Project criteria: (1) ROI towards growth (2) aligned with Ocean mission. Details are in the "Funding Round" page.
+Project criteria: (1) ROI towards growth (2) aligned with Ocean mission. Details are in the page for a given funding round.
 
 ## Funding Rounds
 
