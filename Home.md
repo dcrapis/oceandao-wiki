@@ -35,8 +35,8 @@ Funds are dispersed within 24h of voting ending.
 
 ## Steps - Summary
 
-- **For Projects:** Propose your project on Ocean Port (forum). Answer questions in Ocean Discord (chat). The community votes whether to fund your project.
-- **For Community Curators:** Learn about project proposals via Ocean Port or Ocean Discord. Then, vote on Ocean Snapshot. Any OCEAN holder can vote. Vote for the projects that you think will add the most value. The weight of your vote is based on your OCEAN holdings.
+- **For Projects:** Submit your project proposal. Answer community questions. The community votes whether to fund your project.
+- **For Community Curators:** Learn about project proposals. Then, vote. Any OCEAN holder can vote. Vote for the projects that you think will add the most value. The weight of your vote is based on your OCEAN holdings.
 
 
 ## Steps for Projects
