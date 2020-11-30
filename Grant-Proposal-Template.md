@@ -1,8 +1,9 @@
 # Instructions
 
 Instructions:
-1. Fill out the template <u>as applicable</u> below.
-2. Publish it on the [OceanDAO Discourse](https://port.oceanprotocol.com/c/oceandao/56) as a New Topic.
+1. Read the OceanDAO Blog post:
+2. Fill out the template <u>as applicable</u> below.
+3. Publish it on the [OceanDAO Discourse](https://port.oceanprotocol.com/c/oceandao/56) as a New Topic.
 
 For more information visit the [OceanDAO Wiki](https://github.com/oceanprotocol/oceandao/wiki).
 
@@ -14,7 +15,7 @@ For more information visit the [OceanDAO Wiki](https://github.com/oceanprotocol/
 
 - Name of project: 
 - Team Website (if applicable): 
-- Proposal Wallet Address: 
+- Proposal Wallet Address (*mandatory proposal requirement): 
 - The proposal in one sentence: 
 - Which category best describes your project? Pick one or more.
   - [ ] Build / improve applications or integration to Ocean
