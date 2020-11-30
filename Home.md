@@ -64,6 +64,7 @@ The best practices and technology around DAOs are still evolving. OceanDAO’s s
 
 ## Further resources
 
+* **[FAQ](FAQ)**
 * "Introducing OceanDAO", Ocean blog, Nov 30, 2020 [link FIXME]
 * "The Web3 Sustainability Loop (OceanDAO context)", Ocean blog, Sep 1, 2020, [[link]](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e)
 
