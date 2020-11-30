@@ -16,7 +16,7 @@ Instructions:
 - The proposal in one sentence: 
 - Which category best describes your project? Pick one or more.
   - [ ] Build / improve applications or integration to Ocean
-  - [ ] Outreach / community (grants don't need to be technical in nature:)
+  - [ ] Outreach / community (grants don't need to be technical in nature)
   - [ ] Unleash data
   - [ ] Build / improve core Ocean software
 
