@@ -1,7 +1,7 @@
 # Instructions
 
 Instructions:
-1. Read the OceanDAO Blog post:
+1. Read the OceanDAO Blog post.
 2. Fill out the template <u>as applicable</u> below.
 3. Publish it on the [OceanDAO Discourse](https://port.oceanprotocol.com/c/oceandao/56) as a New Topic.
 
