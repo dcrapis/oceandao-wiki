@@ -18,7 +18,7 @@ For more information visit the [OceanDAO Wiki](https://github.com/oceanprotocol/
 - Proposal Wallet Address (*mandatory): 
 - The proposal in one sentence: 
 - Which category best describes your project? Pick one or more.
-  - [ ] Build / improve applications or integration to Ocean
+  - [ ] Build / improve applications or integrations to Ocean
   - [ ] Outreach / community (grants don't need to be technical in nature)
   - [ ] Unleash data
   - [ ] Build / improve core Ocean software
