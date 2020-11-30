@@ -66,7 +66,7 @@ If the project includes software:
 
 If the project includes community engagement: 
 - Running the campaign on social media for how many weeks?
-- Etc
+- Other?
 
 ## Team members
 For each team member, give their name, role and background such as the following.
