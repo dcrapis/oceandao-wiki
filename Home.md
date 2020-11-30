@@ -14,11 +14,11 @@
 
 OceanDAO offers community grants curated by the broader community of OCEAN holders. It's key to growth and sustainability of the [Ocean Protocol](www.oceanprotocol.com) ecosystem. [(Details.)](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e)
 
-OceanDAO funding is for projects of these types:
-- build/improve apps & integrations that leverage Ocean tech
-- outreach and communications
-- unleash data
-- improve core Ocean software
+Funding is for projects of these types:
+- Build / improve applications or integrations to Ocean
+- Outreach / community (grants don't need to be technical in nature)
+- Unleash data
+- Build / improve core Ocean software
 
 Project criteria: (1) ROI towards growth (2) aligned with Ocean mission. Details are in the "Funding Round" page.
 
