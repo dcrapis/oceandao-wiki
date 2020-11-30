@@ -36,16 +36,16 @@ Instructions:
 - App will be live, at: ____ (url or app store)
 - Software will be open-source with a permissive license at: github.com/___
 
-,u>IF: Outreach / community, then (one or more of):</u>
+<u>IF: Outreach / community, then (one or more of):</u>
 - __ (e.g. 3) blog posts will be published at: _____ (e.g. medium.com/____)
 - A video production will be published at: _____ (e.g. youtube.com/___)
 - __ (e.g. 3) podcasts will be published at: _____ (url)
 - (or other! Surprise us, delight us:)
 
-IF: Unleash data , then:
+<u>IF: Unleash data , then:</u>
 - Data will be made available on Ocean Market (or _____ market)
 
-IF: Build / improve Ocean core software, then:
+<u>IF: Build / improve Ocean core software, then:</u>
 - A PR will be made to these Ocean components: _______, following best practices for quality etc
 - I commit to working with Ocean core developers to merging the PR
 
