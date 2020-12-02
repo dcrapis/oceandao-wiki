@@ -1,6 +1,6 @@
 ### Frequently Asked Questions
 
-- Q: Is voting from exchanges possible?
+- Q: Is voting from exchanges or with OCEAN currently liquidity on Ocean Market possible?
 - A: No. Make sure to have an OCEAN balance in a non-custodial wallet before voting opens on Dec 15. 
 
 ###
@@ -25,7 +25,7 @@
 ###
 
 - Q: Why not [quadratic funding](https://github.com/gitcoinco/quadratic-funding)? [Quadratic voting](https://en.wikipedia.org/wiki/Quadratic_voting)? [Conviction voting](https://medium.com/giveth/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-aa746cfb9475)? [Futarchy](https://twitter.com/gnosisPM/status/1330906217007509507)? …?
-- A: These are all great ideas. Currently we constrain ourselves to using readily-available tooling with a minimum of experimentation needed. None of the ideas listed fit that criteria. However as DAO tooling improves, we hope to be able to try out new ideas.
+- A: These are all great ideas. Currently we constrain ourselves to using readily-available tooling with a minimum of experimentation needed. None of the ideas listed fit that criteria. However as DAO tooling improves, we hope to be able to try out new ideas. For now, 1 OCEAN = 1 vote.
 
 ###
 
@@ -36,3 +36,16 @@
   - For changes to the datatokens contracts: there is virtually nothing to change since they’re so simple. Basically just ERC20.
   - For changes to the pool contracts, fork it, change it, and deploy as your own version. We *want* more types of pools in Ocean.
 
+###
+
+- Q: More OCEAN tokens are in circulation via the grant rewards. Does this really bring more value to the Ocean ecosystem? What are the benefits of OceanDAO?
+- A: OceanDAO is a grants DAO with the purpose of growing the overall value of Ocean Protocol. Investing in the Ocean ecosystem is a critical aspect of this goal. See [The Web3 Sustainability Loop](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e) for more details.
+
+###
+
+- Q: The OPF has Ocean tokens, will they use them to vote for proposals? Will it then be a centralized system where the OPF chooses what will get funded?
+- A: No. The OPF and BigchainDB will not be voting.
+
+###
+
+- Ask further questions on [OceanDAO Discord](https://discord.gg/uvyQFWGBn8)
