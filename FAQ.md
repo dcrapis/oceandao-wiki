@@ -46,6 +46,6 @@
 - Q: The OPF has Ocean tokens, will they use them to vote for proposals? Will it then be a centralized system where the OPF chooses what will get funded?
 - A: No. The OPF and BigchainDB will not be voting.
 
-###
+----
 
 - Ask further questions on [OceanDAO Discord](https://discord.gg/uvyQFWGBn8)
