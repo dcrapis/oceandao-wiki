@@ -40,7 +40,7 @@ Funds are dispersed within 24h of voting ending.
 Here are steps for a given funding round.
 
 - **For Projects:** Submit your project proposal. Answer community questions. The community votes whether to fund your project.
-- **For Community Curators:** Learn about project proposals. Then, vote. Any OCEAN holder can vote. Vote for the projects that you think will add the most value. The weight of your vote is based on your OCEAN holdings. Also, if you have a proposal idea but cannot create it yourself, submit a “Request for Proposal” idea [in this thread](https://port.oceanprotocol.com/t/oceandao-request-for-proposal/268) for someone else in the OceanDAO community.
+- **For Community Curators:** Learn about project proposals. Then, vote. Any OCEAN holder can vote. Vote for the projects that you think will add the most value. The weight of your vote is based on your OCEAN holdings. Also, if you have a proposal idea but cannot create it yourself, you can submit a “Request for Proposal” idea [in this thread](https://port.oceanprotocol.com/t/oceandao-request-for-proposal/268) for someone else in the OceanDAO community.
 
 
 ### Steps for Projects - Details
