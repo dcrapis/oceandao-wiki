@@ -6,9 +6,13 @@ OceanDAO Town Hall 1 is Wednesday, December 2nd at 4:00pm GMT
 
 ## Agenda
 
+<li>
+
 00:00 - 00:05 : Introduction
 00:05 - 00:20 : Overview of the OceanDAO Process
 00:20 - 01:00 : Open Q&A
+
+</li>
  
 ## Calendar
 
