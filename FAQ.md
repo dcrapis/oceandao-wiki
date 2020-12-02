@@ -48,4 +48,4 @@
 
 ----
 
-Ask further questions on [OceanDAO Discord](https://discord.gg/uvyQFWGBn8)
+Ask further questions on [OceanDAO Discord](https://discord.gg/uvyQFWGBn8).
