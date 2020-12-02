@@ -12,7 +12,7 @@ OceanDAO Town Hall 1 is Wednesday, December 2nd at 4:00pm GMT
  
 ## Calendar
 
-(**Timezone Shown in UTC 00:00**)
+**Timezone Shown in UTC 00:00**:
 
 https://calendar.google.com/calendar/embed?src=led33k5e9p353746vvdtplccddf06m0q%40import.calendar.google.com
 
