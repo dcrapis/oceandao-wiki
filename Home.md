@@ -12,7 +12,7 @@
 
 ## What's OceanDAO?
 
-OceanDAO offers community grants curated by the broader community of OCEAN holders. It's key to growth and sustainability of the [Ocean Protocol}(https://www.oceanprotocol.com) ecosystem. [(Details.)](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e)
+OceanDAO offers community grants curated by the broader community of OCEAN holders. It's key to growth and sustainability of the [Ocean Protocol](https://www.oceanprotocol.com) ecosystem. [(Details.)](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e)
 
 OceanDAO is a great way to get involved, by doing a project or by voting in OCEAN to help steer the future of the ecosystem.
 
