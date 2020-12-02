@@ -1,6 +1,6 @@
 ### Frequently Asked Questions
 
-- Q: Is voting from exchanges or with OCEAN currently liquidity on Ocean Market possible?
+- Q: Is voting from exchanges or with OCEAN currently provided as liquidity on Ocean Market possible?
 - A: No. Make sure to have an OCEAN balance in a non-custodial wallet before voting opens on Dec 15. 
 
 ###
