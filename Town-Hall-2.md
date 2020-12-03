@@ -7,7 +7,7 @@ OceanDAO Town Hall 2 is Wednesday, December 9th at 4:00pm GMT
 ## Agenda
 
 <li>00:00 - 00:05 : Introduction</li>
-<li>00:05 - 00:15 : OceanDAO Traction</li>
+<li>00:05 - 00:20 : OceanDAO Traction</li>
 <li>00:15 - 01:00 : Open Q&A</li>
  
 ## Calendar
