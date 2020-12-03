@@ -4,7 +4,6 @@ OceanDAO Town Hall 1 is Wednesday, December 2nd at 4:00pm GMT
 
 If you missed the Town Hall here is the recording:
 
-Topic: OceanDAO Town Hall 
 Meeting Recording:
 https://us02web.zoom.us/rec/share/I8f0QCvSKIPm4LgflspFQZ3t97YIs4_eevK_5etc7wDJp3qkMiNO97p8eyhyRO_-.ZrnnbN5J1lwy99SF
 
