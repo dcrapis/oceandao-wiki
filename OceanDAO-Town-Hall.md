@@ -3,7 +3,7 @@ The Town Hall is a videochat among community members, open to all. It’s a grea
 
 **Town hall events:**
 * [Town Hall 1](Town-Hall-1) - Wed Dec 2, 2020 at 16:00 GMT.
-* (more to come)
+* [Town Hall 2](https://github.com/oceanprotocol/oceandao/wiki/Town-Hall-2) - Wed Dec 9, 2020 at 16:00 GMT.
 
 ###
 
