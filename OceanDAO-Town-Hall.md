@@ -8,6 +8,7 @@ Previous:
 
 Upcoming:
 * [Town Hall 2](https://github.com/oceanprotocol/oceandao/wiki/Town-Hall-2) - Wed Dec 9, 2020 at 16:00 GMT.
+* [Town Hall 3](https://github.com/oceanprotocol/oceandao/wiki/Town-Hall-3) - Wed Dec 16, 2020 at 16:00 GMT.
 
 ###
 
