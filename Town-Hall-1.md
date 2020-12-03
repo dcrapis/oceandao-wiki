@@ -1,6 +1,6 @@
 OceanDAO Town Hall 1 is Wednesday, December 2nd at 4:00pm GMT
 
-## Recoding
+## Recording
 
 If you missed the Town Hall here is the recording:
 
