@@ -46,7 +46,7 @@ So how do we arrive at these values? Two are straightforward.
 
 ## What's a good metric for "bang"?
 
-Recall that *buck* is "value added to the Ocean ecosystem." Let's discuss ways to measure it, in the context of your proposed project. 
+Recall that *bang* is "value added to the Ocean ecosystem." Let's discuss ways to measure it, in the context of your proposed project. 
 
 Put another way: what metric might your project optimize, towards helping grow the Ocean ecosystem (in a sustainable fashion)?
 
