@@ -70,17 +70,19 @@ We also welcome proposals that help OceanDAO itself. Here are some metrics of in
 * Number of teams building on Ocean, doing outreach, or unlocking data
 * $ proposed in OceanDAO (per round), and ($ proposed / $funded). The first metric gauges interest overall. The second metric shows how efficiently the capital is allocated and whether too many good proposals are left behind (too low = poor allocation; too high = too many left behind). Ideally we measure the ROI of OceanDAO funding even more directly; if you have a way, please propose it:)
 
-### Timescales?
+## Timescales
 
 * Q: What's a timescale for the metric to optimize across?
 * A: It's up to you. If you plan to come back for a future grant, then the ideal is that you've showed ROI > 1.0 before you ask for more funds. This might be hard; therefore if you can show sufficient growth such that it will have paid off in 6 or 12 months, that's alright too. 
 
-### Your Proposal and ROI // Worked Example
+## Your Proposal and ROI 
 
 * Q: Let's say you've chosen your metric. How do you write it into your proposal towards expected ROI? There's a thorn here: *buck* is denominated in OCEAN, but *bang* (one of the metrics above) might not be. 
 * A: The trick is to convert it to OCEAN with some logic -- logic that you hope voters will find reasonable. The worked example below illustrates...
 
-**Worked Example.** In your project, you propose to reach out to your network to find lots of data publisher & buyers. You know that this will drive up the metrics of "$ Datatoken Consuming Volume" and also "Total Value Locked". Project length: 1 month.
+## Worked Example.
+
+In your project, you propose to reach out to your network to find lots of data publisher & buyers. You know that this will drive up the metrics of "$ Datatoken Consuming Volume" and also "Total Value Locked". Project length: 1 month.
 
  * You believe you can get 20 data buyers (and the data buyers to sell the data that the buyers want). Each buyer does 10K OCEAN / week (40K OCEAN / month) of consume volume on Ocean Market. This is a total of 800K OCEAN / month consume volume. It's a recurring volume for future months.
 
