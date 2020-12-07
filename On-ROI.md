@@ -15,7 +15,9 @@ This page elaborates further.
 
 ## What is "Expected ROI"?
 
-### Expected ROI = bang / buck * (% chance of success)
+It follows this equation:
+
+#### expected ROI = bang / buck * (% chance of success)
 Where 
 * *bang* = value added to the Ocean ecosystem 
 * *buck* = grant value spent
