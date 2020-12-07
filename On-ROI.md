@@ -5,11 +5,11 @@ ROI = Return On Investment.
 **(Expected) ROI towards growth** is a key criterion in OceanDAO, in line with Ocean's [Web3 Sustainability Loop](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e). 
 
 Accordingly:
-- If you're making a project proposal, you should describe how it helps ROI
-- If you're voting, you should be evaluating in terms of expected ROI
+* If you're making a project proposal, you should describe how it helps ROI. There's a worked example below.
+* If you're voting, you should be evaluating in terms of expected ROI
 
 Punchline: 
-- **Projects that aim to increase "$ datatoken consuming volume" (denominated in OCEAN) will tend to be favored.**
+* Projects that aim to increase "total OCEAN of data consumed", "network revenue" and "total OCEAN locked" will tend to be favored.
 
 This page elaborates further.
 
@@ -31,9 +31,9 @@ Motivation: We want a “snowball effect” for ecosystem growth, where more fun
 
 Expected ROI can be lower for lower-risk projects, and needs to be higher for higher-risk projects. It has similarity to the traditional VC thought process.
 
-From an ecosystem perspective, if a project gets funding from outside the ecosystem, then it counts towards the value-add number, not to the value-spent number. This incentivizes projects to seek external funding, such as matching investments or quadratic funding.
+From an ecosystem perspective, if a project gets funding from outside the ecosystem, then it counts towards the value-add number, not to the value-spent number. Therefore as a project proposer, you're incentivized to get funding elsewhere too, e.g. from grants or investment, since it helps your expected ROI number. Projects that aren't working on core software should aim for their own self-sustainability over time.
 
-Value can only be added to an ecosystem if the core product being built (by core devs) has last-mile apps for users (by app devs), which users can discover and find useful (go-to-market work). It’s a chain going from core product → dapps → discovery & usage → actual value add.
+For projects building apps:  Value can only be added to an ecosystem if the core product being built (by core devs) has last-mile apps for users (by app devs), which users can discover and find useful (go-to-market work). It’s a chain going from core product → dapps → discovery & usage → actual value add.
 
 ## How to Measure "Expected ROI"
 
@@ -43,17 +43,21 @@ So how do we arrive at these values? Two are straightforward.
  * *% chance of success* is, for now, simply an estimate by the project proposer (if you're the proposer) or by the voter (if you're the voter). It could potentially use futarchy at some point, but let's not get ahead of ourselves!
  * *buck* is the grant value spent. This is denominated in OCEAN.
 
-Recall that *buck* is "value added to the Ocean ecosystem." This is trickier. So we dedicate a whole section to it...
+*Buck* is trickier, so we dedicate a whole section to it...
 
-## What's a good metric for buck?
+## What's a good metric for "bang"?
 
-* A first proposed metric for *buck* is "effect on the value of $OCEAN". However, $OCEAN is a function of both speculation-based and fundamentals-based factors.  Speculation-based factors are harder to pin down as metrics, yet have a significant impact on $OCEAN. This means it's harder to measure the effect of a project on $OCEAN.
+Recall that *buck* is "value added to the Ocean ecosystem." Let's discuss ways to measure it, in the context of your proposed project. 
+
+Put another way: what metric might your project optimize, towards helping grow the Ocean ecosystem (in a sustainable fashion)?
+
+* A first proposed metric for *bang* is "effect on the value of $OCEAN". However, $OCEAN is a function of both speculation-based and fundamentals-based factors.  Speculation-based factors are harder to pin down as metrics, yet have a significant impact on $OCEAN. This means it's harder to measure the effect of a project on $OCEAN.
 * Better: let's focus on fundamentals-based factors on $OCEAN or demand for OCEAN, which have clearer metrics. Eventually these will dominate $OCEAN. And in the meantime we will focus on growing the fundamental value and associated metrics.
 
-**Here are some of the most important fundamentals-based metrics. For estimates of ROI above, any of these will be suitable for use for the "bang" section.** (When we say "$" we mean denominated in OCEAN.)
-* **$ Datatoken Consuming Volume.** This is (datatoken price in OCEAN) * (no. consumes of that datatoken), summed across all datatokens. It's the best direct measure of amount of value being created in Ocean Protocol. 
-* **Network Revenue.** This is the total $ revenue to Ocean community taken as a % of trades or consumes in Ocean Market, etc. We can compute a fundamental valuation by simply multiplying Network Revenue by P/S (price-to-sales ratio) of e.g. 30x or 50x (ref Binance or Zoom P/S figures).   
-* **Total Value Locked (TVL)**, aka Assets Under Management (AUM). This is total $ staked in datatoken pools, or more generally. Demand for staking OCEAN drives demand for OCEAN and therefore $OCEAN. 
+**Here are some of the most important fundamentals-based metrics. For estimates of ROI above, any of these will be suitable for use for the "bang" section.** 
+* **OCEAN Datatoken Consuming Volume.** This is (datatoken price in OCEAN) * (no. consumes of that datatoken), summed across all datatokens. It's the best direct measure of amount of value being created in Ocean Protocol. 
+* **Network Revenue.** This is the total OCEAN revenue to Ocean community taken as a % of trades or consumes in Ocean Market, etc. We can compute a fundamental valuation by simply multiplying Network Revenue by P/S (price-to-sales ratio) of e.g. 30x or 50x (ref Binance or Zoom P/S figures).   
+* **Total Value Locked (TVL)**, aka Assets Under Management (AUM). This is total OCEAN staked in datatoken pools, or more generally. Demand for staking OCEAN drives demand for OCEAN and therefore drives $OCEAN. 
 
 Here are some secondary metrics that may be useful. 
 * Total revenue to all Ocean marketplace runners
@@ -66,7 +70,30 @@ We also welcome proposals that help OceanDAO itself. Here are some metrics of in
 * Number of teams building on Ocean, doing outreach, or unlocking data
 * $ proposed in OceanDAO (per round), and ($ proposed / $funded). The first metric gauges interest overall. The second metric shows how efficiently the capital is allocated and whether too many good proposals are left behind (too low = poor allocation; too high = too many left behind). Ideally we measure the ROI of OceanDAO funding even more directly; if you have a way, please propose it:)
 
-Takeaways:
-* Projects that aim to increase "total $ of data consumed" will tend to be favored.
-* Other metrics are also of interest
+* Q: What's a timescale for the metric to optimize across?
+* A: It's up to you. If you plan to come back for a future grant, then the ideal is that you've showed ROI > 1.0 before you ask for more funds. This might be hard; therefore if you can show sufficient growth such that it will have paid off in 6 or 12 months, that's alright too. 
+
+* Q: Let's say you've chosen your metric. How do you write it into your proposal towards expected ROI? There's a thorn here: *buck* is denominated in OCEAN, but *bang* (one of the metrics above) might not be. 
+* A: The trick is to convert it to OCEAN with some logic -- logic that you hope voters will find reasonable. The worked example below illustrates.
+
+## Worked Example
+
+Let's do a worked example.
+
+In your project, you propose to reach out to your network to find lots of data publisher & buyers. You know that this will drive up the metrics of "$ Datatoken Consuming Volume" and also "Total Value Locked". Project length: 1 month.
+
+ * You believe you can get 20 data buyers (and the data buyers to sell the data that the buyers want). Each buyer does 10K OCEAN / week (40K OCEAN / month) of consume volume on Ocean Market. This is a total of 800K OCEAN / month consume volume. It's a recurring volume for future months.
+
+ * Ocean Community gets 0.2% of consume volume. 0.2% * 800K / month * 12 months = approx 20K OCEAN = 20K OCEAN.
+ * So *bang* = 20K OCEAN. 
+ * Grant size = *buck* = 10K OCEAN
+ * So *ROI* = *bang / buck* = 20K OCEAN / 10K OCEAN = 2.0. 
+ * Proposer's estimate of *% chance of success* = 75%
+ * Final: **expected ROI = 0.75 * 2.0 = 1.5**
+
+The expected ROI comes out nicely above 1.0. It's looks like a promising project! However the proposer's estimate of *% chance of success* may be too optimistic. 
+* As a voter, you should judge this. If the *% chance success* is just 50%, then expected ROI is just break-even.
+* As a proposer, you should describe your proposal to maximize the voter's confidence in you and your project. The best way is: show a track record of successful projects, especially similar ones. Convince the voter! :) And remember, if you don't pull it off, it will be difficult to come back for funds in future rounds.
+
+(We could also estimate ROI based the new publishers needing to buy OCEAN liquidity. But the approach above makes fewer assumptions.)
 
