@@ -22,7 +22,9 @@ Funding is for projects of these types:
 - Unleash data
 - Build / improve core Ocean software
 
-Project criteria: (1) ROI towards growth (2) aligned with Ocean mission. Details are in the page for a given funding round.
+[Here](Proposal-Ideas) are example proposals.
+
+Project criteria: (1) [ROI](On-ROI) towards growth (2) aligned with Ocean mission. Details on criteria are in the page for a given funding round.
 
 ## Funding Rounds
 
@@ -60,11 +62,10 @@ Here are steps for a given funding round.
 
 **[OceanDAO Town Hall](OceanDAO-Town-Hall)** is a regular videochat gathering among community members, open to all. It’s a great place to get to know the community. Here you can ask questions, share proposal feedback, and more.
 
-- The first Town Hall is Wednesday, Dec 2 at 16:00 GMT.
-
-- The second Town Hall is Wednesday, Dec 9 at 16:00 GMT.
-
-- The third Town Hall is Wednesday, Dec 16 at 16:00 GMT.
+Town hall dates:
+1. Wed Dec 2, 2020 at 16:00 GMT
+1. Wed Dec 9, 2020 at 16:00 GMT
+1. Wed Dec 16, 2020 at 16:00 GMT
 
 ## On OceanDAO Evolution
 
@@ -72,7 +73,9 @@ The best practices and technology around DAOs are still evolving. OceanDAO’s s
 
 ## Further resources
 
-* **[FAQ](FAQ)**
+* **[FAQ](FAQ)** - Frequently Asked Questions
+* **[Proposal Ideas](Proposal-Ideas)** - Holds many proposal ideas, including ones by the Ocean core team
+* **[On ROI](On-ROI)** - Return on Investment (ROI) is a key criterion. Here's some ways to think about it.
 * "Introducing OceanDAO", Ocean blog, Nov 30, 2020 [[link]](https://blog.oceanprotocol.com/introducing-oceandao-efe9ed681b84)
 * "The Web3 Sustainability Loop (OceanDAO context)", Ocean blog, Sep 1, 2020, [[link]](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e)
 
