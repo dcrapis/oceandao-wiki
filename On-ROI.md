@@ -70,8 +70,12 @@ We also welcome proposals that help OceanDAO itself. Here are some metrics of in
 * Number of teams building on Ocean, doing outreach, or unlocking data
 * $ proposed in OceanDAO (per round), and ($ proposed / $funded). The first metric gauges interest overall. The second metric shows how efficiently the capital is allocated and whether too many good proposals are left behind (too low = poor allocation; too high = too many left behind). Ideally we measure the ROI of OceanDAO funding even more directly; if you have a way, please propose it:)
 
+###
+
 * Q: What's a timescale for the metric to optimize across?
 * A: It's up to you. If you plan to come back for a future grant, then the ideal is that you've showed ROI > 1.0 before you ask for more funds. This might be hard; therefore if you can show sufficient growth such that it will have paid off in 6 or 12 months, that's alright too. 
+
+###
 
 * Q: Let's say you've chosen your metric. How do you write it into your proposal towards expected ROI? There's a thorn here: *buck* is denominated in OCEAN, but *bang* (one of the metrics above) might not be. 
 * A: The trick is to convert it to OCEAN with some logic -- logic that you hope voters will find reasonable. The worked example below illustrates.
