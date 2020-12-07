@@ -2,16 +2,18 @@
 
 ROI = Return On Investment.
 
-"(Expected) ROI towards growth" is a key criterion in OceanDAO. Accordingly:
+"(Expected) ROI towards growth" is a key criterion in OceanDAO, in line with Ocean's [Web3 Sustainability Loop](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e. 
+
+Accordingly:
 - If you're making a project proposal, you should describe how it helps ROI
 - If you're voting, you should be evaluating in terms of expected ROI
 
-Summary: 
-- Projects that aim to increase "$ datatoken consuming volume" (denominated in OCEAN) will tend to be favored.
+Punchline: 
+- **Projects that aim to increase "$ datatoken consuming volume" (denominated in OCEAN) will tend to be favored.**
 
 This page elaborates further.
 
-## Why "Expected ROI"?
+## What is "Expected ROI"?
 
 ### Expected ROI = bang / buck * (% chance of success)
 Where 
@@ -21,6 +23,8 @@ Where
 
 **On average, value added to the Ocean ecosystem must exceed the grant value spent.** That is, the average “return on investment” (ROI) must be > 1.0. Value added by a project is hard to know in advance. Some will fail; others will succeed and bring 10x value. But this must hold true on average across projects.
 
+## Why "Expected ROI"?
+
 Motivation: We want a “snowball effect” for ecosystem growth, where more funds granted leads to more funds available for grants in the future. This will happen with more network revenue or a rise in OCEAN.
 
 Expected ROI can be lower for lower-risk projects, and needs to be higher for higher-risk projects. It has similarity to the traditional VC thought process.
@@ -28,7 +32,6 @@ Expected ROI can be lower for lower-risk projects, and needs to be higher for hi
 From an ecosystem perspective, if a project gets funding from outside the ecosystem, then it counts towards the value-add number, not to the value-spent number. This incentivizes projects to seek external funding, such as matching investments or quadratic funding.
 
 Value can only be added to an ecosystem if the core product being built (by core devs) has last-mile apps for users (by app devs), which users can discover and find useful (go-to-market work). It’s a chain going from core product → dapps → discovery & usage → actual value add.
-
 
 ## How to Measure "Expected ROI"
 
@@ -50,31 +53,18 @@ Here are some of the most important fundamentals-based metrics. When we say "$" 
 * **Network Revenue.** This is the total $ revenue to Ocean community taken as a % of trades or consumes in Ocean Market, etc. We can compute a fundamental valuation by simply multiplying Network Revenue by P/S (price-to-sales ratio) of e.g. 30x or 50x (ref Binance or Zoom P/S figures).   
 * **Total Value Locked (TVL)**, aka Assets Under Management (AUM). This is total $ staked in datatoken pools, or more generally. Demand for staking OCEAN drives demand for OCEAN and therefore $OCEAN. 
 
-Here are some other interesting metrics that might be used as secondary metrics. 
-* $ Datatoken Trading Volume. This is the sum of all purchases to buy datatokens, whether for speculation or for consume.
-* Percent Consume Volume = ($ datatoken consuming volume) / ($ datatoken trading volume). What % of volume was for consuming data, versus for speculation. Speculation is ok, it helps for healthy markets! But too much speculation without consume is an indicator that the asset is overpriced for would-be consumers. Reference: in 2019 ETH had $0.7B consume volume (gas fees) and about $7B * 365 = $2.5T "trading volume, for a ratio of 0.7/2500 = 1/3500. That's healty. A ratio < 1/10000 would be unhealthy.
+Here are some secondary metrics that may be useful. 
 * Total revenue to all Ocean marketplace runners
-* Total # datatoken contracts
-* APY for Ocean Market stakers (measure after-the-fact, vs “forcing” it)
-* # WAUs in Ocean Market or all markets
+* Total number of datatoken contracts
+* APY for Ocean Market stakers 
+* Number of weekly active users (WAUs) in Ocean Market or all markets
 * Retention %, aka churn
 
 We also welcome proposals that help OceanDAO itself. Here are some metrics of interest:
-* $ proposed in OceanDAO (per round); $ proposed; $ proposed / funded
-* # teams building on Ocean
-* average ROI from OceanDAO funding (ideal, But hard to measure.)
+* # teams building on Ocean, doing outreach, or unlocking data
+* $ proposed in OceanDAO (per round), and ($ proposed / $funded). The first metric gauges interest overall. The second metric shows how efficiently the capital is allocated and whether too many good proposals are left behind (too low = poor allocation; too high = too many left behind). Ideally we measure the ROI of OceanDAO funding even more directly; if you have a way, please propose it:)
 
-
-- Projects that aim to increase "total $ of data consumed" will tend to be favored.
-
- But we want to hang our hat on the most pragmatic things possible, where "value added" can actually take on a few definitions.
-
- * Does it drive speculative value?
- * Does it drive fundamental value?
-
-Going back to the [Web3 Sustainability Loop](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e), 
-
-
-* Could it impact OCEAN directly?
-
+Takeaways:
+* Projects that aim to increase "total $ of data consumed" will tend to be favored.
+* Other metrics are also of interest
 
