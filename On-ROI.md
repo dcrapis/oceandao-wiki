@@ -37,10 +37,7 @@ Value can only be added to an ecosystem if the core product being built (by core
 
 ## How to Measure "Expected ROI"
 
-The equation is *Expected ROI = bang / buck * (% chance of success)*, where:
-* *bang* = value added to the Ocean ecosystem 
-* *buck* = grant value spent
-* *% chance of success* 
+Recall the equation: *Expected ROI = bang / buck * (% chance of success)*, where *bang* = "value added to the Ocean ecosystem" and *buck* = "grant value spent".
 
 So how do we arrive at these values? Two of these are easy.
  * *% chance of success* is, for now, simply an estimate by the project proposer (if you're the proposer) or by the voter (if you're the voter). It could potentially use futarchy at some point, but let's not get ahead of ourselves!
