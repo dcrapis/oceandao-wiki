@@ -42,7 +42,7 @@ So how do we arrive at these values? Two are straightforward.
  * *% chance of success* is, for now, simply an estimate by the project proposer (if you're the proposer) or by the voter (if you're the voter). It could potentially use futarchy at some point, but let's not get ahead of ourselves!
  * *buck* is the grant value spent. This is denominated in OCEAN.
 
-*Buck* is trickier, so we dedicate a whole section to it...
+*Bang* is trickier, so we dedicate a whole section to it...
 
 ## What's a good metric for "bang"?
 
