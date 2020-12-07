@@ -82,20 +82,27 @@ We also welcome proposals that help OceanDAO itself. Here are some metrics of in
 
 ## Worked Example.
 
-In your project, you propose to reach out to your network to find lots of data publisher & buyers. You know that this will drive up the metrics of "$ Datatoken Consuming Volume" and also "Total Value Locked". Project length: 1 month.
+About your project
+* You propose to reach out to your network to find lots of data publisher & buyers, resulting in more data bought & consumed.
+* Metric to optimize: "$ Datatoken Consuming Volume". Secondary: "Total Value Locked". 
+* Project length: 1 month.
+* You believe you can get 20 data buyers (and the data buyers to sell the data that the buyers want). 
+* Each buyer does 10K OCEAN / week (40K OCEAN / month) of consume volume on Ocean Market. This is a total of 800K OCEAN / month consume volume. 
+* It's a recurring volume for future months.
 
- * You believe you can get 20 data buyers (and the data buyers to sell the data that the buyers want). Each buyer does 10K OCEAN / week (40K OCEAN / month) of consume volume on Ocean Market. This is a total of 800K OCEAN / month consume volume. It's a recurring volume for future months.
+Calculations for Expected ROI:
+* Ocean Community gets 0.2% of consume volume. 0.2% * 800K / month * 12 months = approx 20K OCEAN = 20K OCEAN.
+* So *bang* = 20K OCEAN. 
+* Grant size = *buck* = 10K OCEAN
+* So *ROI* = *bang / buck* = 20K OCEAN / 10K OCEAN = 2.0. 
+* Proposer's estimate of *% chance of success* = 75%
+* Final: **expected ROI = 0.75 * 2.0 = 1.5**
 
- * Ocean Community gets 0.2% of consume volume. 0.2% * 800K / month * 12 months = approx 20K OCEAN = 20K OCEAN.
- * So *bang* = 20K OCEAN. 
- * Grant size = *buck* = 10K OCEAN
- * So *ROI* = *bang / buck* = 20K OCEAN / 10K OCEAN = 2.0. 
- * Proposer's estimate of *% chance of success* = 75%
- * Final: **expected ROI = 0.75 * 2.0 = 1.5**
+(We could also estimate ROI based the new publishers needing to buy OCEAN liquidity. But the approach above makes fewer assumptions.)
 
-The expected ROI comes out nicely above 1.0. It's looks like a promising project! However the proposer's estimate of *% chance of success* may be too optimistic. 
+The expected ROI comes out nicely above 1.0. It's looks like a promising project! However the proposer's estimate of *% chance of success* may or may not be too optimistic. 
 * As a voter, you should judge this. If the *% chance success* is just 50%, then expected ROI is just break-even.
 * As a proposer, you should describe your proposal to maximize the voter's confidence in you and your project. The best way is: show a track record of successful projects, especially similar ones. Convince the voter! :) And remember, if you don't pull it off, it will be difficult to come back for funds in future rounds.
 
-(We could also estimate ROI based the new publishers needing to buy OCEAN liquidity. But the approach above makes fewer assumptions.)
+
 
