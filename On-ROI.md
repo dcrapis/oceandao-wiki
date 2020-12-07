@@ -2,16 +2,15 @@
 
 This page elaborates on Return On Investment (ROI). **Expected ROI towards growth** is a key criterion in OceanDAO, in line with Ocean's [Web3 Sustainability Loop](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e). 
 
-Accordingly:
-* If you're making a project proposal, you should describe how it helps ROI. 
-* If you're voting, you should be evaluating in terms of expected ROI.
+* **If you're making a project proposal, you should describe its ROI.**
+* **If you're voting, you should be evaluating in terms of expected ROI.**
 
-Therefore both proposers and voters should grow the understanding of expected ROI. 
+Therefore both proposers and voters should understand **expected ROI**. 
 
 This page describes:
 * What it is, and why OceanDAO uses it.
 * Metrics to measure it in practice. Hint: go for "total OCEAN of data consumed", "network revenue" or "total OCEAN locked".
-* And, how you as a proposer can help show voters that your project will help ROI.
+* Finally, a **worked example of expected ROI calculations**. We encourage all proposals to do this.
 
 ## What is "Expected ROI"?
 
