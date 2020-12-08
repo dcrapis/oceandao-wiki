@@ -28,7 +28,7 @@ Where
 
 Motivation: We want a “snowball effect” for ecosystem growth, where more funds granted leads to more funds available for grants in the future. This will happen with more network revenue or a rise in OCEAN.
 
-Expected ROI can be lower for lower-risk projects, and needs to be higher for higher-risk projects. It has similarity to the traditional VC thought process.
+Expected ROI can be lower for lower-risk projects, and needs to be higher for higher-risk projects. 
 
 From an ecosystem perspective, if a project gets funding from outside the ecosystem, then it counts towards the value-add number, not to the value-spent number. Therefore as a project proposer, you're incentivized to get funding elsewhere too, e.g. from grants or investment, since it helps your expected ROI number. Projects that aren't working on core software should aim for their own self-sustainability over time.
 
@@ -103,5 +103,18 @@ The expected ROI comes out nicely above 1.0. It's looks like a promising project
 * As a voter, you should judge this. If the *% chance success* is just 50%, then expected ROI is just break-even.
 * As a proposer, you should describe your proposal to maximize the voter's confidence in you and your project. The best way is: show a track record of successful projects, especially similar ones. Convince the voter! :) And remember, if you don't pull it off, it will be difficult to come back for funds in future rounds.
 
+## Similarity to Venture Capital
 
+To select which projects to vote for is similar to how VCs select which companies to invest in. Both are looking for a return on investment, either for the community (OceanDAO) or for investors in the VC fund. 
+
+If you're making a proposal, you can view it similar to a pitch deck for VCs. The pitch deck includes the information for the VC to estimate bang, buck, and % chance of success (explicitly or implicitly).
+- The deck gives a Total Addressable Market (TAM) which is akin to *bang*. (The VC can decide if it's reasonable, or adjust for themselves.)
+- The deck (or pitcher) gives a and requested investment, akin to *buck*. 
+- The deck gives a plan, team background, etc from which the VC estimates % chance of success of the team. 
+
+You can use this framing in OceanDAO as a proposer or as a curator (voter):
+- If proposing: write your proposal as a pitch deck. 
+- If voting: pretend you're a "VC" for OceanDAO
+
+OceanDAO is best suited for the early-stage funding ("pre-seed" or "seed funding" stage). Therefore the ROI calculations could be based on the team using OceanDAO grant as part of the early-stage funding, and using 3rd parties for all other funding, which leads to a very good expected ROI as well.
 
