@@ -29,7 +29,7 @@ Instructions:
 
 - What is the final product (e.g. App, URL, Medium, etc)?
 
-- How does this project drive value to the Ocean ecosystem?
+- How does this project drive value to the Ocean ecosystem? This is best expressed as Expected ROI, details [here](On-ROI).
 
 
 ## Project Deliverables - Category
