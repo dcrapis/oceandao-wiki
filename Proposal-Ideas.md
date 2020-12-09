@@ -18,7 +18,7 @@ Create an innovative application using Ocean Protocol. Use Ocean Protocol librar
 - ["Marketplaces" page](https://oceanprotocol.com/technology/marketplaces) at oceanprotocol.com - Data Marketplaces with Blockchain Superpowers
 - Ocean Market: An Open-Source Community Marketplace for Data](https://blog.oceanprotocol.com/ocean-market-an-open-source-community-marketplace-for-data-4b99bedacdc3) Featuring Ocean Staking, Automated Market Makers and Initial Data Offerings
 
-**Possible Marketplace Verticals**
+**Possible Verticals for Marketplaces or Other Apps**
 - [DeFi](https://blog.oceanprotocol.com/data-tokens-3-data-and-decentralized-finance-data-defi-d5c9a6e578b7) Can data be used as a financial asset? Linking the Token Economy to the emerging Data Economy.
 - [Mobility](https://blog.oceanprotocol.com/how-to-monetize-tokenize-data-8f860e405773) Closer look at opportunities for monetizing and tokenizing data in the world of mobility
 - [Smart Cities](http://trent.st/content/20191205%20smart%20cities%20-%20ocean%20meetup.pdf) Benefits of blockchain-based data management for smart cities and public services of the future. Case Study: Estonia 
