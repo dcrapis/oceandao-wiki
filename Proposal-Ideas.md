@@ -65,4 +65,4 @@ The integration may be implemented as a fork of github.com/oceanprotocol/provide
 ## Build / improve core Ocean software
 
 **Ocean GitHub**
--[Ocean Protocol Github](https://github.com/oceanprotocol): core Ocean components you might be interested in improving.
+- [Ocean Protocol Github](https://github.com/oceanprotocol): core Ocean components you might be interested in improving.
