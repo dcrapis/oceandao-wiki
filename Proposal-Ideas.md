@@ -112,10 +112,5 @@ Here are some integrations that unlock data, which we're particularly interested
 
 The best way to help improve Ocean core software is to start engaging with other core contributors on specific issues listed on [Ocean Protocol Github](https://github.com/oceanprotocol). With time, you will be positioned to take bigger leaps.
 
-Your project proposal could be to simply "help address Github issues in components x & y" and we'd be very happy with if you did it effectively:). Here are GitHub issues to some of our core repos.
-- [Ocean Market](https://github.com/oceanprotocol/market/issues) 
-- [Provider](https://github.com/oceanprotocol/provider/issues) 
-- [ocean.js](https://github.com/oceanprotocol/ocean.js/issues) 
-- [React hooks](https://github.com/oceanprotocol/react/issues) 
-- [ocean.py](https://github.com/oceanprotocol/ocean.py/issues) 
+Your project proposal could be to simply "help address Github issues in components x & y" and we'd be very happy with if you did it effectively:). Here are GitHub issues of our core repos: [Ocean Market](https://github.com/oceanprotocol/market/issues), [Provider](https://github.com/oceanprotocol/provider/issues), [ocean.js](https://github.com/oceanprotocol/ocean.js/issues), [React hooks](https://github.com/oceanprotocol/react/issues), [ocean.py](https://github.com/oceanprotocol/ocean.py/issues) 
 
