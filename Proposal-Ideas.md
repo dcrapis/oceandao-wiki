@@ -1,7 +1,8 @@
-Looking for inspiration, insights and ideas for what to build? Browse through some of the following resources for proposal ideas!
-
+Looking for inspiration, insights and ideas for what to build? Browse through some of the following resources for proposal ideas to contribute to the growth & sustainability of OCEAN. 
 
 <h2>Build / improve applications or integrations to Ocean</h2>
+
+Create an innovative application using Ocean Protocol. Use Ocean Protocol libraries to build your own app for secure, privacy-preserving data exchange.
 
 <u>MARKETPLACES</u>
 
@@ -9,12 +10,22 @@ Looking for inspiration, insights and ideas for what to build? Browse through so
 
 [Ocean Market: An Open-Source Community Marketplace for Data](https://blog.oceanprotocol.com/ocean-market-an-open-source-community-marketplace-for-data-4b99bedacdc3) Featuring Ocean Staking, Automated Market Makers and Initial Data Offerings
 
+<u>VERTICALS </u>
+
+[DeFi](https://blog.oceanprotocol.com/data-tokens-3-data-and-decentralized-finance-data-defi-d5c9a6e578b7) Can data be used as a financial asset? Linking the Token Economy to the emerging Data Economy.
+
+[Mobility](https://blog.oceanprotocol.com/how-to-monetize-tokenize-data-8f860e405773) Closer look at opportunities for monetizing and tokenizing data in the world of mobility
+
+[Smart Cities](http://trent.st/content/20191205%20smart%20cities%20-%20ocean%20meetup.pdf) Benefits of blockchain-based data management for smart cities and public services of the future. Case Study: Estonia 
+
+[Health](http://trent.st/content/McConaghy%20-%20AI%20SG%20-%20Ocean%20and%20Health.pdf) Benefits of Ocean's compute-to-data for healthcare research and patient services
+
 
 <br>
 
 <h2>Outreach / community </h2>
 
-These grants don't need to be technical in nature.
+Note, these grants don't need to be technical in nature.
 
 Administrative: social media admin, community administration, etc. 
 
@@ -23,6 +34,10 @@ Creating Outreach Collateral: Marketing assets, podcasts, blogs, tutorials, vide
 <br>
 
 <h2>Unleash data</h2>
+
+The integration should make it easy to buy & sell access to a specific data asset as an Ocean datatoken. Unleash more data via integrations into more data services.
+
+The integration may be implemented as a fork of github.com/oceanprotocol/provider, and tuned for UX.
 
 <u>DATATOKENS</u>
 
@@ -60,26 +75,11 @@ Creating Outreach Collateral: Marketing assets, podcasts, blogs, tutorials, vide
 
 
 
-.//////////////////
-
-
-We suggest you browse through some of the following resources: 
 
 
 
 
 
-
-
-VERTICALS 
-
-DeFi Can data be used as a financial asset? Linking the Token Economy to the emerging Data Economy.
-
-Mobility Closer look at opportunities for monetizing and tokenizing data in the world of mobility
-
-Smart Cities Benefits of blockchain-based data management for smart cities and public services of the future. Case Study: Estonia 
-
-Health Benefits of Ocean's compute-to-data for healthcare research and patient services
 
 
 
