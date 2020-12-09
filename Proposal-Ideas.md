@@ -27,9 +27,11 @@ Create an innovative application using Ocean Protocol. Use Ocean Protocol librar
 
 Note, these grants don't need to be technical in nature.
 
-Administrative: social media admin, community administration, etc. 
+<u>ADMINISTRATIVE</u> 
+Social media admin, community administration, etc. 
 
-Creating Outreach Collateral: Marketing assets, podcasts, blogs, tutorials, videos, how-to guides, memes, etc.
+<u>OUTREACH COLLATERAL</u>
+Creating marketing assets, podcasts, blogs, tutorials, videos, how-to guides, memes, etc.
 
 <br>
 
