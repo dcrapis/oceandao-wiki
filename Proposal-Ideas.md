@@ -28,9 +28,11 @@ Create an innovative application using Ocean Protocol. Use Ocean Protocol librar
 Note, these grants don't need to be technical in nature.
 
 <u>ADMINISTRATIVE</u> 
+
 Social media admin, community administration, etc. 
 
 <u>OUTREACH COLLATERAL</u>
+
 Creating marketing assets, podcasts, blogs, tutorials, videos, how-to guides, memes, etc.
 
 <br>
