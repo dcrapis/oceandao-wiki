@@ -13,9 +13,10 @@ Looking for inspiration, insights and ideas for what to build? Browse through so
 <br>
 
 <h2>Outreach / community </h2>
+
 These grants don't need to be technical in nature.
 
-Administrative (eg social media admin, community administration)
+Administrative: social media admin, community administration, etc. 
 
 Creating Outreach Collateral: Marketing assets, podcasts, blogs, tutorials, videos, how-to guides, memes, etc.
 
