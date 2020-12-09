@@ -14,8 +14,6 @@ But before we get there, first we give a shortlist of things we'd particularly l
 
 ## Shortlist 
  
-These are the shortened version. For a given item item, you'll find more details later in this page.
-
 - Networking / "hitting the phones" to increase data *consumption* or *supply* in Ocean Market
 - Creating data that you think will be popular / consumed on Ocean Market.
 - Integrate streaming data services. Of special interest: Streamr, WebSockets, and GraphQL Subscriptions
@@ -26,7 +24,7 @@ These are the shortened version. For a given item item, you'll find more details
 - Data DAOs - such as DAOstack with datatoken features
 - Data bounty app - bounties/prizes for supplying target data
 
-
+For a given item above, you'll find more details later in this page, just search for it.
 
 ## 1. Build / improve applications or integrations to Ocean
 
