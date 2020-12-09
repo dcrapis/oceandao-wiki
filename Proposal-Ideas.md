@@ -2,7 +2,7 @@ Looking for inspiration, insights and ideas for what to build? Browse through so
 
 <br>
 
-<h1>Build / improve applications or integrations to Ocean</h1>
+<h2>Build / improve applications or integrations to Ocean</h2>
 
 <u>MARKETPLACES</u>
 
@@ -13,7 +13,7 @@ Looking for inspiration, insights and ideas for what to build? Browse through so
 
 <br>
 
-- Outreach / community (grants don't need to be technical in nature)
+<h2>Outreach / community (grants don't need to be technical in nature)</h2>
 
 Administrative (eg social media admin, etc)
 
@@ -21,7 +21,7 @@ Marketing, podcasts, etc
 
 <br>
 
-- Unleash data
+<h2>Unleash data</h2>
 
 <u>DATATOKENS</u>
 
@@ -47,14 +47,15 @@ Marketing, podcasts, etc
 
 [Ocean and Secret Network:](https://blog.oceanprotocol.com/ocean-and-secret-collaborating-on-access-control-and-private-compute-for-datatokens-1427acd1fcbe) Collaborating on Access Control and Private Compute for datatokens
 
-DATA SCIENCE
+<u>DATA SCIENCE</u>
 
-“Data science” page at oceanprotocol.com - More Data, Provenance, and Earning Opportunities
+[“Data science” page](https://oceanprotocol.com/technology/data-science) at oceanprotocol.com - More Data, Provenance, and Earning Opportunities
 
-Ocean Protocol for Data Scientists Explore the three main benefits that Ocean offers data scientists: more data, crypto-secured provenance, new income avenues.
+[Ocean Protocol for Data Scientists](https://blog.oceanprotocol.com/how-ocean-can-benefit-data-scientists-7e502e5f1a5f) Explore the three main benefits that Ocean offers data scientists: more data, crypto-secured provenance, new income avenues.
 
+<br>
 
-- Build / improve core Ocean software
+<h2>Build / improve core Ocean software</h2>
 
 
 
