@@ -50,7 +50,8 @@
 ###
 
 - Q: More OCEAN tokens are in circulation via the grant rewards. Does this really bring more value to the Ocean ecosystem? What are the benefits of OceanDAO?
-- A: OceanDAO is a grants DAO with the purpose of growing the overall value of Ocean Protocol. Investing in the Ocean ecosystem is a critical aspect of this goal. See [The Web3 Sustainability Loop](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e) for more details.
+- A: OceanDAO is a grants DAO with the purpose of growing the overall value of Ocean Protocol. Investing in the Ocean ecosystem is a critical aspect of this goal. A key requirement in OceanDAO is for capital to be allocated efficiently, by requiring each project to have expected ROI > 1.0 ([details](On-ROI)]. This constraint ensures that there will be growth, and that the value of OCEAN grows more than the one-time gain of otherwise burning OCEAN. 
+See [The Web3 Sustainability Loop](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e) for more details.
 
 ###
 
