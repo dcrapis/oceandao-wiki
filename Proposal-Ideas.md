@@ -1,5 +1,6 @@
 Looking for inspiration, insights and ideas for what to build? Browse through some of the following resources for proposal ideas to contribute to the growth & sustainability of OCEAN. 
 
+<br>
 <h2>Build / improve applications or integrations to Ocean</h2>
 
 Create an innovative application using Ocean Protocol. Use Ocean Protocol libraries to build your own app for secure, privacy-preserving data exchange.
