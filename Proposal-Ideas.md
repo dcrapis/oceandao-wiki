@@ -1,6 +1,5 @@
 Looking for inspiration, insights and ideas for what to build? Browse through some of the following resources for proposal ideas!
 
-<br>
 
 <h2>Build / improve applications or integrations to Ocean</h2>
 
@@ -13,11 +12,12 @@ Looking for inspiration, insights and ideas for what to build? Browse through so
 
 <br>
 
-<h2>Outreach / community (grants don't need to be technical in nature)</h2>
+<h2>Outreach / community </h2>
+These grants don't need to be technical in nature.
 
-Administrative (eg social media admin, etc)
+Administrative (eg social media admin, community administration)
 
-Marketing, podcasts, etc
+Creating Outreach Collateral: Marketing assets, podcasts, blogs, tutorials, videos, how-to guides, memes, etc.
 
 <br>
 
