@@ -23,49 +23,39 @@ But before we get there, first we give a shortlist of things we'd particularly l
 - Datatoken wallets - such as Pillar wallet with datatoken features
 - Data DAOs - such as DAOstack with datatoken features
 - Data bounty app - bounties/prizes for supplying target data
+- DeFi apps that use data as a financial asset
 
 For a given item above, you'll find more details later in this page, just search for it.
 
 ## 1. Build / improve applications or integrations to Ocean
 
-Create an innovative application using Ocean Protocol. Use Ocean Protocol libraries to build your own app for secure, privacy-preserving data exchange.
+We're interested in seeing riffs of data markets, new apps using Ocean, and integrations of Ocean into existing crypto & AI apps.
 
-**Your own data markets** 
+**Your own data markets**. 
 
-Create your own data market by forking [Ocean Market code](https://www.github.com/oceanprotocol/market). Main resources:
-- ["Marketplaces" page](https://oceanprotocol.com/technology/marketplaces) at oceanprotocol.com - Data Marketplaces with Blockchain Superpowers
-- [Ocean Market introductory blog post](https://blog.oceanprotocol.com/ocean-market-an-open-source-community-marketplace-for-data-4b99bedacdc3) 
-
-**Specific apps of interest**
+**Specific apps / integrations of interest:**
+- Your own data markets. The fastest way is to fork [Ocean Market code](https://www.github.com/oceanprotocol/market). Main resources:
+  - [Marketplaces" page at oceanprotocol.com](https://oceanprotocol.com/technology/marketplaces)
+  - [Ocean Market introductory blog post](https://blog.oceanprotocol.com/ocean-market-an-open-source-community-marketplace-for-data-4b99bedacdc3) 
 - Datatoken analytics app - like Defipulse for datatokens. Include summary statistics like total AUM, total sales, total consumes.
 - Data bounty app - where people post “data bounties” or “prizes” that can be won by others who supply the data first, or supply the best data.
 - Datatoken wallets. E.g. Pillar wallet with datatoken features 
-- Data DAOs. E.g. DAOstack with datatoken features
+- Data DAOs. E.g. DAOstack with datatoken features. Inspiration: [Data DAOs blog/video](https://blog.oceanprotocol.com/radical-markets-and-the-data-economy-4847c272f5)
+- Preserving privacy
+  - Using [Ocean Compute-to-Data](https://oceanprotocol.com/technology/compute-to-data) data service
+  - Integration with [Secret Network](https://scrt.network) [for non-custodial url handling](https://blog.oceanprotocol.com/ocean-and-secret-collaborating-on-access-control-and-private-compute-for-datatokens-1427acd1fcbe).
+- Integration with data science tools or apps. Resources & ideas: [Data Science page at oceanprotocol.com](https://oceanprotocol.com/technology/data-science), [blog on Ocean for Data Science](https://blog.oceanprotocol.com/how-ocean-can-benefit-data-scientists-7e502e5f1a5f).
 
-**Possible Verticals** for Marketplaces or Other Apps:
-- [DeFi](https://blog.oceanprotocol.com/data-tokens-3-data-and-decentralized-finance-data-defi-d5c9a6e578b7) Can data be used as a financial asset? Linking the Token Economy to the emerging Data Economy.
-- [Mobility](https://blog.oceanprotocol.com/how-to-monetize-tokenize-data-8f860e405773) Closer look at opportunities for monetizing and tokenizing data in the world of mobility
-- [Smart Cities](http://trent.st/content/20191205%20smart%20cities%20-%20ocean%20meetup.pdf) Benefits of blockchain-based data management for smart cities and public services of the future. Case Study: Estonia 
-- [Health](http://trent.st/content/McConaghy%20-%20AI%20SG%20-%20Ocean%20and%20Health.pdf) Benefits of Ocean's compute-to-data for healthcare research and patient services
+**Possible verticals** for marketplaces or other apps:
+- [DeFi](https://blog.oceanprotocol.com/data-tokens-3-data-and-decentralized-finance-data-defi-d5c9a6e578b7) Can data be used as a financial asset? 
+- [Mobility](https://blog.oceanprotocol.com/how-to-monetize-tokenize-data-8f860e405773) 
+- [Smart Cities](http://trent.st/content/20191205%20smart%20cities%20-%20ocean%20meetup.pdf)
+- [Health](http://trent.st/content/McConaghy%20-%20AI%20SG%20-%20Ocean%20and%20Health.pdf) 
 
-**Apps Riffing on Datatokens** - Sources of Inspiration:
+**More inspiration for datatoken-based apps:**
 - ["Datatokens" page](https://oceanprotocol.com/technology/data-tokens) at oceanprotocol.com - On-ramp and off-ramp for data assets into DeFi
-- [Ocean Datatokens: From Money Legos to Data Legos:](https://blog.oceanprotocol.com/ocean-datatokens-from-money-legos-to-data-legos-4f867cec1837) How DeFi Helps Data, and Data Helps DeFi
-- [Datatokens Part 1 - Data Custody](https://blog.oceanprotocol.com/data-tokens-1-data-custody-1d0d5ae66d0c)  Data access control, meet crypto wallets & data DAOs
-- [Datatokens Part 2 - Non-Fungible, Fungible and Composable Datatokens](https://blog.oceanprotocol.com/data-tokens-2-fungible-composable-54b6e0d28293) Data baskets, limited-edition datasets, priced compute pipelines and more
-- [Datatokens Part 3 - Data and Decentralized Finance (Data*DeFI)](https://blog.oceanprotocol.com/data-tokens-3-data-and-decentralized-finance-data-defi-d5c9a6e578b7) Data as Collateral. Data DEXes, Data Loans, Data Stablecoins and Datatokens in Financial Supply Chains
-- [Radical Markets and the Data Economy](https://blog.oceanprotocol.com/radical-markets-and-the-data-economy-4847c272f5) A Web3 Data Economy to Catalyze Prosperity for Society
-- [Infrastructure with Ocean Protocol’s Data DAO’s (Video)](https://www.youtube.com/watch?v=SSRGRxTriIg) How to build and grow data unions on Ocean Protocol
+- [Ocean Datatokens main blog](https://blog.oceanprotocol.com/ocean-datatokens-from-money-legos-to-data-legos-4f867cec1837). Also the slightly older datatoken posts [1](https://blog.oceanprotocol.com/data-tokens-1-data-custody-1d0d5ae66d0c), [2](https://blog.oceanprotocol.com/data-tokens-2-fungible-composable-54b6e0d28293), and [3](https://blog.oceanprotocol.com/data-tokens-3-data-and-decentralized-finance-data-defi-d5c9a6e578b7) and [RadicalXChange blog/video](https://blog.oceanprotocol.com/radical-markets-and-the-data-economy-4847c272f5) 
 
-**Preserving Privacy via Compute-to-Data and more** - Sources of Inspiration:
-- [“Compute-to-data” page](https://oceanprotocol.com/technology/compute-to-data) at oceanprotocol.com - Buy & Sell Private Data, While Preserving Privacy
-- [Compute-To-Data Guide](https://blog.oceanprotocol.com/v2-ocean-compute-to-data-guide-9a3491034b64) Quick guide to Ocean's Compute-to-Data without requiring deep technical know-how
-- Integration to [Secret Network](https://scrt.network) for non-custodial url handling. Ideal result: Ocean Market never have custody of urls, while retaining a simple UX. [Details here](https://blog.oceanprotocol.com/ocean-and-secret-collaborating-on-access-control-and-private-compute-for-datatokens-1427acd1fcbe)
-- Integration to [OpenMined](https://www.openmined.org/) as a data service or otherwise.
-
-**Apps & Integrations Focusing on Data Science** - Sources of Inspiration:
-- [“Data science” page](https://oceanprotocol.com/technology/data-science) at oceanprotocol.com - More Data, Provenance, and Earning Opportunities
-- [Ocean Protocol for Data Scientists](https://blog.oceanprotocol.com/how-ocean-can-benefit-data-scientists-7e502e5f1a5f) Explore the three main benefits that Ocean offers data scientists: more data, crypto-secured provenance, new income avenues.
 
 ## 2. Outreach / community
 
@@ -104,7 +94,7 @@ Here are some integrations that unlock data, which we're particularly interested
 - [GraphQL subscriptions](https://www.programmableweb.com/news/how-to-build-streaming-api-using-graphql-subscriptions/how-to/2019/12/09).
 - Filecoin - as a data service or otherwise. There are likely many variations on this.
 - Chainlink - ""
-- OpenMined - ""
+- [OpenMined](https://www.openmined.org/) integrated as a data service or otherwise.
 - CoinMarketCap API, Messari API, other financial data providers
 - Numerai Signals
 - Energy Web Foundation - ideally to solve a real-world challenge in the energy sector. For example: optimizing dispatch of energy assets to provide grid flexibility, identifying an innovative new application of data from energy device
