@@ -39,6 +39,7 @@ We're interested in seeing riffs of data markets, new apps using Ocean, and inte
 - Data bounty app - where people post “data bounties” or “prizes” that can be won by others who supply the data first, or supply the best data.
 - Datatoken wallets. E.g. Pillar wallet with datatoken features 
 - Data DAOs. E.g. DAOstack with datatoken features. Inspiration: [Data DAOs blog/video](https://blog.oceanprotocol.com/radical-markets-and-the-data-economy-4847c272f5)
+- DeFi apps that use data as a financial asset. Our vision is for all [top DeFi protocols / apps](https://www.defipulse.com) to include datatokens as first-class citizens.
 - Preserving privacy
   - Using [Ocean Compute-to-Data](https://oceanprotocol.com/technology/compute-to-data) data service
   - Integration with [Secret Network](https://scrt.network) [for non-custodial url handling](https://blog.oceanprotocol.com/ocean-and-secret-collaborating-on-access-control-and-private-compute-for-datatokens-1427acd1fcbe).
