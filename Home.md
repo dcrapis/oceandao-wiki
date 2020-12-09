@@ -22,7 +22,7 @@ Funding is for projects of these types:
 - Unleash data
 - Build / improve core Ocean software
 
-[Here](Proposal-Ideas) are example proposals.
+[Here](Proposal-Ideas) are proposal ideas.
 
 Project criteria: (1) [ROI](On-ROI) towards growth (2) aligned with Ocean mission. Details on criteria are in the page for a given funding round.
 
