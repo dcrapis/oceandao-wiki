@@ -77,19 +77,6 @@ The integration may be implemented as a fork of github.com/oceanprotocol/provide
 
 <h2>Build / improve core Ocean software</h2>
 
+<u>OCEAN GITHUB</U>
 
-
-
-
-
-
-
-
-
-
-
-
-OTHER
-
-Tips from Ocean Protocol: "What kind of DEC submissions are we looking for?" Slide presentation by Trent McConaghy, Ocean Protocol, Founder & CTO
-
+[Ocean Protocol Github](https://github.com/oceanprotocol): core Ocean components you might be interested in improving.
