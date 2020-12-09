@@ -9,7 +9,7 @@ We suggest you browse through some of the following resources:
 
 MARKETPLACES
 
-("Marketplaces" page)[https://oceanprotocol.com/technology/marketplaces] at oceanprotocol.com - Data Marketplaces with Blockchain Superpowers
+["Marketplaces" page](https://oceanprotocol.com/technology/marketplaces) at oceanprotocol.com - Data Marketplaces with Blockchain Superpowers
 
 Ocean Market: An Open-Source Community Marketplace for Data Featuring Ocean Staking, Automated Market Makers and Initial Data Offerings
 
