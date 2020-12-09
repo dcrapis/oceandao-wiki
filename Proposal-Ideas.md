@@ -2,9 +2,6 @@ Looking for inspiration, insights and ideas for what to build?
 
 We suggest you browse through some of the following resources for proposal ideas!
 
-
-
-
 - Build / improve applications or integrations to Ocean
 
 <u>MARKETPLACES</u>
@@ -14,7 +11,7 @@ We suggest you browse through some of the following resources for proposal ideas
 [Ocean Market: An Open-Source Community Marketplace for Data](https://blog.oceanprotocol.com/ocean-market-an-open-source-community-marketplace-for-data-4b99bedacdc3) Featuring Ocean Staking, Automated Market Makers and Initial Data Offerings
 
 
-
+<br>
 
 - Outreach / community (grants don't need to be technical in nature)
 
