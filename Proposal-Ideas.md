@@ -2,7 +2,7 @@ Looking for inspiration, insights and ideas for what to build? Browse through so
 
 <br>
 
-- Build / improve applications or integrations to Ocean
+<h1>Build / improve applications or integrations to Ocean</h1>
 
 <u>MARKETPLACES</u>
 
