@@ -2,6 +2,8 @@ Looking for inspiration, insights and ideas for what to build?
 
 We suggest you browse through some of the following resources for proposal ideas!
 
+<br>
+
 - Build / improve applications or integrations to Ocean
 
 <u>MARKETPLACES</u>
