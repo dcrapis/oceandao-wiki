@@ -31,8 +31,6 @@ For a given item above, you'll find more details later in this page, just search
 
 We're interested in seeing riffs of data markets, new apps using Ocean, and integrations of Ocean into existing crypto & AI apps.
 
-**Your own data markets**. 
-
 **Specific apps / integrations of interest:**
 - Your own data markets. The fastest way is to fork [Ocean Market code](https://www.github.com/oceanprotocol/market). Main resources:
   - [Marketplaces" page at oceanprotocol.com](https://oceanprotocol.com/technology/marketplaces)
