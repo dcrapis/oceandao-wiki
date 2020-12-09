@@ -81,3 +81,5 @@ The integration may be implemented as a fork of github.com/oceanprotocol/provide
 <u>OCEAN GITHUB</U>
 
 [Ocean Protocol Github](https://github.com/oceanprotocol): core Ocean components you might be interested in improving.
+
+<br>
