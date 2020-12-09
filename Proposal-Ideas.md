@@ -31,40 +31,47 @@ For a given item above, you'll find more details later in this page, just search
 
 We're interested in seeing riffs of data markets, new apps using Ocean, and integrations of Ocean into existing crypto & AI apps.
 
-**Specific apps / integrations of interest:**
-- Your own data markets. The fastest way is to fork [Ocean Market code](https://www.github.com/oceanprotocol/market). Main resources:
-  - [Marketplaces" page at oceanprotocol.com](https://oceanprotocol.com/technology/marketplaces)
-  - [Ocean Market introductory blog post](https://blog.oceanprotocol.com/ocean-market-an-open-source-community-marketplace-for-data-4b99bedacdc3) 
+### App: Your own data market
+
+The fastest way is to fork [Ocean Market code](https://www.github.com/oceanprotocol/market). Main resources:
+- [Marketplaces" page at oceanprotocol.com](https://oceanprotocol.com/technology/marketplaces)
+- [Ocean Market introductory blog post](https://blog.oceanprotocol.com/ocean-market-an-open-source-community-marketplace-for-data-4b99bedacdc3) 
+
+### Other specific apps
+
 - Datatoken analytics app - like Defipulse for datatokens. Include summary statistics like total AUM, total sales, total consumes.
 - Data bounty app - where people post “data bounties” or “prizes” that can be won by others who supply the data first, or supply the best data.
 - Datatoken wallets. E.g. Pillar wallet with datatoken features 
 - Data DAOs. E.g. DAOstack with datatoken features. Inspiration: [Data DAOs blog/video](https://blog.oceanprotocol.com/radical-markets-and-the-data-economy-4847c272f5)
 - DeFi apps that use data as a financial asset. Our vision is for all [top DeFi protocols / apps](https://www.defipulse.com) to include datatokens as first-class citizens.
-- Preserving privacy
-  - Using [Ocean Compute-to-Data](https://oceanprotocol.com/technology/compute-to-data) data service
-  - Integration with [Secret Network](https://scrt.network) [for non-custodial url handling](https://blog.oceanprotocol.com/ocean-and-secret-collaborating-on-access-control-and-private-compute-for-datatokens-1427acd1fcbe).
-- Integration with data science tools or apps. Resources & ideas: [Data Science page at oceanprotocol.com](https://oceanprotocol.com/technology/data-science), [blog on Ocean for Data Science](https://blog.oceanprotocol.com/how-ocean-can-benefit-data-scientists-7e502e5f1a5f).
 
-**Possible verticals** for marketplaces or other apps:
-- [DeFi](https://blog.oceanprotocol.com/data-tokens-3-data-and-decentralized-finance-data-defi-d5c9a6e578b7) Can data be used as a financial asset? 
-- [Mobility](https://blog.oceanprotocol.com/how-to-monetize-tokenize-data-8f860e405773) 
-- [Smart Cities](http://trent.st/content/20191205%20smart%20cities%20-%20ocean%20meetup.pdf)
-- [Health](http://trent.st/content/McConaghy%20-%20AI%20SG%20-%20Ocean%20and%20Health.pdf) 
+### Privacy-preserving apps
 
-**More inspiration for datatoken-based apps:**
-- ["Datatokens" page](https://oceanprotocol.com/technology/data-tokens) at oceanprotocol.com - On-ramp and off-ramp for data assets into DeFi
-- [Ocean Datatokens main blog](https://blog.oceanprotocol.com/ocean-datatokens-from-money-legos-to-data-legos-4f867cec1837). Also the slightly older datatoken posts [1](https://blog.oceanprotocol.com/data-tokens-1-data-custody-1d0d5ae66d0c), [2](https://blog.oceanprotocol.com/data-tokens-2-fungible-composable-54b6e0d28293), and [3](https://blog.oceanprotocol.com/data-tokens-3-data-and-decentralized-finance-data-defi-d5c9a6e578b7) and [RadicalXChange blog/video](https://blog.oceanprotocol.com/radical-markets-and-the-data-economy-4847c272f5) 
+There are many opportunities for apps and integrations that preserve privacy, including:
+- Use [Ocean Compute-to-Data](https://oceanprotocol.com/technology/compute-to-data) data service for new data science flows, or to help unlock private data
+- Integration with [Secret Network](https://scrt.network) [for non-custodial url handling](https://blog.oceanprotocol.com/ocean-and-secret-collaborating-on-access-control-and-private-compute-for-datatokens-1427acd1fcbe).
+
+### Data science apps
+
+Here are resources with ideas for apps and integrations to help data scientists:
+
+- [Data Science page at oceanprotocol.com](https://oceanprotocol.com/technology/data-science)
+- ["How Ocean Can Benefit Data Scientists"](https://blog.oceanprotocol.com/how-ocean-can-benefit-data-scientists-7e502e5f1a5f) blog post.
+
+### More resources
+- Possible verticals, and how Ocean relates: [DeFi](https://blog.oceanprotocol.com/data-tokens-3-data-and-decentralized-finance-data-defi-d5c9a6e578b7), [Mobility](https://blog.oceanprotocol.com/how-to-monetize-tokenize-data-8f860e405773), [Smart Cities](http://trent.st/content/20191205%20smart%20cities%20-%20ocean%20meetup.pdf), [Health](http://trent.st/content/McConaghy%20-%20AI%20SG%20-%20Ocean%20and%20Health.pdf) 
+- The datatokens writings have many ideas. ["Datatokens" page at oceanprotocol.com](https://oceanprotocol.com/technology/data-tokens) at oceanprotocol.com, [Ocean Datatokens main blog](https://blog.oceanprotocol.com/ocean-datatokens-from-money-legos-to-data-legos-4f867cec1837), slightly older datatoken posts [1](https://blog.oceanprotocol.com/data-tokens-1-data-custody-1d0d5ae66d0c), [2](https://blog.oceanprotocol.com/data-tokens-2-fungible-composable-54b6e0d28293), [3](https://blog.oceanprotocol.com/data-tokens-3-data-and-decentralized-finance-data-defi-d5c9a6e578b7), and [RadicalXChange blog/video](https://blog.oceanprotocol.com/radical-markets-and-the-data-economy-4847c272f5) 
 
 
 ## 2. Outreach / community
 
 Remember, grants don't need to be technical in nature! :) Here are ideas related to outreach and community.
 
-**Administrative / Management**
+### Administrative / Management
 - Social media admin. For example, help to man the official Ocean Telegram or Discord
 - Create your own Ocean Meetup group, Telegram channel or Discord server for a specific niche (e.g. language, region, topic matter), and foster a community around it
 
-**Outreach collateral**
+### Outreach collateral
 - Writing blogs about Ocean and the Data Economy, perhaps around a target niche
 - Creating tutorials & how-to guides about Ocean
 - Running a podcast
@@ -78,12 +85,12 @@ There are two main ways help unleash data:
 
 Let's elaborate on each.
 
-**Business / networking approaches**
+### Business / networking approaches
 - Networking / "hitting the phones" to increase data *supply* into Ocean Market. Go find other orgs, from startups to enterprises, that have tons of data, and work with them to publish their data on Ocean Market. To align incentives, have a contract with them to get a % of their sales. Alternatively, contract with them to publish on their behalf (congrats, you're now a data broker:). 
 - Networking / "hitting the phones" to increase data *consumption* from Ocean Market. Go find other orgs, from startups to enterprises, that are used to spending $ to consume data. Connect them with data for sale on Ocean Market (most straightforward) or find data suppliers that meet their needs and get the suppliers to publish (more work but very rewarding:). To align incentives, have a contract with them to get a % of their purchases.
 - Creating data that you think will be popular / consumed on Ocean Market. For example, find open data, add value to it, and sell it yourself. Or find open data, find others who can add value, and help connect the dots. See details in ["On Selling Data"](https://blog.oceanprotocol.com/on-selling-data-in-ocean-market-9afcfa1e6e43) blog post.
 
-**Integrations with data services**
+### Integrations with data services
 
 The idea is that you can unleash more data via integrations into other data services. The integration should make it easy to buy & sell access to a specific data asset as an Ocean datatoken. One good way to implement ideas below is to fork [Ocean Provider code](https://github.com/oceanprotocol/provider), make the change, and tune things for good UX. 
 
@@ -103,12 +110,12 @@ Here are some integrations that unlock data, which we're particularly interested
 
 ## 4. Build / improve core Ocean software
 
-**Ocean GitHub** - resources
-- [Ocean Protocol Github](https://github.com/oceanprotocol): core Ocean components you might be interested in improving.
-- GitHub issues in specific Ocean components. You could propose to simply "help address Github issues in components x & y" and we'd be very happy with if you did it effectively:). Here are GitHub issues to some of our core repos.
-  - [Ocean Market](https://github.com/oceanprotocol/market/issues) 
-  - [Provider](https://github.com/oceanprotocol/provider/issues) 
-  - [ocean.js](https://github.com/oceanprotocol/ocean.js/issues) 
-  - [React hooks](https://github.com/oceanprotocol/react/issues) 
-  - [ocean.py](https://github.com/oceanprotocol/ocean.py/issues) 
+The best way to help improve Ocean core software is to start engaging with other core contributors on specific issues listed on [Ocean Protocol Github](https://github.com/oceanprotocol). With time, you will be positioned to take bigger leaps.
+
+Your project proposal could be to simply "help address Github issues in components x & y" and we'd be very happy with if you did it effectively:). Here are GitHub issues to some of our core repos.
+- [Ocean Market](https://github.com/oceanprotocol/market/issues) 
+- [Provider](https://github.com/oceanprotocol/provider/issues) 
+- [ocean.js](https://github.com/oceanprotocol/ocean.js/issues) 
+- [React hooks](https://github.com/oceanprotocol/react/issues) 
+- [ocean.py](https://github.com/oceanprotocol/ocean.py/issues) 
 
