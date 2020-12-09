@@ -14,7 +14,7 @@ But before we get there, first we give a shortlist of things we'd particularly l
 
 ## Shortlist 
  
-- Networking / "hitting the phones" to increase data *consumption* or *supply* in Ocean Market
+- Networking / "hitting the phones" to increase data supply and data consumption in Ocean Market
 - Creating data that you think will be popular / consumed on Ocean Market.
 - Integrate streaming data services. Of special interest: Streamr, WebSockets, and GraphQL Subscriptions
 - Integrate as data services: Filecoin, Chainlink, OpenMined, CoinMarketCap, Messari, Numerai, Energy Web Foundation, phone data
