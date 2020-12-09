@@ -12,6 +12,17 @@
   - Data Economy Challenge (DEC) offers prizes curated by expert judges from the community.
   - More information is at: https://oceanprotocol.com/fund 
 
+
+###
+
+- Q: I've submitted my project to Data Economy Challenge. Can I also submit it to OceanDAO? And what about the other way?
+- A: Yes, and yes! We encourage it.
+
+###
+
+- Q: I've submitted my project to Shipyard. Can I also submit it to OceanDAO? And what about the other way?
+- A: Yes, both ways. However please be transparent about it. That is, indicate in your Shipyard proposal that you've also submitted to OceanDAO, and vice versa. The curators for each will take this into consideration.
+
 ###
 
 - Q: Is Ocean a governance DAO? Can we use it to change parameter x?
