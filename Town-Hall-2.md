@@ -2,7 +2,7 @@ OceanDAO Town Hall 2 is Wednesday, December 9th at 4:00pm GMT
 
 ## Recording
 
-If you happened to miss OceanDAO Town Hall #2
+If you happened to miss OceanDAO Town Hall #2, here is the recording:
 
 
 Meeting Recording:
