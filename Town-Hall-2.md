@@ -6,6 +6,7 @@ If you happened to miss OceanDAO Town Hall #2, here is the recording:
 
 
 Meeting Recording:
+
 https://us02web.zoom.us/rec/share/bTYLXeBlTTHwbd9KSwiSEv7hNeTH6cIcsZQZ1EhJHoQ9-0RVf7QYaRF_yG9D__Sy.jNWpwMDJWdKy2_Rw
 
 
