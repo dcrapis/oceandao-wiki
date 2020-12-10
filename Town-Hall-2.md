@@ -19,7 +19,7 @@ https://us02web.zoom.us/rec/share/bTYLXeBlTTHwbd9KSwiSEv7hNeTH6cIcsZQZ1EhJHoQ9-0
 <li>00:00 - 00:10 : OceanDAO Traction</li>
 <li>00:10 - 00:45 : Explaining OceanDAO ROI</li>
 <li>00:45 - 00:50 : Elaborating on Proposal Ideas</li>
-<li>00:50 - 01:05 : Open Q&A</li>
+<li>00:50 - 01:00 : Open Q&A</li>
  
 ## Calendar
 
