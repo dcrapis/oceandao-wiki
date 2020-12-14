@@ -7,8 +7,9 @@ OceanDAO Town Hall 3 is Wednesday, December 16th at 4:00pm GMT
 ## Agenda
 
 <li>00:00 - 00:05 : Introduction</li>
-<li>00:05 - 00:20 : OceanDAO Traction</li>
-<li>00:15 - 01:00 : Open Q&A</li>
+<li>00:05 - 00:10 : OceanDAO Traction</li>
+<li>00:15 - 00:25 : Voting Goes Live</li>
+<li>00:25 - 01:00 : Open Q&A</li>
  
 ## Calendar
 
