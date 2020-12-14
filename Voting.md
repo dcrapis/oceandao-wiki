@@ -1,6 +1,4 @@
-Voting: Details
-
-Voting will take place on: vote.oceanprotocol.com
+Voting will take place on: [vote.oceanprotocol.com](vote.oceanprotocol.com)
 
 Implementation:
 
