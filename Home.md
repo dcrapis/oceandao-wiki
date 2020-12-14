@@ -57,6 +57,8 @@ Here are steps for a given funding round.
 1. Ask questions in [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) and [OceanDAO Town Halls](OceanDAO-Town-Hall).
 1. Vote on projects to choose winners in [Ocean Shapshot](https://vote.oceanprotocol.com/).
 
+## Voting
+
 ## Town Hall
 
 OceanDAO Town Hall is a regular videochat gatherings among community members, open to all. It’s a great place to get to know the community. Here you can ask questions, share proposal feedback, and more.
