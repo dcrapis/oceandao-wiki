@@ -1,6 +1,6 @@
 Voting will take place on: [vote.oceanprotocol.com](vote.oceanprotocol.com)
 
-##Implementation:
+## Implementation:
 
 - At proposal deadline (December 14th at 23:59 pm GMT), Proposals that meet the “Minimum Proposal Requirements” and “Project Criteria” will be migrated to the OceanDAO Voting Page.
 
