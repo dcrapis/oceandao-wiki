@@ -1,8 +1,12 @@
 ## Introduction
 
-Looking for inspiration, insights and ideas for what to propose? Browse through some of the following resources for ideas.
+Want to help but still looking for ideas on what to propose? Here's some inspiration:
+ * Browse through the rest of this page
+ * See the “Request for Proposal” ideas [in OceanDAO Forum](https://port.oceanprotocol.com/t/oceandao-request-for-proposal/268). (And if you *do* have ideas then post them there:)
 
-Recall that funding is for projects of these four types:
+###
+
+**Types of Projects.** Recall that funding is for projects of these four types:
 1. Build / improve applications or integrations to Ocean
 1. Outreach / community (grants don't need to be technical in nature)
 1. Unleash data
