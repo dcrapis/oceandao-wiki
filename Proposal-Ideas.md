@@ -1,7 +1,7 @@
 ## Introduction
 
 Want to help but still looking for ideas on what to propose? Here's some inspiration:
- * Browse through the rest of this page
+ * Browse through the rest of this page, and
  * See the “Request for Proposal” ideas [in OceanDAO Forum](https://port.oceanprotocol.com/t/oceandao-request-for-proposal/268). (And if you *do* have ideas then post them there:)
 
 ###
