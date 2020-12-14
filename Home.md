@@ -59,12 +59,9 @@ Here are steps for a given funding round.
 
 ## Town Hall
 
-**[OceanDAO Town Hall](OceanDAO-Town-Hall)** is a regular videochat gathering among community members, open to all. It’s a great place to get to know the community. Here you can ask questions, share proposal feedback, and more.
+OceanDAO Town Hall is a regular videochat gatherings among community members, open to all. It’s a great place to get to know the community. Here you can ask questions, share proposal feedback, and more.
 
-Town hall dates:
-1. Wed Dec 2, 2020 at 16:00 GMT
-1. Wed Dec 9, 2020 at 16:00 GMT
-1. Wed Dec 16, 2020 at 16:00 GMT
+The **[Town Hall page](OceanDAO-Town-Hall)** has more info, including dates.
 
 ## On OceanDAO Evolution
 
