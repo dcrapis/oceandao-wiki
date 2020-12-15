@@ -1,6 +1,6 @@
 Voting will take place on: [vote.oceanprotocol.com](vote.oceanprotocol.com)
 
-See all of the proposals [here](https://port.oceanprotocol.com/c/oceandao/56)
+See all of the proposals [here](https://port.oceanprotocol.com/c/oceandao/56).
 
 ## Voting:
 
