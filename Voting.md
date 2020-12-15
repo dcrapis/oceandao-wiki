@@ -12,6 +12,7 @@ Questions, [join the Discord conversation](https://discord.com/channels/61295334
 - Connect your Web3 wallet containing your OCEAN tokens.
 - Select the proposal you wish to vote for.
 - Click “Vote” and sign with your wallet.
+- No gas fees.
 - Vote percentages will adjust accordingly as votes are counted.
 
 Note: the vote simply just counts the amount of OCEAN in your wallet. No OCEAN will be taken from your wallet. It is a gasless transaction; no fee.
