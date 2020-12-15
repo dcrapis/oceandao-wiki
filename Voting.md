@@ -1,5 +1,7 @@
 Voting will take place on: [vote.oceanprotocol.com](vote.oceanprotocol.com)
 
+See all of the proposals [here](https://port.oceanprotocol.com/c/oceandao/56)
+
 ## Voting:
 
 ![](https://miro.medium.com/max/1050/0*xy_BvLdqNnvVvdYv)
