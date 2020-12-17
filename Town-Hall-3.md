@@ -1,5 +1,15 @@
 OceanDAO Town Hall 3 is Wednesday, December 16th at 4:00pm GMT
 
+## Recording
+
+If you happened to miss OceanDAO Town Hall #2, here is the recording:
+
+
+Meeting Recording:
+
+https://us02web.zoom.us/rec/share/I2_IEFiavXENBPhn7IOJPylzlRxvFDJZQa7QDOVgRJahaGTUNBaOHSDUenL41iq9.-iqPw1Ou5z2yi8uo
+
+
 ## Zoom Link
 
  https://us02web.zoom.us/j/85348205395
