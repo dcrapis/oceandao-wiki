@@ -31,7 +31,7 @@ Project criteria: (1) [ROI](On-ROI) towards growth (2) aligned with Ocean missio
 | **Funding Round**              | **Proposals Due By**      | **Voting Ends**           | **Amount**                 |
 | --                             | --                        | --                        |  --                        |
 | **[Round 1](Funding-Round-1)** | Dec 14, 2020 at 23:59 GMT | Dec 21, 2020 at 23:59 GMT | 10000 OCEAN x 5 recipients |
-| [Round 2](Funding-Round-2)            | Feb 1, 2021 at 23:59 GMT  | Feb 4, 2021 at 23:59 GMT  | TBD                        |
+| **[Round 2](Funding-Round-2)** | Feb 1, 2021 at 23:59 GMT  | Feb 4, 2021 at 23:59 GMT  | TBD                        |
 | Round 3 (tentative)            | Mar 1, 2021 at 23:59 GMT  | Mar 4, 2021 at 23:59 GMT  | ""                         |
 | ..                             | ..                        | ..                        | ..                         |
 
