@@ -9,6 +9,9 @@ https://discord.com/invite/hfxNQmB9H5
 
 Agenda:
 00:00 - 00:10 : Round 1 Results.
+
 00:10 - 00:15 : OceanDAO Roadmap.
+
 00:15 - 00:30 : Round 2 process and changes.
+
 00:30 - 01:00 : Open Q&A and Feedback.
