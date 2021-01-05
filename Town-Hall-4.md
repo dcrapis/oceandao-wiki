@@ -8,6 +8,7 @@ Discord Link:
 https://discord.com/invite/hfxNQmB9H5
 
 Agenda:
+
 00:00 - 00:10 : Round 1 Results.
 
 00:10 - 00:15 : OceanDAO Roadmap.
