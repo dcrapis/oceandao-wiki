@@ -3,7 +3,7 @@
 This week's OceanDAO Town Hall will take place on the Ocean Discord - OceanDAO Voice channel.
 
 
-Navigate to the OceanDAO Voice Channel on January 6th at 4:00pm GMT, or use the link below.
+Navigate to the OceanDAO Voice Channel on Discord on January 6th at 4:00pm GMT, or use the link below.
 
 
 **Discord Link:**
