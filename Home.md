@@ -84,11 +84,16 @@ If you were not selected for a grant in this Funding Round, we highly encourage 
 
 
 
-## OceanDAO Town Hall
+## Dicussion
+
+OceanDAO Town Hall
 
 OceanDAO Town Hall is a regular videochat gatherings among community members, open to all. It’s a great place to get to know the community. Here you can ask questions, share proposal feedback, and more.
 
 The **[Town Hall page](OceanDAO-Town-Hall)** has more info, including dates.
+
+OceanDAO Discord
+[OceanDAO Discord](https://discord.gg/uvyQFWGBn8)
 
 ## On OceanDAO Evolution
 
@@ -139,7 +144,7 @@ OceanDAO Funding Rounds have these actions and dates:
 - Project proposals - post a proposal following [this template](https://github.com/oceanprotocol/oceandao/wiki/Grant-Proposal-Template), to [OceanDAO Discourse](https://port.oceanprotocol.com/c/oceandao/) 
   - Proposals open on November 30th at 12:00 GMT
   - Proposals deadline on December 14th at 23:59 GMT
-- Discussion - at [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) and [Town Halls](https://github.com/oceanprotocol/oceandao/wiki/OceanDAO-Town-Hall)
+- Discussion - at  and [Town Halls](https://github.com/oceanprotocol/oceandao/wiki/OceanDAO-Town-Hall)
 - Voting - vote on [Ocean Snapshot](http://vote.oceanprotocol.com/). 1 OCEAN = 1 vote.
   - Voting opens December 15th at 12:00  GMT
   - Voting ends December 21st at 23:59 GMT
