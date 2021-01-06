@@ -26,19 +26,6 @@ Funding is for projects of these types:
 
 Project criteria: (1) [ROI](On-ROI) towards growth (2) aligned with Ocean mission. Details on criteria are in the page for a given funding round.
 
-## Highlights
-
-OceanDAO Funding Rounds have these actions and dates:
-- Project proposals - post a proposal following [this template](https://github.com/oceanprotocol/oceandao/wiki/Grant-Proposal-Template), to [OceanDAO Discourse](https://port.oceanprotocol.com/c/oceandao/) 
-  - Proposals open on November 30th at 12:00 GMT
-  - Proposals deadline on December 14th at 23:59 GMT
-- Discussion - at [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) and [Town Halls](https://github.com/oceanprotocol/oceandao/wiki/OceanDAO-Town-Hall)
-- Voting - vote on [Ocean Snapshot](http://vote.oceanprotocol.com/). 1 OCEAN = 1 vote.
-  - Voting opens December 15th at 12:00  GMT
-  - Voting ends December 21st at 23:59 GMT
-- Grants - Each winning project will receive 10000 OCEAN from OceanDAO. There will be 5 winners: the top 5 highest voted proposals.
-  - Funds will be disbursed to grantees within 24 hours after voting ends.
-
 ## Funding Rounds
 
 ### Current
@@ -141,3 +128,20 @@ When proposing a project, these are the two criteria to keep in consideration: (
 
 Anyone can propose a project to OceanDAO. However, to be considered, you **must have at least 5,000 OCEAN** in the same Ethereum wallet as listed in your proposal by the time the proposal process ends (December 14th, 23:59 pm GMT). If selected for a grant, this will be the same wallet where you will receive your grant funding. This helps to filter towards people with a vested interest or “skin in the game” in OCEAN - that is, Ocean community members. Ocean Protocol team members will verify.
 
+
+
+///
+
+
+## Highlights
+
+OceanDAO Funding Rounds have these actions and dates:
+- Project proposals - post a proposal following [this template](https://github.com/oceanprotocol/oceandao/wiki/Grant-Proposal-Template), to [OceanDAO Discourse](https://port.oceanprotocol.com/c/oceandao/) 
+  - Proposals open on November 30th at 12:00 GMT
+  - Proposals deadline on December 14th at 23:59 GMT
+- Discussion - at [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) and [Town Halls](https://github.com/oceanprotocol/oceandao/wiki/OceanDAO-Town-Hall)
+- Voting - vote on [Ocean Snapshot](http://vote.oceanprotocol.com/). 1 OCEAN = 1 vote.
+  - Voting opens December 15th at 12:00  GMT
+  - Voting ends December 21st at 23:59 GMT
+- Grants - Each winning project will receive 10000 OCEAN from OceanDAO. There will be 5 winners: the top 5 highest voted proposals.
+  - Funds will be disbursed to grantees within 24 hours after voting ends.
