@@ -29,7 +29,7 @@ Funding is for projects of these types:
 
 Project criteria: (1) [ROI](On-ROI) towards growth, (2) aligned with Ocean mission, (3) meet minimum proposal requirements. 
 
-When proposing a project, these are the two criteria to keep in consideration: (1) ROI towards **growth** (2) aligned with Ocean **mission**. Projects that fail (2) will not be considered for voting. Once voting opens, only criterion (1) remains. Let’s elaborate!
+When proposing a project, these are the three criteria to keep in consideration: (1) ROI towards **growth** (2) aligned with Ocean **mission**. Projects that fail (2) will not be considered for voting. Once voting opens, only criterion (1) remains. Additionally, your proposal must (3) meet a minimum proposal requirement. Let’s elaborate!
 
 **Criterion (1). On average, value added to the Ocean ecosystem must exceed the grant value spent.**
 - That is, the average “return on investment” (ROI) must be > 1.0. Value added by a project is hard to know in advance. Some will fail; others will succeed and bring 10x value. But this must hold true on average across projects. 
