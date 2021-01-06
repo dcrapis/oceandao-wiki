@@ -38,7 +38,7 @@ Funds are dispersed within 24h of voting ending.
 
 Future OceanDAO funding rounds are monthly, with proposals due on the first of every month then a 3 day voting window thereafter.
 
-See here for expanded information on [Future and Previous rounds](future-and-previous-rounds).
+See expanded information on [Future and Previous rounds](future-and-previous-rounds).
 
 ## Steps - Summary
 
