@@ -14,10 +14,10 @@ https://discord.com/invite/hfxNQmB9H5
 
 ## Agenda
 
-<li>00:00 - 00:10 : Round 1 Results.</li>
-<li>00:10 - 00:15 : OceanDAO Roadmap.</li>
-<li>00:15 - 00:30 : Round 2 process and changes.</li>
-<li>00:30 - 01:00 : Open Q&A and Feedback.</li>
+- Round 1 Results
+- OceanDAO Roadmap
+- Round 2 process and changes
+- Open Q&A and Feedback
 
 
 
