@@ -26,7 +26,9 @@ Funding is for projects of these types:
 
 Project criteria: (1) [ROI](On-ROI) towards growth (2) aligned with Ocean mission. Details on criteria are in the page for a given funding round.
 
-## Current Funding Round
+##Funding Rounds
+
+## Current
 | **Funding Round**              | **Proposals Due By**      | **Voting Ends**           | **Amount**                 |
 | --                             | --                        | --                        |  --                        |
 | **Round 2** | Feb 1, 2021 at 23:59 GMT  | Feb 4, 2021 at 23:59 GMT  | 10000 OCEAN                |
