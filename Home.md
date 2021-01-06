@@ -34,10 +34,15 @@ Project criteria: (1) [ROI](On-ROI) towards growth (2) aligned with Ocean missio
 Funds are dispersed within 24h of voting ending.
 
 ## Future Funding Rounds
+
+OceanDAO funding rounds are monthly, with proposals due on the first of every month then a 3 day voting window thereafter.
+
 | **Funding Round**              | **Proposals Due By**      | **Voting Ends**           | **Amount**                 |
 | --                             | --                        | --                        |  --                        |
-| Round 3 (tentative)            | Mar 1, 2021 at 23:59 GMT  | Mar 4, 2021 at 23:59 GMT  | ""                         |
+| Round 3                        | Mar 1, 2021 at 23:59 GMT  | Mar 4, 2021 at 23:59 GMT  | ""                         |
+| Round 4                        | April 1, 2021 at 23:59 GMT  | April 4, 2021 at 23:59 GMT  | ""                         |
 | ..                             | ..                        | ..                        | ..                         |
+
 
 
 ## Previous Funding Round
