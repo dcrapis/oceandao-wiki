@@ -77,7 +77,7 @@ Follow this [step-by-step guide](https://github.com/oceanprotocol/oceandao/wiki/
 
 ## Grant - Details
 
-###Grant Recipients:
+### Grant Recipients:
 
 **In Funding Round 1, each winning project will receive 10,000 OCEAN** from OceanDAO. There will be **5 winners**: the top 5 highest voted proposals (additionally, to receive a grant you must also receive greater than 1% of the vote).
 
@@ -85,7 +85,7 @@ Funds will be disbursed to the grantees within 24 hours after voting ends.
 
 Funds for OceanDAO currently come from Ocean Protocol Foundation (OPF).
 
-###Non-Grant Recipients:
+### Non-Grant Recipients:
 
 If you were not selected for a grant in this Funding Round, we highly encourage you to continue to stay involved in the Ocean community. You are appreciated! There are future OceanDAO funding rounds on the first of every month starting in February 2021, and other opportunities to receive [funding](https://oceanprotocol.com/fund).
 
