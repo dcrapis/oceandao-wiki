@@ -45,7 +45,7 @@ OceanDAO Funding Rounds have these actions and dates:
 
 | **Funding Round**              | **Proposals Due By**      | **Voting Ends**           | **Amount**                 | **Winners** |
 | --                             | --                        | --                        |  --                        | -- |
-| Round 2 | Feb 1, 2021 at 23:59 GMT  | Feb 4, 2021 at 23:59 GMT  | 10000 OCEAN                | |
+| Round 2 | Feb 1, 2021 at 23:59 GMT  | Feb 4, 2021 at 23:59 GMT  | 10000 OCEAN                | 7 |
 
 Funds are dispersed within 24h of voting ending.
 
