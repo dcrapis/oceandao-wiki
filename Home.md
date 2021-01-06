@@ -25,19 +25,16 @@ Funding is for projects of these types:
 [Here](Proposal-Ideas) are proposal ideas.
 
 
-## Funding Rounds
-
-### Current
+## Next Funding Rounds
 
 | **Funding Round**              | **Proposals Due By**      | **Voting Ends**           | **Amount Each**                 | **Grantees** |
-| --                             | --                        | --                        |  --                        | -- |
+| --                             | --                        | --                        |  --                             | -- |
 | [Round 2](https://port.oceanprotocol.com/c/oceandao/round-2/58) | Feb 1, 2021 at 23:59 GMT  | Feb 4, 2021 at 23:59 GMT  | 10000 OCEAN                | 7 |
+| Round 3, 4, 5, ...             | Mar 1, Apr 1, May 1, ..   | Mar 4, Apr 4, May 4, ..   | TBD                             | TBD |
 
 Funds are dispersed within 24h of voting ending.
 
-NOTE: **OceanDAO funding rounds are ongoing monthly**, with proposals due on the first of every month then a 3 day voting window thereafter.
-
-See expanded information on [Future and Previous rounds](future-and-previous-rounds).
+Details are at [Future and Previous Rounds](future-and-previous-rounds).
 
 ## Project Submission Criteria
 
