@@ -36,6 +36,8 @@ Project criteria: (1) [ROI](On-ROI) towards growth (2) aligned with Ocean missio
 
 Funds are dispersed within 24h of voting ending.
 
+See here for expanded information on [Future and Previous rounds](future-and-previous).
+
 ### Future
 
 OceanDAO funding rounds are monthly, with proposals due on the first of every month then a 3 day voting window thereafter.
