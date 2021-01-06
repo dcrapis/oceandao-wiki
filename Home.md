@@ -25,6 +25,20 @@ Funding is for projects of these types:
 [Here](Proposal-Ideas) are proposal ideas.
 
 
+## Funding Rounds
+
+### Current
+
+| **Funding Round**              | **Proposals Due By**      | **Voting Ends**           | **Amount**                 | **Grantees** |
+| --                             | --                        | --                        |  --                        | -- |
+| Round 2 | Feb 1, 2021 at 23:59 GMT  | Feb 4, 2021 at 23:59 GMT  | 10000 OCEAN                | 7 |
+
+Funds are dispersed within 24h of voting ending.
+
+Future **OceanDAO funding rounds are monthly**, with proposals due on the first of every month then a 3 day voting window thereafter.
+
+See expanded information on [Future and Previous rounds](future-and-previous-rounds).
+
 ## Project Criteria
 
 Project criteria: (1) [ROI](On-ROI) towards growth, (2) aligned with Ocean mission, (3) meet a minimum proposal requirement. 
@@ -41,20 +55,6 @@ When proposing a project, these are the three criteria to keep in consideration:
 
 **Criterion (3). Minimum Proposal Requirements.**
 - Anyone can propose a project to OceanDAO. However, to be considered, you **must have at least 2,000 OCEAN** in the same Ethereum wallet as listed in your proposal by the time the proposal process ends (first day of month at 23:59 GMT). If selected for a grant, this will be the same wallet where you will receive your grant funding. This helps to filter towards people with a vested interest or “skin in the game” in OCEAN - that is, Ocean community members. Ocean Protocol team members will verify.
-
-## Funding Rounds
-
-### Current
-
-| **Funding Round**              | **Proposals Due By**      | **Voting Ends**           | **Amount**                 | **Grantees** |
-| --                             | --                        | --                        |  --                        | -- |
-| Round 2 | Feb 1, 2021 at 23:59 GMT  | Feb 4, 2021 at 23:59 GMT  | 10000 OCEAN                | 7 |
-
-Funds are dispersed within 24h of voting ending.
-
-Future **OceanDAO funding rounds are monthly**, with proposals due on the first of every month then a 3 day voting window thereafter.
-
-See expanded information on [Future and Previous rounds](future-and-previous-rounds).
 
 ## Steps - Summary
 
