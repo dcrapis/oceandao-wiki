@@ -17,7 +17,7 @@ Questions, [join the Discord conversation](https://discord.com/channels/61295334
 
 Note: the vote simply just counts the amount of OCEAN in your wallet. No OCEAN will be taken from your wallet. It is a gasless transaction; no fee.
 
-## Implementation:
+## Voting Implementation:
 
 - At proposal deadline (December 14th at 23:59 pm GMT), Proposals that meet the “Minimum Proposal Requirements” and “Project Criteria” will be migrated to the OceanDAO Voting Page.
 
