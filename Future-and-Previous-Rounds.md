@@ -12,5 +12,5 @@ OceanDAO funding rounds are ongoing monthly, with proposals due on the first of 
 
 ### Previous
 | **Funding Round**              | **Proposals Due By**      | **Voting Ends**           | **Amount Each**                 | **Grantees** |
-| --                             | --                        | --                        |  --                        |
+| --                             | --                        | --                        |  --                        | -- |
 | **[Round 1](Funding-Round-1)** | Dec 14, 2020 at 23:59 GMT | Dec 21, 2020 at 23:59 GMT | 10000 OCEAN  | 5 |
