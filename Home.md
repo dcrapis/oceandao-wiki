@@ -88,7 +88,7 @@ The OceanDAO Town Hall is a regular videochat gatherings among community members
 The **[Town Hall page](OceanDAO-Town-Hall)** has more info, including dates.
 
 ### Discord
-[OceanDAO Discord](https://discord.gg/uvyQFWGBn8)
+Join the [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) for on going collaboration and discussion. 
 
 ## On OceanDAO Evolution
 
