@@ -82,17 +82,15 @@ Funds for OceanDAO currently come from Ocean Protocol Foundation (OPF).
 If you were not selected for a grant in this Funding Round, we highly encourage you to continue to stay involved in the Ocean community. You are appreciated! There are future OceanDAO funding rounds on the first of every month starting in February 2021, and other opportunities to receive [funding](https://oceanprotocol.com/fund).
 
 
-
-
 ## Dicussion
 
-OceanDAO Town Hall
+### OceanDAO Town Hall
 
 OceanDAO Town Hall is a regular videochat gatherings among community members, open to all. It’s a great place to get to know the community. Here you can ask questions, share proposal feedback, and more.
 
 The **[Town Hall page](OceanDAO-Town-Hall)** has more info, including dates.
 
-OceanDAO Discord
+### OceanDAO Discord
 [OceanDAO Discord](https://discord.gg/uvyQFWGBn8)
 
 ## On OceanDAO Evolution
