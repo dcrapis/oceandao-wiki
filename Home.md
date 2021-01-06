@@ -39,7 +39,7 @@ Future **OceanDAO funding rounds are monthly**, with proposals due on the first 
 
 See expanded information on [Future and Previous rounds](future-and-previous-rounds).
 
-## Project Criteria
+## Project Submission Criteria
 
 Project criteria: (1) [ROI](On-ROI) towards growth, (2) aligned with Ocean mission, (3) meet a minimum proposal requirement. 
 
