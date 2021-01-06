@@ -4,7 +4,7 @@ See all of the proposals [here](https://port.oceanprotocol.com/c/oceandao/56).
 
 Questions, [join the Discord conversation](https://discord.com/channels/612953348487905282/776848812534398986).
 
-## Voting:
+## How To Vote:
 
 ![](https://miro.medium.com/max/1050/0*xy_BvLdqNnvVvdYv)
 
