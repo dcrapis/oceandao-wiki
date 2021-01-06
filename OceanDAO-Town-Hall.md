@@ -7,7 +7,7 @@ Current:
 
 * [Town Hall 4](Town-Hall-4) - Wed Jan 6, 2020 at 16:00 GMT
 
-Upcoming:
+Future:
 
 * [Town Hall 5](Town-Hall-5) - Wed Jan 13, 2020 at 16:00 GMT
 * [Town Hall 6](Town-Hall-6) - Wed Jan 20, 2020 at 16:00 GMT
