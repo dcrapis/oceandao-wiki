@@ -128,7 +128,7 @@ Here are steps for a given funding round.
 1. Vote on projects to choose winners in [Ocean Shapshot](https://vote.oceanprotocol.com/).
 
 ## Voting
-Follow this [step-by-step guide](https://github.com/oceanprotocol/oceandao/wiki/Voting) on the voting process!
+Follow this [step-by-step guide](https://github.com/oceanprotocol/oceandao/wiki/Voting) on the voting process and rules!
 
 
 ## Town Hall
