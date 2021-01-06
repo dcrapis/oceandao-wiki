@@ -84,19 +84,6 @@ When proposing a project, these are the two criteria to keep in consideration: (
 
 Anyone can propose a project to OceanDAO. However, to be considered, you **must have at least 5,000 OCEAN** in the same Ethereum wallet as listed in your proposal by the time the proposal process ends (December 14th, 23:59 pm GMT). If selected for a grant, this will be the same wallet where you will receive your grant funding. This helps to filter towards people with a vested interest or “skin in the game” in OCEAN - that is, Ocean community members. Ocean Protocol team members will verify.
 
-# Voting: Details
-
-Voting will take place on: [vote.oceanprotocol.com](vote.oceanprotocol.com)
-
-**Implementation:**
-- At proposal deadline (December 14th at 23:59 pm GMT), Proposals that meet the “Minimum Proposal Requirements” and “Project Criteria” will be migrated to the [OceanDAO Voting Page](http://vote.oceanprotocol.com/).
-- Vote with your OCEAN Tokens. 1 OCEAN = 1 vote.
-- **In order for your vote to count**, you must have the OCEAN already in the non-custodial wallet you plan on voting with before the vote opens (December 15th at 12:00 pm GMT). This is so your existing OCEAN balance can be counted. 
-- Voting from exchanges is not supported.
-- Only one wallet address can vote on one proposal. 1 Address = 1 Proposal.
-  - If you would like to vote on more than one proposal, you will need to fund your multiple wallet addresses with the respective amount of OCEAN before the voting opens.
-- You can only vote with the OCEAN tokens in your wallet. You will be unable to vote with OCEAN that is deposited as liquidity in Ocean Market, Bancor, or otherwise. It is your choice if you would like to remove liquidity, vote, and re-add the liquidity back later.
-  - Risks come with removing liquidity (impermanent loss etc), which you must manage. In the future, we aim to support voting without needing to remove liquidity (e.g. vote with BPTs).
 
 # Grant: Details
 
