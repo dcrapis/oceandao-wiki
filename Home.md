@@ -30,7 +30,7 @@ Project criteria: (1) [ROI](On-ROI) towards growth (2) aligned with Ocean missio
 
 ### Current
 
-| **Funding Round**              | **Proposals Due By**      | **Voting Ends**           | **Amount**                 | **Winners** |
+| **Funding Round**              | **Proposals Due By**      | **Voting Ends**           | **Amount**                 | **Grantees** |
 | --                             | --                        | --                        |  --                        | -- |
 | Round 2 | Feb 1, 2021 at 23:59 GMT  | Feb 4, 2021 at 23:59 GMT  | 10000 OCEAN                | 7 |
 
@@ -58,7 +58,7 @@ Here are steps for a given funding round.
 
 1. Review projects at [Ocean Discourse](https://port.oceanprotocol.com/c/oceandao/56).
 1. Ask questions in [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) and [OceanDAO Town Halls](OceanDAO-Town-Hall).
-1. Vote on projects to choose winners in [Ocean Shapshot](https://vote.oceanprotocol.com/).
+1. Vote on projects to choose grantees in [Ocean Shapshot](https://vote.oceanprotocol.com/).
 
 ## Voting
 Follow this [step-by-step guide](https://github.com/oceanprotocol/oceandao/wiki/Voting) on the voting process and rules!
@@ -68,13 +68,11 @@ Follow this [step-by-step guide](https://github.com/oceanprotocol/oceandao/wiki/
 ### Grant Recipients:
 
 - **Amount:** In each funding round, winning projects will receive the current specified grant amount of $OCEAN from OceanDAO. 
-- **Winners:** Each funding round will define how many winners there will be. These will be the top defined number of highest voted on proposals (additionally, to receive a grant you must also receive greater than 1% of the vote).
+- **Grantees:** Each funding round will define how many grantees there will be. These will be the top defined number of highest voted on proposals (additionally, to receive a grant you must also receive greater than 1% of the vote). There will be x grantees: the top x highest voted proposals.
 
 Funds will be disbursed to the grantees within 24 hours after voting ends.
 
 Funds for OceanDAO currently come from Ocean Protocol Foundation (OPF).
-
-There will be 5 winners: the top 5 highest voted proposals.
 
 ### Non-Grant Recipients:
 
