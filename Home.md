@@ -35,7 +35,7 @@ Funding is for projects of these types:
 
 Funds are dispersed within 24h of voting ending.
 
-NOTE: **OceanDAO funding rounds are monthly**, with proposals due on the first of every month then a 3 day voting window thereafter.
+NOTE: **OceanDAO funding rounds are ongoing monthly**, with proposals due on the first of every month then a 3 day voting window thereafter.
 
 See expanded information on [Future and Previous rounds](future-and-previous-rounds).
 
