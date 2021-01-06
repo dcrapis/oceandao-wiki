@@ -31,7 +31,7 @@ Funding is for projects of these types:
 
 | **Funding Round**              | **Proposals Due By**      | **Voting Ends**           | **Amount Each**                 | **Grantees** |
 | --                             | --                        | --                        |  --                        | -- |
-| Round 2 | Feb 1, 2021 at 23:59 GMT  | Feb 4, 2021 at 23:59 GMT  | 10000 OCEAN                | 7 |
+| [Round 2](https://port.oceanprotocol.com/c/oceandao/round-2/58) | Feb 1, 2021 at 23:59 GMT  | Feb 4, 2021 at 23:59 GMT  | 10000 OCEAN                | 7 |
 
 Funds are dispersed within 24h of voting ending.
 
