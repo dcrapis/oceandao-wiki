@@ -84,11 +84,11 @@ Follow this [step-by-step guide](https://github.com/oceanprotocol/oceandao/wiki/
 ### Grant Recipients:
 
 - **Amount:** In each funding round, winning projects will receive the current specified grant amount (see above) of OCEAN from OceanDAO. 
-- **Grantees:** Each funding round, the Ocean Protocol Foundation will define how many projects will receive grants. Further, these grantees will be selected by the top number of highest voted on proposals (additionally, to receive a grant you must also receive greater than 1% of the vote).
+- **Grantees:** Each funding round, the Ocean Protocol Foundation (OPF) will define how many projects will receive grants. Further, these grantees will be selected by the top number of highest voted on proposals (additionally, to receive a grant you must also receive greater than 1% of the vote).
 
 Funds will be disbursed to the grantees within 24 hours after voting ends.
 
-Funds for OceanDAO currently come from Ocean Protocol Foundation (OPF).
+Funds for OceanDAO currently come from the OPF.
 
 ### Non-Grant Recipients:
 
