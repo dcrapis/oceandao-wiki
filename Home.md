@@ -124,18 +124,6 @@ The best practices and technology around DAOs are still evolving. OceanDAO’s s
 It has the links and up-to-date information you need, to participate as a project team member or as a community curator. Being a wiki enables rapid update cycles, changeable by everyone to improve it.
 
 
-
-
-//////////////END///////////////////
-
-
-
-
-
-
-///
-
-
 ## Highlights
 
 OceanDAO Funding Rounds have these actions and dates:
