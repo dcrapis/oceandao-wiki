@@ -10,13 +10,16 @@ Navigate to the OceanDAO Voice Channel on Discord on January 6th at 4:00pm GMT, 
 https://discord.com/invite/hfxNQmB9H5
 
 
+## Agenda
 
-Agenda:
+<li>00:00 - 00:10 : Round 1 Results.</li>
+<li>00:10 - 00:15 : OceanDAO Roadmap.</li>
+<li>00:15 - 00:30 : Round 2 process and changes.</li>
+<li>00:30 - 01:00 : Open Q&A and Feedback.</li>
 
-00:00 - 00:10 : Round 1 Results.
 
-00:10 - 00:15 : OceanDAO Roadmap.
 
-00:15 - 00:30 : Round 2 process and changes.
 
-00:30 - 01:00 : Open Q&A and Feedback.
+
+
+
