@@ -2,9 +2,8 @@
 
 Instructions:
 1. Fill out the template <u>as applicable</u> below.
-2. Publish the proposal on [OceanDAO Discourse](https://port.oceanprotocol.com/c/oceandao/56) as a New Topic in the current round's Channel.
-
-For more information visit the [OceanDAO Wiki Homepage](https://github.com/oceanprotocol/oceandao/wiki).
+2. Refer to the "Project Submission Criteria" on the [OceanDAO Wiki Homepage](https://github.com/oceanprotocol/oceandao/wiki).
+3. Publish the proposal on [OceanDAO Discourse](https://port.oceanprotocol.com/c/oceandao/56) as a New Topic in the current round's Channel.
 
 
 ----
