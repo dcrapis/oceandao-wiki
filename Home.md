@@ -27,7 +27,7 @@ Funding is for projects of these types:
 
 ## Project Criteria
 
-Project criteria: (1) [ROI](On-ROI) towards growth, (2) aligned with Ocean mission, (3) meet minimum proposal requirements. 
+Project criteria: (1) [ROI](On-ROI) towards growth, (2) aligned with Ocean mission, (3) meet a minimum proposal requirement. 
 
 When proposing a project, these are the three criteria to keep in consideration: (1) ROI towards **growth** (2) aligned with Ocean **mission**. Projects that fail (2) will not be considered for voting. Once voting opens, only criterion (1) remains. Additionally, your proposal must (3) meet a minimum proposal requirement. Let’s elaborate!
 
