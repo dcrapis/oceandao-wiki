@@ -97,7 +97,7 @@ If you were not selected for a grant in this Funding Round, we highly encourage 
 
 ## Dicussion
 
-### Town Hall
+### Town Halls
 
 The OceanDAO Town Hall is a regular videochat gatherings among community members, open to all. It’s a great place to get to know the community. Here you can ask questions, share proposal feedback, and more.
 
