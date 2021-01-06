@@ -122,15 +122,3 @@ The best practices and technology around DAOs are still evolving. OceanDAO’s s
 ## What's This Wiki?
 
 It has the links and up-to-date information you need, to participate as a project team member or as a community curator. Being a wiki enables rapid update cycles, changeable by everyone to improve it.
-
-
-## Highlights
-
-OceanDAO Funding Rounds have these actions and dates:
-- Project proposals - post a proposal following [this template](https://github.com/oceanprotocol/oceandao/wiki/Grant-Proposal-Template), to [OceanDAO Discourse](https://port.oceanprotocol.com/c/oceandao/) 
-  - Proposals open on November 30th at 12:00 GMT
-  - Proposals deadline on December 14th at 23:59 GMT
-
-- Voting - vote on [Ocean Snapshot](http://vote.oceanprotocol.com/). 1 OCEAN = 1 vote.
-  - Voting opens December 15th at 12:00  GMT
-  - Voting ends December 21st at 23:59 GMT
