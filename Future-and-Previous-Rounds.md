@@ -1,11 +1,3 @@
-### Current
-
-| **Funding Round**              | **Proposals Due By**      | **Voting Ends**           | **Amount**                 |
-| --                             | --                        | --                        |  --                        |
-| Round 2 | Feb 1, 2021 at 23:59 GMT  | Feb 4, 2021 at 23:59 GMT  | 10000 OCEAN                |
-
-Funds are dispersed within 24h of voting ending.
-
 ### Future
 
 OceanDAO funding rounds are monthly, with proposals due on the first of every month then a 3 day voting window thereafter.
