@@ -27,7 +27,7 @@ Funding is for projects of these types:
 
 ## Next Funding Rounds
 
-| **Funding Round**   |  **Proposals Due By**   |   **Voting Wallet Balance Snapshot**      |     **Voting Ends**       |  **Amount Each**    | **Grantees**  |
+| **Funding Round** | **Proposals Due By** | **Voting Wallet Balance Snapshot** | **Voting Ends** | **Amount Each** | **Grantees** |
 
 
 | --                | --                    | --                                      | --                                          |            --  |
