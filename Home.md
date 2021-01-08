@@ -27,10 +27,10 @@ Funding is for projects of these types:
 
 ## Next Funding Rounds
 
-| **Funding Round**              | **Proposals Due By**      |  **Voting Wallet Balance Snapshot**     |    **Voting Ends**        | **Amount Each**                 | **Grantees** |
-| --                             | --                        | -- | --                        |  --                             | -- |
+| **Funding Round** | **Proposals Due By**  |  **Voting Wallet Balance Snapshot**     |    **Voting Ends**      | **Amount Each**   | **Grantees** |
+| --                | --                    | --                                      | --                                          |            -- |
 | [Round 2](https://port.oceanprotocol.com/c/oceandao/round-2/58) | Feb 1, 2021 at 23:59 GMT  | Feb 1, 2021 at 23:59 GMT  | Feb 4, 2021 at 23:59 GMT  | 10000 OCEAN                | 7 |
-| Round 3, 4, 5, ...             | Mar 1, Apr 1, May 1, ..   |  Mar 1, Apr 1, May 1, ..   | Mar 4, Apr 4, May 4, ..   | TBD                             | TBD |
+| Round 3, 4, 5, ...             | Mar 1, Apr 1, May 1, ..   |  Mar 1, Apr 1, May 1, ..   | Mar 4, Apr 4, May 4, ..   | TBD         | TBD |
 
 Funds are dispersed within 24h of voting ending.
 
