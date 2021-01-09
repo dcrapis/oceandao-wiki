@@ -8,9 +8,14 @@ Navigate to the OceanDAO Voice Channel on Discord on January 6th at 4:00pm GMT, 
 
 Hope to see everyone soon!
 
-Zoom Link: https://us02web.zoom.us/j/83132774672?pwd=ZnhaQ3ljQWVSUGhNQ1FGa1lBQ2wyUT09
 
-(Stopped using because technical issues - Discord Voice Link: https://discord.com/invite/hfxNQmB9H5)
+## Recording
+
+If you happened to miss OceanDAO Town Hall #4, here is the recording:
+
+
+Meeting Recording:
+
 
 
 ## Agenda
