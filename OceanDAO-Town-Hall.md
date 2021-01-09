@@ -18,7 +18,6 @@ Previous:
 * [Town Hall 3](Town-Hall-3) - Wed Dec 16, 2020 at 16:00 GMT
 * [Town Hall 2](Town-Hall-2) - Wed Dec 9, 2020 at 16:00 GMT
 * [Town Hall 1](Town-Hall-1) - Wed Dec 2, 2020 at 16:00 GMT
-* [Town Hall 1](Town-Hall-1) - Wed Dec 2, 2020 at 16:00 GMT
 
 ###
 
