@@ -9,6 +9,7 @@ Future:
 * [Town Hall 5](Town-Hall-5) - TIME TBD
 * [Town Hall 6](Town-Hall-6) - Wed Jan 20, 2020 at 16:00 GMT
 * [Town Hall 7](Town-Hall-7) - Wed Jan 27, 2020 at 16:00 GMT
+* [Town Hall 8](Town-Hall-8) - Wed Feb 3, 2020 at 16:00 GMT
 * (more to come)
 
 Previous:
