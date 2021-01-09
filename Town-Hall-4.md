@@ -19,6 +19,8 @@ Meeting Recording:
 
 Part 1, Discord:
 
+https://drive.google.com/file/d/1fxIpc4gKYeUiloPV6wi1raOiGwrMfOkn/view?usp=sharing
+
 Part 2, Zoom: 
 
 https://us02web.zoom.us/rec/share/izDju5dNjvq-J8plzx4-55BSDRUd5VcIFyI0Y3iWEuxRCeAGyGOg1ouPc8oTx7BB.z6RE-ybwj1B6PrAp
