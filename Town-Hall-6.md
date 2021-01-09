@@ -23,7 +23,7 @@ https://calendar.google.com/calendar/embed?src=15pospk3r14ebelvbcci53k6p83od9mi%
 (subject to change)
 
 Topic: OceanDAO Town Hall
-Time: Jan 13, 2021 04:00 PM Greenwich Mean Time
+Time: Jan 20, 2021 04:00 PM Greenwich Mean Time
 
 Please download and import the following iCalendar (.ics) files to your calendar system.
 Weekly: https://us02web.zoom.us/meeting/tZUvdu-prjkvHNbdi6WGv43E447DF7rcjKaq/ics?icsToken=98tyKuGprDosG9SXtR-FRpwcAIj4M-vziHpYgo1fmBazNAdFNlDTYrYVFpQoAtva
