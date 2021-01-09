@@ -1,4 +1,4 @@
-OceanDAO Town Hall 6 is Wednesday, February 3 at 4:00pm GMT
+OceanDAO Town Hall 8 is Wednesday, February 3 at 4:00pm GMT
 
 
 ## Zoom Link
