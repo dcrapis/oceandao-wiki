@@ -46,7 +46,7 @@ More details at [Future and Previous Rounds](future-and-previous-rounds).
 
 Project criteria: (1) [ROI](On-ROI) towards growth, (2) aligned with Ocean mission, (3) meet a minimum proposal requirement. 
 
-Details are at [Project Criteria](project-criteria).
+Important Details are at [Project Criteria](project-criteria).
 
 ## Steps - Summary
 
