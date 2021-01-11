@@ -1,4 +1,4 @@
-OceanDAO Town Hall 5 is _.
+OceanDAO Town Hall 5 is Wed Jan 13, 2020 at 16:00 GMT.
 
 ## Zoom Link
 
