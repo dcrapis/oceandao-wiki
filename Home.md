@@ -40,7 +40,7 @@ Future OceanDAO Funding Rounds are planned monthly (starting Feb 2021):
 
 In each round there may be variations in: amount of funding, # teams funded, and action steps themselves. This wiki will be updated accordingly to reflect any and all changes.
 
-Details are at [Future and Previous Rounds](future-and-previous-rounds).
+More details at [Future and Previous Rounds](future-and-previous-rounds).
 
 ## Project Submission Criteria
 
