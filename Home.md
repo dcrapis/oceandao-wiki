@@ -24,6 +24,16 @@ Funding is for projects of these types:
 
 [Here](Proposal-Ideas) are proposal ideas.
 
+## Dicussion
+
+### Town Halls
+
+The OceanDAO Town Hall is a regular videochat gatherings among community members, open to all. It’s a great place to get to know the community. Here you can ask questions, share proposal feedback, and more.
+
+The **[Town Hall page](OceanDAO-Town-Hall)** has more info, including dates.
+
+### Discord
+Join the [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) for ongoing collaboration and discussion. 
 
 ## Next Funding Rounds
 
@@ -85,17 +95,6 @@ Funds for OceanDAO currently come from the OPF.
 
 If you were not selected for a grant in this Funding Round, we highly encourage you to continue to stay involved in the Ocean community. You are appreciated! There are future OceanDAO funding rounds on the first of every month starting in February 2021, and other opportunities to receive [funding](https://oceanprotocol.com/fund).
 
-
-## Dicussion
-
-### Town Halls
-
-The OceanDAO Town Hall is a regular videochat gatherings among community members, open to all. It’s a great place to get to know the community. Here you can ask questions, share proposal feedback, and more.
-
-The **[Town Hall page](OceanDAO-Town-Hall)** has more info, including dates.
-
-### Discord
-Join the [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) for ongoing collaboration and discussion. 
 
 ## On OceanDAO Evolution
 
