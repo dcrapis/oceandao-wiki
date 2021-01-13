@@ -7,7 +7,10 @@ https://us02web.zoom.us/j/81216102562?pwd=cU5oVmFmMTE5UTFudWYyL0x2TVFTUT09
 
 ## Agenda
 
-TBD
+- Welcome OceanDAO
+- DAO Process
+- Expanding OceanDAO community
+- Open Floor
  
 ## Calendar
 
