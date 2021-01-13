@@ -30,9 +30,8 @@ Funding is for projects of these types:
 | **Funding Round**                      | **Proposals Due By**      | **Add OCEAN to Voting Wallet By**     | **Voting Ends**           | **Amount Each**                 | **Grantees** |
 | --                             | --                        | --                        |  --                             | -- | -- |
 | [Round 2](https://port.oceanprotocol.com/c/oceandao/round-2/58) | Feb 1, 2021 at 23:59 GMT  | Feb 1, 2021 at 23:59 GMT  | Feb 4, 2021 at 23:59 GMT  | 10000 OCEAN                | 7 |
-| Round 3, 4, 5, ...             |  Mar 1, Apr 1, May 1, ..   |  Mar 1, Apr 1, May 1, ..   | Mar 4, Apr 4, May 4, ..   | TBD         | TBD |
 
-Future OceanDAO Funding Rounds are planned monthly (starting Feb 2021):
+Future OceanDAO Funding Rounds are **monthly**:
 * Project proposal due deadline: on the 1st day of the month at 23:59 GMT.
 * Voting wallet balance snapshot: on the 1st day of the month at 23:59 GMT.
 * Voting closes: 4th day of the month at 23:59 GMT.
@@ -40,7 +39,7 @@ Future OceanDAO Funding Rounds are planned monthly (starting Feb 2021):
 
 In each round there may be variations in: amount of funding, # teams funded, and action steps themselves. This wiki will be updated accordingly to reflect any and all changes.
 
-More details at [Future and Previous Rounds](future-and-previous-rounds).
+See more details on Future and Previous Rounds [here](future-and-previous-rounds).
 
 ## Project Submission Criteria
 
