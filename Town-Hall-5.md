@@ -1,5 +1,17 @@
 OceanDAO Town Hall 5 is Wed Jan 13, 2020 at 16:00 GMT.
 
+
+
+## Recording
+
+If you happened to miss OceanDAO Town Hall #5, here is the recording:
+
+
+Meeting Recording:
+
+https://us02web.zoom.us/rec/share/LFxSNNYXoRzPAoTPGT7BqA2NFH2XEQKmCZeAJt43xiuVaOGqDi7Xmpdjo3RFE_EO.zgJMgn7Uv9VGTpcN?startTime=1610553388000
+
+
 ## Zoom Link
 
 https://us02web.zoom.us/j/81216102562?pwd=cU5oVmFmMTE5UTFudWYyL0x2TVFTUT09
