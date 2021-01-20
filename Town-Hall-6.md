@@ -1,6 +1,10 @@
 OceanDAO Town Hall 6 is Wednesday, January 20 at 4:00pm GMT
 
 
+https://us02web.zoom.us/rec/share/eegg6v4M5c4paNdfeE_zHKAhxzVYcUa1tQfUEIRelBdkvYX7LSNcfPeV5JY5j969.WrnAkh1VVnvQKl19?startTime=1611158105000
+
+
+
 ## Zoom Link
 
 https://us02web.zoom.us/j/81216102562?pwd=cU5oVmFmMTE5UTFudWYyL0x2TVFTUT09
