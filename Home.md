@@ -18,7 +18,7 @@ OceanDAO is a great way to get involved, by doing a project or by voting in OCEA
 
 Funding is for projects of these types:
 - Build / improve applications or integrations to Ocean
-- Outreach / community (grants don't need to be technical in nature)
+- Outreach / community / spread awareness (grants don't need to be technical in nature)
 - Unleash data
 - Build / improve core Ocean software
 - Improvements to OceanDAO 
