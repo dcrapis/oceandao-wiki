@@ -21,6 +21,7 @@ Funding is for projects of these types:
 - Outreach / community (grants don't need to be technical in nature)
 - Unleash data
 - Build / improve core Ocean software
+- Improvements to OceanDAO 
 
 [Here](Proposal-Ideas) are proposal ideas.
 
