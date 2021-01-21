@@ -7,6 +7,8 @@ Project criteria:
 
 ## Details of Criteria
 
+In OceanDAO, governance is about directing the flow of resources towards the teams and projects that offer the best chance for growth. OCEAN holders are incentivized to do work to learn more about each team and project proposal, and then use OceanDAO to vote for the most promising teams/projects.
+
 When proposing a project, these are the three criteria to keep in consideration: (1) ROI towards **growth** (2) aligned with Ocean **mission**. Projects that fail (2) will not be considered for voting. Once voting opens, only criterion (1) remains. Additionally, your proposal must (3) meet a minimum proposal requirement. Let’s elaborate!
 
 **Criterion (1). On average, value added to the Ocean ecosystem must exceed the grant value spent.**
