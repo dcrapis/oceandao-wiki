@@ -19,7 +19,7 @@ Note: the vote simply just counts the amount of OCEAN in your wallet. No OCEAN w
 
 ## Voting Parameters:
 
-- At proposal deadline (the first day of every month at 23:59 pm GMT), Proposals that meet the “Minimum Proposal Requirements” and “Project Criteria” will be migrated to the OceanDAO Voting Page.
+- At proposal deadline (the first day of every month at 23:59 pm GMT), Proposals that meet the “Project Criteria” will be migrated to the OceanDAO Voting Page.
 
 - Vote with your OCEAN Tokens. 1 OCEAN = 1 vote.
 
