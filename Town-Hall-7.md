@@ -8,7 +8,10 @@ https://us02web.zoom.us/j/81216102562?pwd=cU5oVmFmMTE5UTFudWYyL0x2TVFTUT09
 
 ## Agenda
 
-TBD
+- Intro
+- DAO Roadmap Updates
+- Proposal Sharing
+- Open floor / q&a
  
 ## Calendar
 
