@@ -118,3 +118,7 @@ The best way to help improve Ocean core software is to start engaging with other
 
 Your project proposal could be to simply "help address Github issues in components x & y" and we'd be very happy with if you did it effectively:). Here are GitHub issues of our core repos: [Ocean Market](https://github.com/oceanprotocol/market/issues), [Provider](https://github.com/oceanprotocol/provider/issues), [ocean.js](https://github.com/oceanprotocol/ocean.js/issues), [React hooks](https://github.com/oceanprotocol/react/issues), [ocean.py](https://github.com/oceanprotocol/ocean.py/issues) 
 
+
+## 5. Improvements to OceanDAO
+
+If you are an avid OceanDAO enthusiast and see ways that the DAO itself can make improvements, submit a proposal which could increase its efficiency. The core DAO components include: discussion, proposal submission, feedback, voting, DAO treasury. 
