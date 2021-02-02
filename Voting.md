@@ -14,6 +14,7 @@ Questions, [join the Discord conversation](https://discord.com/channels/61295334
 - Click “Vote” and sign with your wallet.
 - There are no gas fees, no ETH required, and OCEAN tokens never leave your wallet
 - Vote percentages will adjust accordingly as votes are counted.
+- The proposals with the highest votes will receive grants based on how many grants will be distributed in the current round. 
 
 Note: the vote simply just counts the amount of OCEAN in your wallet. No OCEAN will be taken from your wallet. It is a gasless transaction; there is no fee.
 
