@@ -1,6 +1,5 @@
 OceanDAO Town Hall 7 is Wednesday, January 27 at 4:00pm GMT
 
-test
 ## Zoom Link
 
 https://us02web.zoom.us/j/81216102562?pwd=cU5oVmFmMTE5UTFudWYyL0x2TVFTUT09
