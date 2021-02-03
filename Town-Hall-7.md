@@ -1,5 +1,11 @@
 OceanDAO Town Hall 7 is Wednesday, January 27 at 4:00pm GMT
 
+## Recording
+
+If you happened to miss today's OceanDAO Town Hall, here is the Meeting Recording:
+
+https://us02web.zoom.us/rec/share/LAbyZXtG0kc8BdGbrwJj-C0HWBmQis5Qn35uCyrIuIpH23nTFoTsAwmZ1Np7Z8uF.1LO2fQm4RNAhf8oj?startTime=1611762478000
+
 ## Zoom Link
 
 https://us02web.zoom.us/j/81216102562?pwd=cU5oVmFmMTE5UTFudWYyL0x2TVFTUT09
