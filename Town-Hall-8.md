@@ -1,6 +1,13 @@
 OceanDAO Town Hall 8 is Wednesday, February 3 at 4:00pm GMT
 
 
+## Recording
+
+If you happened to miss today's OceanDAO Town Hall, here is the Meeting Recording:
+
+https://us02web.zoom.us/rec/share/3Ch5TY-JSQXPu7mAdBFbyiOy-j1VkoA-WB-H9J8xYBIfejLj9SfGjpPObDNsNj-q.31PXLlotVDXHegx5?startTime=1612367696000
+
+
 ## Zoom Link
 
 https://us02web.zoom.us/j/81216102562?pwd=cU5oVmFmMTE5UTFudWYyL0x2TVFTUT09
