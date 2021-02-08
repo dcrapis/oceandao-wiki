@@ -7,9 +7,7 @@ https://us02web.zoom.us/j/81216102562?pwd=cU5oVmFmMTE5UTFudWYyL0x2TVFTUT09
 
 ## Agenda
 
-- Round Two Proposals!
-- Voting process
-- DAO Marketing
+- Review OceanDAO Round 2
  
 ## Calendar
 
