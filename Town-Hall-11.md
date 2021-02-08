@@ -1,4 +1,4 @@
-OceanDAO Town Hall 10 is Wednesday, February 24 at 4:00pm GMT
+OceanDAO Town Hall 11 is Wednesday, February 24 at 4:00pm GMT
 
 ## Zoom Link
 
