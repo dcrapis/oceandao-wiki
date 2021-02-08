@@ -92,6 +92,8 @@ Funds will be disbursed to the grantees within 24 hours after voting ends.
 
 Funds for OceanDAO currently come from the OPF.
 
+Learn more about the current OceanDAO grant recipients projects [here](Grant-Recipients-List) 
+
 ### Non-Grant Recipients:
 
 If you were not selected for a grant in this Funding Round, we highly encourage you to continue to stay involved in the Ocean community. You are appreciated! There are future OceanDAO funding rounds on the first of every month starting in February 2021, and other opportunities to receive [funding](https://oceanprotocol.com/fund).
