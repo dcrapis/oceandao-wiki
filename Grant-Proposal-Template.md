@@ -40,7 +40,7 @@ Instructions:
 
 <u>IF: Build / improve applications or integration to Ocean, then:</u>
 - App will be live, at: ____ (url or app store)
-- Software will be open-source with a permissive license at: github.com/___
+- Is your software open-source? Project can be found (with permissive license if necessary) at: github.com/___
 
 <u>IF: Outreach / community, then (one or more of):</u>
 - __ (e.g. 3) blog posts will be published at: _____ (e.g. medium.com/____)
