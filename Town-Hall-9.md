@@ -1,5 +1,9 @@
 OceanDAO Town Hall 9 is Wednesday, February 10 at 4:00pm GMT
 
+
+
+https://us02web.zoom.us/rec/share/oaioMFDU8s641C-PePso68wFWQYnnXT7Uz_aba3Y_p9ftuovstmymHpQT9CxEyUZ.QcmP59_zMgiFX0Tq?startTime=1612972050000
+
 ## Zoom Link
 
 https://us02web.zoom.us/j/81216102562?pwd=cU5oVmFmMTE5UTFudWYyL0x2TVFTUT09
