@@ -1,8 +1,12 @@
 OceanDAO Town Hall 10 is Wednesday, February 17 at 4:00pm GMT
 
-## Zoom Link
+## Recording
 
-https://us02web.zoom.us/j/81216102562?pwd=cU5oVmFmMTE5UTFudWYyL0x2TVFTUT09
+
+Meeting Recording:
+https://us02web.zoom.us/rec/share/Q01qHvQBflKFPgMFz7Yv68BZ0H7fsSCEle1XyVXinl0coXJQY_F8YsmA6uRrifqf.JkTrTyvShI55_DuJ
+
+
 
 
 ## Agenda
@@ -16,6 +20,11 @@ https://us02web.zoom.us/j/81216102562?pwd=cU5oVmFmMTE5UTFudWYyL0x2TVFTUT09
 **Timezone Shown in UTC 00:00**:
 
 https://calendar.google.com/calendar/embed?src=15pospk3r14ebelvbcci53k6p83od9mi%40import.calendar.google.com
+
+
+## Zoom Link
+
+https://us02web.zoom.us/j/81216102562?pwd=cU5oVmFmMTE5UTFudWYyL0x2TVFTUT09
 
 
 ## Expanded Zoom Details
