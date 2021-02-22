@@ -14,7 +14,7 @@ Instructions:
 
 - Name of project: 
 - Team Website (if applicable): 
-- Proposal Wallet Address (*mandatory; must have minimum 2000 OCEAN already in wallet to be eligible. This wallet is where you will receive the grant amount if selected).
+- Proposal Wallet Address (*mandatory; must have minimum 500 OCEAN already in wallet to be eligible. This wallet is where you will receive the grant amount if selected).
 - The proposal in one sentence: 
 - Which category best describes your project? Pick one or more.
   - [ ] Build / improve applications or integrations to Ocean
