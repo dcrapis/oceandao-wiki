@@ -7,7 +7,10 @@ https://us02web.zoom.us/j/81216102562?pwd=cU5oVmFmMTE5UTFudWYyL0x2TVFTUT09
 
 ## Agenda
 
-- TBD
+- OceanDAO Round Three Updates
+- Project Builders Updates
+
+- Join for the Hour 2: Proposal Drafting Session
  
 ## Calendar
 
