@@ -2,7 +2,7 @@ OceanDAO Town Hall 12 is Wednesday, March 3 at 4:00pm GMT
 
 ## Agenda
 
-- OceanDAO Round Three Submissions & Votes Open
+- OceanDAO Round Three Submissions & Voting Opens
 - Share your proposal and champion for votes
 
 ## Zoom Link
