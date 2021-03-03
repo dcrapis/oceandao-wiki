@@ -1,5 +1,12 @@
 OceanDAO Town Hall 12 is Wednesday, March 3 at 4:00pm GMT
 
+## Recording
+
+Meeting Recording:
+https://us02web.zoom.us/rec/share/JoY1QCBNmr6sveRRNuGkvNjW0mrSqyYzRLdaN7Rn5VPT1NVzWhR4Uv8c5PP2JgFV.Z9jC4xgcZQi71TJ0
+
+
+
 ## Agenda
 
 - OceanDAO Round Three Submissions & Voting Opens
