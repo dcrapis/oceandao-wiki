@@ -1,9 +1,7 @@
 OceanDAO Town Hall 13 is Wednesday, March 10 at 4:00pm GMT
 
 
-
-Topic: OceanDAO Town Hall
-Start Time : Mar 10, 2021 07:41 AM
+## Recording
 
 Meeting Recording:
 https://us02web.zoom.us/rec/share/vwc8tovky-Cy8eGx-Qby3LluXaTlE3J9fCZUZJQI0isQXY9wd6vnRwiiTXejehJ1.FPLr9SvMa9RU7hYF
