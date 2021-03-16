@@ -3,7 +3,12 @@ OceanDAO Town Hall 14 is Wednesday, March 17 at 4:00pm GMT
 
 ## Agenda
 
-- TBD
+- Upcoming Round 4
+- Ocean Academy Update by Speaker Albert Peci
+-- Overview of the work at the ocean academy 
+-- Medium interview, facts and figures 
+-- Binance campaign with the ocean protocol 
+-- New Discord channel
 
 ## Zoom Link
 
