@@ -1,5 +1,10 @@
 OceanDAO Town Hall 14 is Wednesday, March 17 at 4:00pm GMT
 
+## Recording
+
+If you missed or want to rewatch:
+
+https://us02web.zoom.us/rec/share/FzXRGhdpVw0HE084sSzfPEIWho6QKOC5PqDJ3DuS9YZOqeIcGwbB9mM9lrrfF0mE.y3DGqHkk51oOLEhe?startTime=1615993113000
 
 ## Agenda
 
