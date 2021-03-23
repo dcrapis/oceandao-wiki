@@ -92,7 +92,7 @@ Funds will be disbursed to the grantees within 24 hours after voting ends.
 
 Funds for OceanDAO currently come from the OPF.
 
-Learn more about the current OceanDAO grant recipients projects [here](Grant-Recipients-List) 
+Learn more about the current OceanDAO grant recipients projects in the [List of OceanDAO Grant Recipients](https://github.com/oceanprotocol/oceandao/wiki/OceanDAO-Grant-Recipients) 
 
 ### Non-Grant Recipients:
 
@@ -102,8 +102,6 @@ If you were not selected for a grant in this Funding Round, we highly encourage 
 ## On OceanDAO Evolution
 
 The best practices and technology around DAOs are still evolving. OceanDAO’s strategy is to “bake slowly” — to ratchet up value-at-risk over time, to give space to learn and for technology to improve. Accordingly, the amount of funds per Funding Round may vary, and OPF reserves the right to make changes in general. The aim is: if OceanDAO creates positive value, then the funds allocated to OceanDAO will go up.
-
-## List of OceanDAO Grant Recipients
 
 ## Further resources
 
