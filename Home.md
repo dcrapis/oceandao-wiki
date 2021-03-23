@@ -9,6 +9,7 @@
 🦈 **[Town Halls](OceanDAO-Town-Hall)**
 🐋 **[Vote (Snapshot)](https://vote.oceanprotocol.com/)**
 🐚 **[Newest Blog](https://blog.oceanprotocol.com/oceandao-round-three-grant-results-86a5f35b16b3)**
+🌊
 
 ## What's OceanDAO?
 
