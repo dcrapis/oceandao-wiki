@@ -7,7 +7,7 @@ OceanDAO Town Hall 15 is Wednesday, March 24 at 4:00pm GMT
 - Upcoming Round 4
 - Project updates 
 
-+ 
+AND
 
 - Proposal workshop post town hall
 
