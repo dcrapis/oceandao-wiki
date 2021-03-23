@@ -92,7 +92,7 @@ Funds will be disbursed to the grantees within 24 hours after voting ends.
 
 Funds for OceanDAO currently come from the OPF.
 
-Learn more about the current OceanDAO grant recipients projects in the [List of OceanDAO Grant Recipients](https://github.com/oceanprotocol/oceandao/wiki/OceanDAO-Grant-Recipients) 
+Learn more about the current OceanDAO grant recipients projects in the [List of OceanDAO Grant Recipients](https://github.com/oceanprotocol/oceandao/wiki/OceanDAO-Grant-Recipients). 
 
 ### Non-Grant Recipients:
 
