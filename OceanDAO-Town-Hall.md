@@ -5,12 +5,12 @@ The Town Hall is a videochat among community members, open to all. It’s a grea
 
 Future:
 
-* [Town Hall 14](Town-Hall-14) - Wed March 17, 2021 at 16:00 GMT
 * [Town Hall 15](Town-Hall-15) - Wed March 24, 2021 at 16:00 GMT
 * (more to come)
 
 Previous:
 
+* [Town Hall 14](Town-Hall-14) - Wed March 17, 2021 at 16:00 GMT
 * [Town Hall 13](Town-Hall-13) - Wed March 10, 2021 at 16:00 GMT
 * [Town Hall 12](Town-Hall-12) - Wed March 3, 2021 at 16:00 GMT
 * [Town Hall 11](Town-Hall-11) - Wed Feb 24, 2021 at 16:00 GMT
