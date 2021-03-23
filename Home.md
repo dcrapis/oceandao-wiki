@@ -103,6 +103,8 @@ If you were not selected for a grant in this Funding Round, we highly encourage 
 
 The best practices and technology around DAOs are still evolving. OceanDAO’s strategy is to “bake slowly” — to ratchet up value-at-risk over time, to give space to learn and for technology to improve. Accordingly, the amount of funds per Funding Round may vary, and OPF reserves the right to make changes in general. The aim is: if OceanDAO creates positive value, then the funds allocated to OceanDAO will go up.
 
+## List of OceanDAO Grant Recipients
+
 ## Further resources
 
 * **[FAQ](FAQ)** - Frequently Asked Questions
