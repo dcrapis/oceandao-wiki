@@ -16,10 +16,13 @@ Brackets demote which round(s) the project received a grant.
  - Dounty [[3](https://port.oceanprotocol.com/t/proposal-dounty-a-data-bounty-platform/448)]
  - Videowiki [[2](https://port.oceanprotocol.com/t/proposal-videowiki-a-collaborative-content-creation-platform/362)]
  - Liquidity Pool Handling 2.0  [[2](https://port.oceanprotocol.com/t/proposal-liquidity-pool-handling-2-0/370)]
+ - Ocean Surfer [[1](https://port.oceanprotocol.com/t/proposal-ocean-surfer-duck-dive-1-enabling-real-time-streaming-payments-for-consuming-c2d-services/308)
+ - Ocean Pool Alerts [[1](https://port.oceanprotocol.com/t/proposal-ocean-pool-alerts/314)]
+ - Decentralized File Rating [[1](https://port.oceanprotocol.com/t/proposal-dfr-decentralized-file-rating-by-oceancap/313)]
 
 ## Outreach
 
- - Ocean Academy  [[2](https://port.oceanprotocol.com/t/proposal-ocean-academy-project-oyster/382)] [[]()] [[3](https://port.oceanprotocol.com/t/proposal-ocean-academy-project-kraken/465)]
+ - Ocean Academy [[1](https://port.oceanprotocol.com/t/proposal-ocean-academy-project-shrimp/283)] [[2](https://port.oceanprotocol.com/t/proposal-ocean-academy-project-oyster/382)] [[3](https://port.oceanprotocol.com/t/proposal-ocean-academy-project-kraken/465)]
 
 ## Unleash
 
