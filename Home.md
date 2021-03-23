@@ -23,7 +23,7 @@ Funding is for projects of these types:
 - Build / improve core Ocean software
 - Improvements to OceanDAO 
 
-[Here](Proposal-Ideas) are proposal ideas.
+[Here](Proposal-Ideas) are proposal ideas. [Here](https://github.com/oceanprotocol/oceandao/wiki/OceanDAO-Grant-Recipients) are DAO grant recipients (winners) to date. 
 
 ## Dicussion
 
