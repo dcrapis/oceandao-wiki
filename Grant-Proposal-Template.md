@@ -55,6 +55,9 @@ Instructions:
 - A PR will be made to these Ocean components: _______, following best practices for quality etc
 - I commit to working with Ocean core developers to merging the PR
 
+<u>IF: Improvements to OceanDAO, then:</u>
+- Any DAO tooling will be found 
+
 ## Project Deliverables - Roadmap
 
 - Any prior work completed thus far?
