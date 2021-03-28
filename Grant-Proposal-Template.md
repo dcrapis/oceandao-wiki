@@ -56,7 +56,8 @@ Instructions:
 - I commit to working with Ocean core developers to merging the PR
 
 <u>IF: Improvements to OceanDAO, then:</u>
-- Any DAO tooling will be found 
+- Any improved DAO tooling will be publicly available. Work is close collaboration with OceanDAO core team.
+
 
 ## Project Deliverables - Roadmap
 
