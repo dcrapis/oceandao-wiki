@@ -1,5 +1,8 @@
 OceanDAO Town Hall 15 is Wednesday, March 24 at 4:00pm GMT
 
+## Recording
+
+https://us02web.zoom.us/rec/share/EQqbqqRn3SkJhpGn5SFl_KXyXHNyErVaaBQxWeXKDy_PqikoAfy5ecdfTGVmrXY.7DjVoiHAJocbo0T-?startTime=1616598693000
 
 ## Agenda
 
