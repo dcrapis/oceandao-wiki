@@ -18,6 +18,8 @@ When proposing a project, these are the three criteria to keep in consideration:
 
 **Criterion (2). The project must help to promote the Ocean’s mission & values (or at least not work against them).**
 - Mission & values. Ocean’s mission is to equalize the opportunity for people to access data. Ocean’s values, and further details, are [here](https://blog.oceanprotocol.com/mission-values-for-ocean-protocol-aba998e95b8).
+
+
 *Any project that pays or rewards for voting in anyway will disqualify the project from the round.
 
 **Criterion (3). Minimum Proposal Requirement.**
