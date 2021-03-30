@@ -2,13 +2,12 @@ OceanDAO Town Hall 16 is Wednesday, March 31 at 4:00pm GMT
 
 ## Agenda
 
-- Announcements
-- Upcoming Round 4
-- Project updates 
+- Upcoming Round 4 Deadline
+- Project Proposal announcements & updates
 
 AND
 
-- Proposal workshop post town hall
+- Proposal workshop after town hall
 
 
 ## Zoom Link
