@@ -89,7 +89,8 @@ We also welcome proposals that help OceanDAO itself. Here are some metrics of in
 
 About your project
 * You propose to reach out to your network to find lots of data publisher & buyers, resulting in more data bought & consumed.
-* Metric to optimize: "$ Datatoken Consuming Volume". Secondary: "Total Value Locked". 
+* Primary Metric: "$ Datatoken Consuming Volume". 
+* Secondary Metric: "Total Value Locked". 
 * Project length: 1 month.
 * You believe you can get 20 data buyers (and the data publishers to sell the data that the buyers want). 
 * Each buyer does 10K OCEAN / week (40K OCEAN / month) of consume volume on Ocean Market. This is a total of 800K OCEAN / month consume volume. 
