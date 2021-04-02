@@ -51,16 +51,19 @@ Recall that *bang* is "value added to the Ocean ecosystem." Let's discuss ways t
 Put another way: what metric might your project optimize, towards helping grow the Ocean ecosystem (in a sustainable fashion)?
 
 **Speculative vs. Fundamental Metrics**
+
 * A first proposed metric for *bang* is "effect on the value of $OCEAN". However, $OCEAN is a function of both speculation-based and fundamentals-based factors.  Speculation-based factors are harder to pin down as metrics, yet have a significant impact on $OCEAN. This means it's harder to measure the effect of a project on $OCEAN.
 * Better: let's focus on fundamentals-based factors on $OCEAN or demand for OCEAN, which have clearer metrics. Eventually these will dominate $OCEAN. And in the meantime we will focus on growing the fundamental value and associated metrics.
 
-**Primary Fundamental Metrics** 
+**Primary Fundamental Metrics**
+
 These are some of the most important fundamental metrics. For estimating ROI, any of these are suitable for the "bang" parameter. 
 * **OCEAN Datatoken Consuming Volume.** This is (datatoken price in OCEAN) * (no. consumes of that datatoken), summed across all datatokens. It's the best direct measure of amount of value being created in Ocean Protocol. 
 * **Network Revenue.** This is the total OCEAN revenue to Ocean community taken as a % of trades or consumes in Ocean Market, etc. We can compute a fundamental valuation by simply multiplying Network Revenue by P/S (price-to-sales ratio) of e.g. 30x or 50x (ref Binance or Zoom P/S figures).   
 * **Total Value Locked (TVL)**, aka Assets Under Management (AUM). This is total OCEAN staked in datatoken pools, or more generally. Demand for staking OCEAN drives demand for OCEAN and therefore drives $OCEAN. 
 
 **Secondary Fundamental Metrics**
+
 Here are other metrics that may be useful. 
 * Total revenue to all Ocean marketplace runners
 * Total number of datatoken contracts
