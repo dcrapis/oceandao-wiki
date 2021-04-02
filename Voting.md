@@ -1,4 +1,4 @@
-Voting will take place on: [vote.oceanprotocol.com](vote.oceanprotocol.com)
+Voting will take place on: vote.oceanprotocol.com
 
 See all of the proposals [here](https://port.oceanprotocol.com/c/oceandao/56); filter by round.
 
