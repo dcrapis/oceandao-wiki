@@ -18,9 +18,8 @@ When proposing a project, these are the three criteria to keep in consideration:
 
 **Criterion (2). The project must help to promote the Ocean’s mission & values (or at least not work against them).**
 - Mission & values. Ocean’s mission is to equalize the opportunity for people to access data. Ocean’s values, and further details, are [here](https://blog.oceanprotocol.com/mission-values-for-ocean-protocol-aba998e95b8).
-
-
-*Any project that pays or rewards for voting in any way will disqualify the project from the round.
+- Any project that pays or rewards for voting in any way will disqualify the project from the round.
+- Any project that plagiarizes copyright, or breaks licensing agreements may be blacklisted.
 
 **Criterion (3). Minimum Proposal Requirement.**
 - Anyone can propose a project to OceanDAO. However, to be considered, you **must have at least 500 OCEAN** in the same Ethereum wallet as listed in your proposal by the time the proposal process ends (first day of month at 23:59 GMT). If selected for a grant, this will be the same wallet where you will receive your grant funding. This helps to filter towards people with a vested interest or “skin in the game” in OCEAN - that is, Ocean community members. Ocean Protocol team members will verify.
