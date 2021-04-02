@@ -50,15 +50,18 @@ Recall that *bang* is "value added to the Ocean ecosystem." Let's discuss ways t
 
 Put another way: what metric might your project optimize, towards helping grow the Ocean ecosystem (in a sustainable fashion)?
 
+**Speculative vs. Fundamental Metrics**
 * A first proposed metric for *bang* is "effect on the value of $OCEAN". However, $OCEAN is a function of both speculation-based and fundamentals-based factors.  Speculation-based factors are harder to pin down as metrics, yet have a significant impact on $OCEAN. This means it's harder to measure the effect of a project on $OCEAN.
 * Better: let's focus on fundamentals-based factors on $OCEAN or demand for OCEAN, which have clearer metrics. Eventually these will dominate $OCEAN. And in the meantime we will focus on growing the fundamental value and associated metrics.
 
-**Here are some of the most important fundamentals-based metrics. For estimates of ROI above, any of these will be suitable for use for the "bang" section.** 
+**Primary Fundamental Metrics** 
+These are some of the most important fundamental metrics. For estimating ROI, any of these are suitable for the "bang" parameter. 
 * **OCEAN Datatoken Consuming Volume.** This is (datatoken price in OCEAN) * (no. consumes of that datatoken), summed across all datatokens. It's the best direct measure of amount of value being created in Ocean Protocol. 
 * **Network Revenue.** This is the total OCEAN revenue to Ocean community taken as a % of trades or consumes in Ocean Market, etc. We can compute a fundamental valuation by simply multiplying Network Revenue by P/S (price-to-sales ratio) of e.g. 30x or 50x (ref Binance or Zoom P/S figures).   
 * **Total Value Locked (TVL)**, aka Assets Under Management (AUM). This is total OCEAN staked in datatoken pools, or more generally. Demand for staking OCEAN drives demand for OCEAN and therefore drives $OCEAN. 
 
-Here are some secondary metrics that may be useful. 
+**Secondary Fundamental Metrics**
+Here are other metrics that may be useful. 
 * Total revenue to all Ocean marketplace runners
 * Total number of datatoken contracts
 * APY for Ocean Market stakers 
@@ -85,7 +88,7 @@ About your project
 * You propose to reach out to your network to find lots of data publisher & buyers, resulting in more data bought & consumed.
 * Metric to optimize: "$ Datatoken Consuming Volume". Secondary: "Total Value Locked". 
 * Project length: 1 month.
-* You believe you can get 20 data buyers (and the data buyers to sell the data that the buyers want). 
+* You believe you can get 20 data buyers (and the data publishers to sell the data that the buyers want). 
 * Each buyer does 10K OCEAN / week (40K OCEAN / month) of consume volume on Ocean Market. This is a total of 800K OCEAN / month consume volume. 
 * It's a recurring volume for future months.
 
