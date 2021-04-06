@@ -23,7 +23,28 @@ https://calendar.google.com/calendar/embed?src=15pospk3r14ebelvbcci53k6p83od9mi%
 (subject to change)
 
 Topic: OceanDAO Town Hall
-Time: Feb 3, 2021 04:00 PM Greenwich Mean Time
+Time: 03:00 PM Greenwich Mean Time
+        Every week on Wed, 20 occurrence(s)
+        Apr 7, 2021 03:00 PM
+        Apr 14, 2021 03:00 PM
+        Apr 21, 2021 03:00 PM
+        Apr 28, 2021 03:00 PM
+        May 5, 2021 03:00 PM
+        May 12, 2021 03:00 PM
+        May 19, 2021 03:00 PM
+        May 26, 2021 03:00 PM
+        Jun 2, 2021 03:00 PM
+        Jun 9, 2021 03:00 PM
+        Jun 16, 2021 03:00 PM
+        Jun 23, 2021 03:00 PM
+        Jun 30, 2021 03:00 PM
+        Jul 7, 2021 03:00 PM
+        Jul 14, 2021 03:00 PM
+        Jul 21, 2021 03:00 PM
+        Jul 28, 2021 03:00 PM
+        Aug 4, 2021 03:00 PM
+        Aug 11, 2021 03:00 PM
+        Aug 18, 2021 03:00 PM
 
 Please download and import the following iCalendar (.ics) files to your calendar system.
 Weekly: https://us02web.zoom.us/meeting/tZUvdu-prjkvHNbdi6WGv43E447DF7rcjKaq/ics?icsToken=98tyKuGprDosG9SXtR-FRpwcAIj4M-vziHpYgo1fmBazNAdFNlDTYrYVFpQoAtva
@@ -46,9 +67,10 @@ Dial by your location
         +1 253 215 8782 US (Tacoma)
         +1 346 248 7799 US (Houston)
         +1 929 436 2866 US (New York)
-        +1 301 715 8592 US (Washington D.C)
+        +1 301 715 8592 US (Washington DC)
         +1 312 626 6799 US (Chicago)
 Meeting ID: 812 1610 2562
 Passcode: 231782
 Find your local number: https://us02web.zoom.us/u/kdMs8N3xml
+
 
