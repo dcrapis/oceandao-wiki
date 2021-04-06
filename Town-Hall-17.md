@@ -4,7 +4,7 @@ OceanDAO Town Hall 17 is Wednesday, April 7 at 3:00pm GMT
 ## Agenda
 
 - Round 4 Results
-
+- Fund Distribution Structure 
 
 ## Zoom Link
 
