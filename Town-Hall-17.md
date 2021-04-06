@@ -1,4 +1,4 @@
-OceanDAO Town Hall 17 is Wednesday, April 7 at 4:00pm GMT
+OceanDAO Town Hall 17 is Wednesday, April 7 at 3:00pm GMT
 
 
 ## Agenda
