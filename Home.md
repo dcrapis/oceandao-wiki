@@ -40,10 +40,14 @@ The **[Town Hall page](OceanDAO-Town-Hall)** has more info, including dates.
 Join the [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) for ongoing collaboration and discussion. 
 
 ## Next Funding Rounds
+OceanDAO aims to fund 65% of Proposals, up to our Target.
+We currently are capped to a limited number of projects each round, but are constantly adjusting.
 
-| **Funding Round**                      | **Proposals Due By**      | **Add OCEAN to Voting Wallet By**     | **Voting Ends**           | **Amount Each**                 | **Grantees** |
-| --                             | --                        | --                        |  --                             | -- | -- |
-| [Round 5](https://port.oceanprotocol.com/c/oceandao/round-5/62) | April 1, 2021 at 23:59 GMT  | April 1, 2021 at 23:59 GMT  | April 5, 2021 at 12:00 PM GMT| 10k USD in OCEAN          | 65% of proposals |
+Our goal is to grow funding capacity over time.
+
+| **Funding Round**                      | **Proposals Due By**      | **Add OCEAN to Voting Wallet By**     | **Voting Ends**           | **Amount Each** | **Target Proposals** |  **Funding Cap** |
+| --                             | --                        | --                        |  --                             | -- | -- | -- |
+| [Round 5](https://port.oceanprotocol.com/c/oceandao/round-5/62) | April 1, 2021 at 23:59 GMT  | April 1, 2021 at 23:59 GMT  | April 5, 2021 at 12:00 PM GMT| 10k USD in OCEAN          | 23 | 15 |
 
 Future OceanDAO Funding Rounds are **monthly**:
 * Project proposal due deadline: on the 1st day of the month at 23:59 GMT.
