@@ -44,6 +44,8 @@ OceanDAO aims to fund 65% of Proposals, up to our Target.
 
 We currently have a proposal funding cap for each round.
 
+These numbers, and rules are being constantly revised as the DAO matures.
+
 | **Funding Round**                      | **Proposals Due By**      | **Add OCEAN to Voting Wallet By**     | **Voting Ends**           | **Amount Each** | **Target Proposals** |  **Funding Cap** |
 | --                             | --                        | --                        |  --                             | -- | -- | -- |
 | [Round 5](https://port.oceanprotocol.com/c/oceandao/round-5/62) | April 1, 2021 at 23:59 GMT  | April 1, 2021 at 23:59 GMT  | April 5, 2021 at 12:00 PM GMT| 10k USD in OCEAN          | 23 | 15 |
