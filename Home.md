@@ -41,10 +41,7 @@ Join the [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) for ongoing collabora
 
 ## Next Funding Rounds
 OceanDAO aims to fund 65% of Proposals, up to our Target.
-
-We currently are capped to a limited number of projects each round, but are constantly adjusting.
-
-Our goal is to grow funding capacity over time.
+We currently have a proposal funding cap for each round. This number is constantly adjusting.
 
 | **Funding Round**                      | **Proposals Due By**      | **Add OCEAN to Voting Wallet By**     | **Voting Ends**           | **Amount Each** | **Target Proposals** |  **Funding Cap** |
 | --                             | --                        | --                        |  --                             | -- | -- | -- |
