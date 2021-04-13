@@ -43,7 +43,7 @@ Join the [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) for ongoing collabora
 
 | **Funding Round**                      | **Proposals Due By**      | **Add OCEAN to Voting Wallet By**     | **Voting Ends**           | **Amount Each**                 | **Grantees** |
 | --                             | --                        | --                        |  --                             | -- | -- |
-| [Round 5](https://port.oceanprotocol.com/c/oceandao/round-5/62) | April 1, 2021 at 23:59 GMT  | April 1, 2021 at 23:59 GMT  | April 5, 2021 at 12:00 PM GMT| 6500 OCEAN          | 65% |
+| [Round 5](https://port.oceanprotocol.com/c/oceandao/round-5/62) | April 1, 2021 at 23:59 GMT  | April 1, 2021 at 23:59 GMT  | April 5, 2021 at 12:00 PM GMT| 10k USD in OCEAN          | 65% |
 
 Future OceanDAO Funding Rounds are **monthly**:
 * Project proposal due deadline: on the 1st day of the month at 23:59 GMT.
