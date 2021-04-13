@@ -4,7 +4,7 @@ OceanDAO funding rounds are ongoing monthly, with proposals due on the first of 
 
 | **Round**                      | **Proposals Due By**      | **Voting Ends**           | **Amount Each**                 | **Grantees** |
 | --                             | --                        | --                        |  --                             | -- |
-| Round 5                        | May 1, 2021 at 23:59 GMT  | May 4, 2021 at 23:59 GMT  | TBD                             | >= previous |
+| Round 6                        | June 1, 2021 at 23:59 GMT  | June 5, 2021 at 12:00 PM GMT  | TBD                             | >= previous |
 | ..                             | ..                        | ..                        | ..                              | .. |
 
 
