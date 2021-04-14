@@ -21,6 +21,7 @@ Each grant request must include the details below:
 * Payment details - crypto-wallet address
 
 Please address the invoice to:
+
 Ocean Protocol Foundation
 
 1 Irving Place, #08-11
