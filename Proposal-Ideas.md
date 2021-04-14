@@ -82,7 +82,7 @@ Remember, grants can go beyond technical in nature! :) Here are ideas related to
 - Going crazy with creating Ocean memes or other marketing assets 🧜🧜‍♂️
 
 ### Scalable Workshops
-- Solo & Group video | github workshop that can be done online to onboard various communities. I.E. Meetups. Kaggle Groups.
+- Solo & Group video | github | web workshops that can scale in reach, and onboard various communities. I.E. Meetups. Kaggle Groups.
 - Simple apps, and workshops that highlight Web3 Decentralized Data-Economy UX.
 - Biz Dev - Data Economy Workshops: Why your data is losing on potential millions.
 - Engineering - Ocean App Workshop: How to generate data, and monetize it. N-Buy random 1 participant.
