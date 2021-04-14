@@ -5,6 +5,7 @@ OceanDAO Town Hall 18 is Wednesday, April 14 at 3:00pm GMT
 
 - Upcoming Round 5 updates
 - Fund Distribution via "Request"
+- Granular Voting; individual project voting.
 - Project Updates
 
 ## Zoom Link
