@@ -22,6 +22,9 @@ Each grant request must include the details below:
 
 Please address the invoice to:
 Ocean Protocol Foundation
+
 1 Irving Place, #08-11
+
 (The Commerze @ Irving)
+
 Singapore 36
