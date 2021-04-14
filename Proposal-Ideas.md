@@ -86,7 +86,7 @@ Remember, grants can go beyond technical in nature! :) Here are ideas related to
 - Simple apps, and workshops that highlight Web3 Decentralized Data-Economy UX.
 - Biz Dev - Data Economy Workshops: Why your data should be on Ocean.
 - Engineering - Ocean App Workshop: App Generate Data -> S3 -> Publish on Ocean. N-Buy random 1 participant.
-- Engineering - Ocean Core Workshop: Deploy your own Marketplace: ShopBitFy.
+- Engineering - Ocean Core Workshop: Deploy your own Micro-Marketplace: ShopBitFy.
 
 ## 3. Unleash data
 
