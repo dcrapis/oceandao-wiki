@@ -13,12 +13,12 @@ Please follow the instructions [here](https://support.request.network/getting-st
 In case you need it, the OPF’s tax number is: 201729912W.
 
 Each grant request must include the details below:
-● Email address
-● Invoice date
-● Your country
-● Description of grant reason
-● Grant amount (OCEAN)
-● Payment details - crypto-wallet address
+* Email address
+* Invoice date
+* Your country
+* Description of grant reason
+* Grant amount (OCEAN)
+* Payment details - crypto-wallet address
 
 Please address the invoice to:
 Ocean Protocol Foundation
