@@ -1,14 +1,11 @@
-OceanDAO Town Hall 17 is Wednesday, April 7 at 3:00pm GMT
-
-## Recording
-
-https://us02web.zoom.us/rec/share/52e4IBbqhFbWIpzWtc3Bc82O0NHKMyw4zGzQEFPlI8HzAErF4hHcWBlOXj5B5DU._U7Toop9mljFK1wQ?startTime=1617805588000
+OceanDAO Town Hall 18 is Wednesday, April 14 at 3:00pm GMT
 
 
 ## Agenda
 
-- Round 4 Results
-- Fund Distribution Structure 
+- Upcoming Round 5 updates
+- Fund Distribution via "Request"
+- Project Updates
 
 ## Zoom Link
 
