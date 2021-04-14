@@ -85,7 +85,8 @@ Remember, grants can go beyond technical in nature! :) Here are ideas related to
 - Solo & Group video | github | web workshops that can scale in reach, and onboard various communities. I.E. Meetups. Kaggle Groups.
 - Simple apps, and workshops that highlight Web3 Decentralized Data-Economy UX.
 - Biz Dev - Data Economy Workshops: Why your data should be on Ocean.
-- Engineering - Ocean App Workshop: App Generate Data -> S3 -> Publish on Ocean. N-Buy random 1 participant.
+- Engineering - Ocean App Workshop: App Generate Data -> Publish on Ocean
+- Engineering - Ocean App Workshop: Buy Data -> Enhance App
 - Engineering - Ocean Core Workshop: Deploy your own Micro-Marketplace: ShopBitFy.
 
 ## 3. Unleash data
