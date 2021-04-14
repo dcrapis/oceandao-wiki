@@ -69,7 +69,7 @@ Here are resources with ideas for apps and integrations to help data scientists:
 
 ## 2. Outreach / community
 
-Remember, grants don't need to be technical in nature! :) Here are ideas related to outreach and community.
+Remember, grants can go beyond technical in nature! :) Here are ideas related to outreach and community.
 
 ### Administrative / Management
 - Social media admin. For example, help to man the official Ocean Telegram or Discord
@@ -80,6 +80,13 @@ Remember, grants don't need to be technical in nature! :) Here are ideas related
 - Creating tutorials & how-to guides about Ocean
 - Running a podcast
 - Going crazy with creating Ocean memes or other marketing assets 🧜🧜‍♂️
+
+### Repeatable Workshops
+- Solo & Group video or github workshops that can be done online to onboard various communities. I.E. Meetups. Kaggle Groups.
+- Simple apps, and workshops that highlight Web3 Decentralized Data-Economy UX.
+Biz Dev - Data Economy Workshops: Why your data is losing on potential millions.
+Engineering - Ocean App Workshop: How to generate data, and monetize it. N-Buy random 1 participant.
+Engineering - Ocean Developer Workshop: How to manage your own Metadata.
 
 ## 3. Unleash data
 
