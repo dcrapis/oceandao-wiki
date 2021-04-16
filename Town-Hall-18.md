@@ -1,5 +1,10 @@
 OceanDAO Town Hall 18 is Wednesday, April 14 at 3:00pm GMT
 
+## Recording
+
+https://us02web.zoom.us/rec/share/enuUHAEiaCrQL3pGboQhkyZaz-OqQjvQDJP9hapKTU40FyhbnRdEj726rTpATTXY.j7UHQxSJNx__UGcr?startTime=1618412226000
+
+
 
 ## Agenda
 
