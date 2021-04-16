@@ -88,6 +88,7 @@ Remember, grants can go beyond technical in nature! :) Here are ideas related to
 - Engineering - Ocean App Workshop: App Generate Data -> Publish on Ocean
 - Engineering - Ocean App Workshop: Buy Data -> Enhance App
 - Engineering - Ocean Core Workshop: Deploy your own Micro-Marketplace: ShopBitFy.
+- MooC - Free Udemy course that onboard engineer onto Ocean Tools w/ workshops, and more advanced, monetized courses.
 
 ## 3. Unleash data
 
