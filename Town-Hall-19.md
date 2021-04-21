@@ -3,7 +3,9 @@ OceanDAO Town Hall 19 is Wednesday, April 21 at 3:00pm GMT
 
 ## Agenda
 
-- TBD
+- Round Five Updates (Granular voting / Earmarked Outreach funds;3 projects / Funding via Request)
+- Project Updates
+- New Introductions
 
 ## Zoom Link
 
