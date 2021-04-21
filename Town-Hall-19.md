@@ -1,5 +1,9 @@
 OceanDAO Town Hall 19 is Wednesday, April 21 at 3:00pm GMT
 
+## Recording
+
+https://us02web.zoom.us/rec/share/nvoue-gx2RqfhuEE6qyQKo2G9aq1YnauPxFH2DsHoQ-m3r0XfKByjDIz3pvdcPg.VMXza2CVuRW9-guT?startTime=1619016959000
+
 
 ## Agenda
 
