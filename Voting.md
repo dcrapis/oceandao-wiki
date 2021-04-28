@@ -1,4 +1,4 @@
-****PLEASE NOTE: THIS PAGE WILL BE UPDATED SHORTLY WITH THE NEW GRANULAR VOTING STEPS****
+* ****PLEASE NOTE: THIS PAGE WILL BE UPDATED SHORTLY WITH THE NEW GRANULAR VOTING STEPS****
 
 Voting will take place on: [vote.oceanprotocol.com](https://vote.oceanprotocol.com/)
 
