@@ -1,5 +1,9 @@
 OceanDAO Town Hall 20 is Wednesday, April 28 at 3:00pm GMT
 
+## Recording
+
+https://us02web.zoom.us/rec/share/iGa89MWlTVsT5qMeZ7HMiBG9jZ429AnnFc8SydUA0B-o008d8VmJqGs2bv2_j8tC.0LLZQP92Zl9HRSZu?startTime=1619621591000
+
 
 ## Agenda
 
