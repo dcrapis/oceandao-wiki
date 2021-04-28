@@ -54,7 +54,7 @@ Future OceanDAO Funding Rounds are **monthly**:
 * Project proposal due deadline: on the 1st day of the month at 23:59 GMT.
 * Voting wallet balance snapshot: on the 1st day of the month at 23:59 GMT.
 * Voting closes: 5th day of the month at 12:00pm GMT. 
-* Funding: [Via Request](https://github.com/oceanprotocol/oceandao/wiki/Request-Grant-Guidelines)
+* Funding: [Via Request](https://github.com/oceanprotocol/oceandao/wiki/Request-Grant-Guidelines) (please note this is NEW for Round Five)
 
 *Each round is subject to change and there may be variations in: amount of funding, # teams funded, and action steps themselves. This wiki will be updated accordingly to reflect any and all changes.
 
