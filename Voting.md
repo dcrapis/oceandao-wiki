@@ -1,3 +1,5 @@
+****PLEASE NOTE: THIS PAGE WILL BE UPDATED SHORTLY WITH THE NEW GRANULAR VOTING STEPS****
+
 Voting will take place on: [vote.oceanprotocol.com](https://vote.oceanprotocol.com/)
 
 See all of the proposals [here](https://port.oceanprotocol.com/c/oceandao/56); filter by round.
