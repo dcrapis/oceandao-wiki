@@ -10,7 +10,7 @@
 🐙 **[Chat (Discord)](https://discord.com/channels/612953348487905282/776848812534398986)**
 🦈 **[Town Halls](OceanDAO-Town-Hall)**
 🐋 **[Vote (Snapshot)](https://vote.oceanprotocol.com/)**
-🐚 **[Newest Blog](https://blog.oceanprotocol.com/oceandao-round-three-grant-results-86a5f35b16b3)**
+🐚 **[Newest Blog](https://blog.oceanprotocol.com/oceandao-round-5-deadline-round-4-results-c681ecf2ce99)**
 🐡
 
 ## What's OceanDAO?
