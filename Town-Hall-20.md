@@ -7,7 +7,7 @@ OceanDAO Town Hall 20 is Wednesday, April 28 at 3:00pm GMT
 - OceanDAO Roadmap updates
 - Project updates and proposals
 - New community member introductions
-[after]
+after:
 - How to create a proposal walkthrough 
  
 
