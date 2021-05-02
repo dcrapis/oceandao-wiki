@@ -6,11 +6,12 @@ Want to help but still looking for ideas on what to propose? Here's some inspira
 
 ###
 
-**Types of Projects.** Recall that funding is for projects of these four types:
+**Types of Projects.** Recall that funding is for projects of these five types:
 1. Build / improve applications or integrations to Ocean
 1. Outreach / community (grants don't need to be technical in nature)
 1. Unleash data
 1. Build / improve core Ocean software
+1. Improve Ocean DAO
 
 For each of these funding types, there's a section below with further resources.
 
