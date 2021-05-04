@@ -48,7 +48,7 @@ These numbers, and rules are being constantly revised as the DAO matures.
 
 | **Funding Round**                      | **Proposals Due By**      | **Add OCEAN to Voting Wallet By**     | **Voting Ends**           | **Amount Each** | **Target Proposals** |  **Funding Cap** | **[Round Earmark](Round-Earmark)** |
 | --                             | --                        | --                        |  --                             | -- | -- | -- | -- |
-| [Round 5](https://port.oceanprotocol.com/c/oceandao/round-5/62) | May 1, 2021 at 23:59 GMT  | May 1, 2021 at 23:59 GMT  | May 5, 2021 at 12:00 PM GMT| 10k USD in OCEAN          | 23 | 65% of proposals up to 15 | 3 proposals in Outreach |
+| [Round 5](https://port.oceanprotocol.com/c/oceandao/round-5/62) | May 1, 2021 at 23:59 GMT  | May 1, 2021 at 23:59 GMT  | May 5, 2021 at 12:00 PM GMT| ~7.5k OCEAN Tokens          | 23 | 65% of proposals up to 15 | 3 proposals in Outreach |
 
 Future OceanDAO Funding Rounds are **monthly**:
 * Project proposal due deadline: on the 1st day of the month at 23:59 GMT.
