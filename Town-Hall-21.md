@@ -1,5 +1,11 @@
 OceanDAO Town Hall 21 is Wednesday, May 5 at 3:00pm GMT
 
+## Recording
+
+Meeting Recording:
+https://us02web.zoom.us/rec/share/vGW7LrbVT5jM5baNs4tCks8sqw_93xSwaSKSgV3Dxvq483S9X-jEim7oOW1kvD7b.exKVCUqQE79GOait
+
+
 
 ## Agenda
 
