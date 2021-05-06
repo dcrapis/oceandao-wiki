@@ -1,4 +1,4 @@
-* ****PLEASE NOTE: THIS PAGE WILL BE UPDATED SHORTLY WITH THE NEW GRANULAR VOTING STEPS****
+* ****PLEASE NOTE: We have migrated from all proposals in the same voting ballot to individual yes/no proposal voting 
 
 Voting will take place on: [vote.oceanprotocol.com](https://vote.oceanprotocol.com/)
 
