@@ -3,7 +3,10 @@ OceanDAO Town Hall 22 is Wednesday, May 12 at 3:00pm GMT
 
 ## Agenda
 
-- TBD
+- Round 6 Updates
+- Proposal Announcements
+- Q/A
+- New Introductions  
 
 ## Zoom Link
 
