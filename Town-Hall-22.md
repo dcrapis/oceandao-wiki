@@ -1,5 +1,9 @@
 OceanDAO Town Hall 22 is Wednesday, May 12 at 3:00pm GMT
 
+## Recording
+
+https://us02web.zoom.us/rec/share/ljN0TOj9BwnUlUsparahYk6rnUXMau0D3pz6nXlrLTG-zNURKukkzBv6NvpCz4j-.SxN4KYTMikUHhMZI?startTime=1620831452000
+
 
 ## Agenda
 
