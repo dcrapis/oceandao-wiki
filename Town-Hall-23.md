@@ -1,4 +1,4 @@
-OceanDAO Town Hall 23 is Wednesday, May 17 at 3:00pm GMT
+OceanDAO Town Hall 23 is Wednesday, May 19 at 3:00pm GMT
 
 ## Recording
 
