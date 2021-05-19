@@ -41,6 +41,10 @@ Join the [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) for ongoing collabora
 
 ## OceanDAO Round 6
 
+| **Funding Round**                      | **Proposals Due By**      | **Add OCEAN to Voting Wallet By**     | **Voting Ends**           | **Amount Each** | **Target Proposals** |  **Funding Cap** | **[Round Earmark](Round-Earmark)** |
+| --                             | --                        | --                        |  --                             | -- | -- | -- | -- |
+| [Round 6](https://port.oceanprotocol.com/c/oceandao/round-6/63)  | May 1, 2021 at 23:59 GMT  | May 1, 2021 at 23:59 GMT  | May 5, 2021 at 12:00 PM GMT| ~7.5k OCEAN Tokens          | 23 | 65% of proposals up to 15 | 3 proposals in Outreach |
+
 ## OceanDAO Round 5
 OceanDAO aims to fund 65% of Proposals, up to our Target.
 
