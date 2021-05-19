@@ -40,6 +40,9 @@ The **[Town Hall page](OceanDAO-Town-Hall)** has more info, including dates.
 Join the [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) for ongoing collaboration and discussion. 
 
 ## OceanDAO Round 6
+
+![Round 6 Action Plan   Changes](https://user-images.githubusercontent.com/73855248/118773581-361aa400-b842-11eb-95bc-f9eeb32ae8d0.png)
+
 Proposals with 50% or more “Yes” Votes receive a grant, until “Total Round Funding Available” is depleted in descending number of votes received order.
 
 
