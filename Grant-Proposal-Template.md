@@ -28,7 +28,7 @@ Instructions:
   - [ ] Unleash data
   - [ ] Build / improve core Ocean software
   - [ ] Improvements to OceanDAO
-
+- Funding Amount: Enter the amount of OCEAN your team is requesting (limit 18.000 OCEAN)
 
 
 ### Project Overview
