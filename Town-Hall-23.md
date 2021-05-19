@@ -3,7 +3,11 @@ OceanDAO Town Hall 23 is Wednesday, May 19 at 3:00pm GMT
 
 ## Agenda
 
-- TBD
+- Round 6 upcoming
+- Call for submissions
+- Project updates
+- Q&A
+- How to submit a proposal workshop
 
 ## Zoom Link
 
