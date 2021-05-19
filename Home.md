@@ -39,7 +39,9 @@ The **[Town Hall page](OceanDAO-Town-Hall)** has more info, including dates.
 ### Discord
 Join the [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) for ongoing collaboration and discussion. 
 
-## Next Funding Rounds
+## OceanDAO Round 6
+
+## OceanDAO Round 5
 OceanDAO aims to fund 65% of Proposals, up to our Target.
 
 We currently have a proposal funding cap for each round.
