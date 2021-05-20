@@ -1,5 +1,9 @@
 OceanDAO Town Hall 23 is Wednesday, May 19 at 3:00pm GMT
 
+## Recording
+
+https://us02web.zoom.us/rec/share/oYpfXNfAA_QMTrAziDEWnOIblY9C3oJWnuyabI0oafU8OC8Nf8EDNXTz3dHvmD4k.Lk9CT_2j5aUv0qNJ?startTime=1621436160000
+
 
 ## Agenda
 
