@@ -21,6 +21,8 @@ Instructions:
 - Proposal Wallet Address (*mandatory; must have minimum 500 OCEAN already in wallet to be eligible. This wallet is where you will receive the grant amount if selected).
 - Current country of residence (*mandatory)
 - Contact Email (*mandatory)
+- Twitter Handle:
+- Discord Handle:
 - The proposal in one sentence: 
 - Which category best describes your project? Pick one or more.
   - [ ] Build / improve applications or integrations to Ocean
@@ -29,6 +31,8 @@ Instructions:
   - [ ] Build / improve core Ocean software
   - [ ] Improvements to OceanDAO
 - Funding Amount: Enter the amount of OCEAN your team is requesting (limit 18.000 OCEAN)
+- Current Remaining Grant Treasury Balance (if previous recipient)
+- Have you previously received an OceanDAO Grant?
 
 
 ### Project Overview
