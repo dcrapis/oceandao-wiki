@@ -5,8 +5,8 @@
 
 Instructions:
 1. Fill out the template <u>as applicable</u> below.
-2. Projects must meet the "[Project Submission Criteria](https://github.com/oceanprotocol/oceandao/wiki/project-criteria)".
-3. Submit the Proposal on [OceanDAO Port Forum](https://port.oceanprotocol.com/c/oceandao/56) as a New Topic in the current round's Channel.
+2. Projects must meet the "**[Project Submission Criteria](https://github.com/oceanprotocol/oceandao/wiki/project-criteria)**".
+3. Submit the Proposal on **[OceanDAO Port Forum](https://port.oceanprotocol.com/c/oceandao/56)** as a New Topic in the current round's Channel.
 4. Register the Proposal for a Grant via the **[Round 6 Form](https://airtable.com/shrJfFY1QrzM12e7O)**.
 
 
