@@ -1,6 +1,4 @@
 
-**PLEASE NOTE UPDATES COMING SOON TO REFLECT ROUND 6 UPDATES**
-
 # Instructions
 
 Instructions:
