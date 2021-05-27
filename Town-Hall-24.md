@@ -1,5 +1,8 @@
 OceanDAO Town Hall 24 is Wednesday, May 26 at 3:00pm GMT
 
+## Recording 
+
+https://us02web.zoom.us/rec/share/duO7FHCQyNiFEkl7ilRUzchQHW6BwklIfB4Vuq_FiAu3EMurZuI51G7XvkO-maEH.AtWPvqYIPrVGBX3U?startTime=1622041006000
 
 ## Agenda
 
