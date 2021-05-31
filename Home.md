@@ -46,7 +46,7 @@ Join the [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) for ongoing collabora
 Proposals with 50% or more “Yes” Votes receive a grant, until “Total Round Funding Available” is depleted in descending number of votes received order.
 
 
-| **Funding Round**                      | **Proposals Due By**      | 2 Day Due Diligence Window |  **Voting Starts & Add OCEAN to Voting Wallet By**     | **Voting Ends**           | **Funding Amount** | **Max individual Proposal Limit** |  **Total Round Funding Available** | **[Round Earmark](Round-Earmark)** |
+| **Funding Round**                      | **Proposals Due By**      | 2 Day Due Diligence Window |  **Voting Starts & Add OCEAN to Voting Wallet By**     | **Voting Ends**           | **Funding Amount** | **Max Individual Proposal Limit** |  **Total Round Funding Available** | **[Round Earmark](Round-Earmark)** |
 | --                             | --                        | --                        |  --                             | -- | -- | -- | -- |  -- |
 | [Round 6](https://port.oceanprotocol.com/c/oceandao/round-6/63)  | June 1, 2021 at 23:59 GMT  | Ends June 3, 2021 at 23:59 GMT  | June 3, 2021 at 23:59 GMT  | June 7, 2021 at 12:00 PM GMT| Request your amount of OCEAN       | 27.200 OCEAN | 272.000  OCEAN | 35% For New Proposals |
 
