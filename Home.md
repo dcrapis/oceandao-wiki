@@ -48,7 +48,7 @@ Proposals with 50% or more “Yes” Votes receive a grant, until “Total Round
 
 | **Funding Round**                      | **Proposals Due By**      | 2 Day Due Diligence Window |  **Voting Starts & Add OCEAN to Voting Wallet By**     | **Voting Ends**           | **Funding Amount** | **Individual Proposal Request Limit** |  **Total Round Funding Available** | **[Round Earmark](Round-Earmark)** |
 | --                             | --                        | --                        |  --                             | -- | -- | -- | -- |  -- |
-| [Round 6](https://port.oceanprotocol.com/c/oceandao/round-6/63)  | June 1, 2021 at 23:59 GMT  | Ends June 3, 2021 at 23:59 GMT  | June 3, 2021 at 23:59 GMT  | June 7, 2021 at 12:00 PM GMT| Request your amount of OCEAN       | 18.000 OCEAN | 180.000 OCEAN | 35% For New Proposals |
+| [Round 6](https://port.oceanprotocol.com/c/oceandao/round-6/63)  | June 1, 2021 at 23:59 GMT  | Ends June 3, 2021 at 23:59 GMT  | June 3, 2021 at 23:59 GMT  | June 7, 2021 at 12:00 PM GMT| Request your amount of OCEAN       | 27.200 OCEAN | 272.000  OCEAN | 35% For New Proposals |
 
 
 Future OceanDAO Funding Rounds are now **THE FIRST TUESDAY OF EVERY MONTH**:
