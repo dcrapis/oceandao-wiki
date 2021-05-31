@@ -26,7 +26,7 @@ Instructions:
   - [ ] Unleash data
   - [ ] Build / improve core Ocean software
   - [ ] Improvements to OceanDAO
-- Funding Amount: Enter the amount of OCEAN your team is requesting (limit 18.000 OCEAN)
+- Funding Amount: Enter the amount of OCEAN your team is requesting (limit 27.200 OCEAN in Round 6)
 - Current Remaining Grant Treasury Balance (if previous recipient)
 - Have you previously received an OceanDAO Grant?
 
