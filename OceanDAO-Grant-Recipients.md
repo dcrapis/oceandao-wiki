@@ -1,6 +1,6 @@
 A list of projects that the OceanDAO has funded to date via grants. This page serves as a repo to see who is building in the DAO.
 
-[#] = round(s) the project received a grant. 
+[#] = round(s) the project received a grant. The links go to the OceanDAO Port where the proposal is made, and where the project progress is reported.
 
 | Project       | Track | Round(s) received |     
 | ------------- | ----- | ----------------- |
