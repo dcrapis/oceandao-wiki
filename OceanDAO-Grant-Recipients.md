@@ -37,4 +37,3 @@ A list of projects that the OceanDAO has funded to date via grants. This page se
 | Papers | Build | [[4](https://port.oceanprotocol.com/t/papers-a-paper-research-creation-platform-with-ai-and-blockchain/527/6)]
 | Ocean Pearl | Outreach | [[4](https://port.oceanprotocol.com/t/proposal-ocean-pearl-ocean-ecosystem-project-tracker/607)]
 | Goto Market | Outreach | [[5](https://port.oceanprotocol.com/t/proposal-go-to-market-analysis/592)]
-| (none yet) | OceanDAO | (none yet) |
