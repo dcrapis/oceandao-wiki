@@ -12,7 +12,7 @@ A list of projects that the OceanDAO has funded to date via grants. This page se
 | Videowiki  | Build | [[2](https://port.oceanprotocol.com/t/proposal-videowiki-a-collaborative-content-creation-platform/362)] |
 | Liquidity Pool Handling 2.0 | Build | [[2](https://port.oceanprotocol.com/t/proposal-liquidity-pool-handling-2-0/370)] |
 | Research the Data Economy | Unleash Data | [[2](https://port.oceanprotocol.com/t/research-the-data-economy/354)] |
-| Rugpullindex | Build | [[2](https://port.oceanprotocol.com/t/oceandao-r2-proposal-rugpullindex-com/364)] [[3](https://port.oceanprotocol.com/t/rugpullindex-com-round-3-proposal/434)][[4](https://port.oceanprotocol.com/t/rugpulindex-com-proposal-round-4/505/3)][[5](https://port.oceanprotocol.com/t/rugpullindex-com-proposal-r5/594)] |
+| Rugpullindex | Build | [[2](https://port.oceanprotocol.com/t/oceandao-r2-proposal-rugpullindex-com/364)][[3](https://port.oceanprotocol.com/t/rugpullindex-com-round-3-proposal/434)][[4](https://port.oceanprotocol.com/t/rugpulindex-com-proposal-round-4/505/3)][[5](https://port.oceanprotocol.com/t/rugpullindex-com-proposal-r5/594)] |
 | Governor DAO – Data Aggregation | Unleash Data | [[2](https://port.oceanprotocol.com/t/proposal-governor-dao-data-aggregation/395)] |
 | Maintain Ocean Protocol core documentation | Core SW | [[2](https://port.oceanprotocol.com/t/proposal-maintain-ocean-protocol-core-component-documentation/381)]  |
 | German AI/ML goes Ocean | Unleash Data | [[2](https://port.oceanprotocol.com/t/german-ai-ml-goes-ocean/353)] [[3](https://port.oceanprotocol.com/t/german-ai-ml-goes-ocean-continued/433)] |
