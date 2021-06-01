@@ -12,15 +12,15 @@ A list of projects that the OceanDAO has funded to date via grants. This page se
 | Videowiki  | Build | [[2](https://port.oceanprotocol.com/t/proposal-videowiki-a-collaborative-content-creation-platform/362)] |
 | Liquidity Pool Handling 2.0 | Build | [[2](https://port.oceanprotocol.com/t/proposal-liquidity-pool-handling-2-0/370)] |
 | Research the Data Economy | Unleash Data | [[2](https://port.oceanprotocol.com/t/research-the-data-economy/354)] |
-| Rugpullindex | Build | [[2](https://port.oceanprotocol.com/t/oceandao-r2-proposal-rugpullindex-com/364)] [[3](https://port.oceanprotocol.com/t/rugpullindex-com-round-3-proposal/434)][[4](https://port.oceanprotocol.com/t/rugpulindex-com-proposal-round-4/505/3)][[5](https://port.oceanprotocol.com/t/rugpullindex-com-proposal-r5/594)] |
+| Rugpullindex | Build | [[2](https://port.oceanprotocol.com/t/oceandao-r2-proposal-rugpullindex-com/364)] [[3](https://port.oceanprotocol.com/t/rugpullindex-com-round-3-proposal/434)][[4](https://port.oceanprotocol.com/t/rugpulindex-com-proposal-round-4/505/3)] [[5](https://port.oceanprotocol.com/t/rugpullindex-com-proposal-r5/594)] |
 | Governor DAO – Data Aggregation | Unleash Data | [[2](https://port.oceanprotocol.com/t/proposal-governor-dao-data-aggregation/395)] |
 | Maintain Ocean Protocol core documentation | Core SW | [[2](https://port.oceanprotocol.com/t/proposal-maintain-ocean-protocol-core-component-documentation/381)]  |
 | German AI/ML goes Ocean | Unleash Data | [[2](https://port.oceanprotocol.com/t/german-ai-ml-goes-ocean/353)] [[3](https://port.oceanprotocol.com/t/german-ai-ml-goes-ocean-continued/433)] |
 | PoolGov | Build | [[3](https://port.oceanprotocol.com/t/proposal-poolgov-a-gasless-proposal-voting-tool-for-datapool-governance-by-lps/473)] |
-| DataUnion.app | Build | [[3](https://port.oceanprotocol.com/t/proposal-dataunion-app-upload-challenge/462)][[4](https://port.oceanprotocol.com/t/dataunion-app-mobile-version/549)][[5](https://port.oceanprotocol.com/t/proposal-dataunion-app-annotation-feature-v1/619)][[5](https://port.oceanprotocol.com/t/proposal-dataunion-app-data-portal-v1/620)] |
+| DataUnion.app | Build | [[3](https://port.oceanprotocol.com/t/proposal-dataunion-app-upload-challenge/462)] [[4](https://port.oceanprotocol.com/t/dataunion-app-mobile-version/549)] [[5](https://port.oceanprotocol.com/t/proposal-dataunion-app-annotation-feature-v1/619)] [[5](https://port.oceanprotocol.com/t/proposal-dataunion-app-data-portal-v1/620)] |
 | Degen Triggers | Build | [[3](https://port.oceanprotocol.com/t/proposal-degen-triggers/471)] |
 | Votes4LPs | Build | [[3](https://port.oceanprotocol.com/t/proposal-votes4lps-give-all-ocean-tokens-a-vote/459)] |
-| OCEAN dashboard | Build | [[3](https://port.oceanprotocol.com/t/proposal-ocean-dashboard/467)][[4](https://port.oceanprotocol.com/t/ocean-dashboard-historical-liquidity-tracking/532)] |
+| OCEAN dashboard | Build | [[3](https://port.oceanprotocol.com/t/proposal-ocean-dashboard/467)] [[4](https://port.oceanprotocol.com/t/ocean-dashboard-historical-liquidity-tracking/532)] |
 | Pool Screener | Build | [[3](https://port.oceanprotocol.com/t/proposal-pool-screener/469)] |
 | Dounty | Build | [[3](https://port.oceanprotocol.com/t/proposal-dounty-a-data-bounty-platform/448)] |
 | Onboarding Neuroscientists to the Data Economy | Unleash Data | [[3](https://port.oceanprotocol.com/t/mission-coral-onboarding-neuroscientists-to-the-data-economy/455)] [[4](https://port.oceanprotocol.com/t/project-coral-onboarding-neuroscientists-to-the-data-economy/516/4)] [[5](https://port.oceanprotocol.com/t/proposal-project-coral-onboarding-neuroscientists-to-the-data-economy/600)] |
@@ -38,3 +38,6 @@ A list of projects that the OceanDAO has funded to date via grants. This page se
 | Ocean Pearl | Outreach | [[4](https://port.oceanprotocol.com/t/proposal-ocean-pearl-ocean-ecosystem-project-tracker/607)]
 | Goto Market | Outreach | [[5](https://port.oceanprotocol.com/t/proposal-go-to-market-analysis/592)]
 | (none yet) | OceanDAO | (none yet) |
+
+
+
