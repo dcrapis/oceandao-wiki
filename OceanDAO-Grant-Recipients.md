@@ -20,7 +20,7 @@ A list of projects that the OceanDAO has funded to date via grants. This page se
 | DataUnion.app | Build | [[3](https://port.oceanprotocol.com/t/proposal-dataunion-app-upload-challenge/462)][[4](https://port.oceanprotocol.com/t/dataunion-app-mobile-version/549)][[5](https://port.oceanprotocol.com/t/proposal-dataunion-app-annotation-feature-v1/619)][[5](https://port.oceanprotocol.com/t/proposal-dataunion-app-data-portal-v1/620)] |
 | Degen Triggers | Build | [[3](https://port.oceanprotocol.com/t/proposal-degen-triggers/471)] |
 | Votes4LPs | Build | [[3](https://port.oceanprotocol.com/t/proposal-votes4lps-give-all-ocean-tokens-a-vote/459)] |
-| OCEAN dashboard | Build | [[3](https://port.oceanprotocol.com/t/proposal-ocean-dashboard/467)][[4](https://port.oceanprotocol.com/t/ocean-dashboard-historical-liquidity-tracking/532) |
+| OCEAN Dashboard | Build | [[3](https://port.oceanprotocol.com/t/proposal-ocean-dashboard/467)][[4](https://port.oceanprotocol.com/t/ocean-dashboard-historical-liquidity-tracking/532)] |
 | Pool Screener | Build | [[3](https://port.oceanprotocol.com/t/proposal-pool-screener/469)] |
 | Dounty | Build | [[3](https://port.oceanprotocol.com/t/proposal-dounty-a-data-bounty-platform/448)] |
 | Onboarding Neuroscientists to the Data Economy | Unleash Data | [[3](https://port.oceanprotocol.com/t/mission-coral-onboarding-neuroscientists-to-the-data-economy/455)][[4](https://port.oceanprotocol.com/t/project-coral-onboarding-neuroscientists-to-the-data-economy/516/4)][[5](https://port.oceanprotocol.com/t/proposal-project-coral-onboarding-neuroscientists-to-the-data-economy/600)] |
