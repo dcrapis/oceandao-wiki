@@ -28,8 +28,8 @@ A list of projects that the OceanDAO has funded to date via grants. This page se
 | Green Light | Build | [[4](https://port.oceanprotocol.com/t/green-light-for-data-exchanges-kickoff/502/2)]
 | Oort Digital | Build | [[4](https://port.oceanprotocol.com/t/proposal-oort-digital-platform/538/3)]
 | Open Science Bay | Build | [[4](https://port.oceanprotocol.com/t/open-science-bay-for-self-sovereign-data-flows-from-lab-to-market/531)]
-| deltaDAO | build | [[4](https://port.oceanprotocol.com/t/deltadao-building-towards-gdpr-compliant-data-markets/550)]
-| deltaDAO | outreach | [[5](https://port.oceanprotocol.com/t/proposal-deltadao-creating-an-ocean-protocol-use-case-and-pitch-deck-library/618)]
+| deltaDAO | Build | [[4](https://port.oceanprotocol.com/t/deltadao-building-towards-gdpr-compliant-data-markets/550)]
+| deltaDAO | Outreach | [[5](https://port.oceanprotocol.com/t/proposal-deltadao-creating-an-ocean-protocol-use-case-and-pitch-deck-library/618)]
 | ResillientML | Unleash Data | [[4](https://port.oceanprotocol.com/t/proposal-round-4-resilientml-web3-0-defi-and-metaverse-sentiment/540)] [[5](https://port.oceanprotocol.com/t/proposal-round-5-resilientml-expansion-of-sentiment-data-news-sources-and-features/603)]
 | ResilientML | Outreach | [[5](https://port.oceanprotocol.com/t/proposal-round-5-resilientml-gateway-to-ocean-introductory-intermediate-and-advanced-ai-ml-data-science-courses/605)]
 | Evotegra | Unleash Data | [[5](https://port.oceanprotocol.com/t/evotegra-unleash-more-traffic-data-to-the-market/615)]
@@ -38,6 +38,3 @@ A list of projects that the OceanDAO has funded to date via grants. This page se
 | Ocean Pearl | Outreach | [[4](https://port.oceanprotocol.com/t/proposal-ocean-pearl-ocean-ecosystem-project-tracker/607)]
 | Goto Market | Outreach | [[5](https://port.oceanprotocol.com/t/proposal-go-to-market-analysis/592)]
 | (none yet) | OceanDAO | (none yet) |
-
-
-
