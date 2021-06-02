@@ -3,7 +3,8 @@ OceanDAO Town Hall 25 is Wednesday, June 2 at 3:00pm GMT
 
 ## Agenda
 
-- TBD
+- OceanDAO Round 6 submissions
+- Updates
 
 ## Zoom Link
 
