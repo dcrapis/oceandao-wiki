@@ -9,7 +9,6 @@ Future:
 * [Town Hall 27](Town-Hall-27) - Wed June 16, 2021 at 15:00 GMT
 * [Town Hall 28](Town-Hall-28) - Wed June 23, 2021 at 15:00 GMT
 * [Town Hall 29](Town-Hall-29) - Wed June 30, 2021 at 15:00 GMT
-
 * (more to come)
 
 Previous:
