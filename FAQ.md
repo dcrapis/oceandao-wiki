@@ -19,8 +19,8 @@
 
 ###
 
-- Q: I've submitted my project to Shipyard. Can I also submit it to OceanDAO? And what about the other way?
-- A: Yes, OceanDAO is now the main source for funding, and community curators will take this into consideration.
+- Q: I've submitted my project to Shipyard. Can I also submit it to OceanDAO?
+- A: Yes, we encourage it. OceanDAO is now the main source for funding, and community curators will take this into consideration.
 
 ###
 
