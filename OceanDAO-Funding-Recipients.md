@@ -1,0 +1,1 @@
+You can see each funding round, winners, and funding recipients in our [Funding History Page](https://www.notion.so/Funding-History-3cadee15c7c14ee2a6f1ab61de70dfc2).
