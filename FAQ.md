@@ -1,17 +1,16 @@
 ### Frequently Asked Questions
 
 - Q: Is voting from exchanges or with OCEAN currently provided as liquidity on Ocean Market currently possible?
-- A: No. Make sure to have an OCEAN balance in a non-custodial wallet before voting opens on Dec 15. 
+- A: You can use your coins that are providing Liquidity in Ocean Markets to vote. Make sure to have an OCEAN balance in a non-custodial wallet before voting opens on Dec 15. Voting from CEX is not supported at the moment.  We are working to provide support for DEX's, and other systems.
 
 ###
 
-- Q: How does Ocean relate to other Ocean funding programs (Shipyard, Data Economy Challenge)?
-- A: They are complementary: 
-  - Shipyard offers grants curated by the core Ocean team.
-  - OceanDAO offers grants curated by the broader community of OCEAN holders.
-  - Data Economy Challenge (DEC) offers prizes curated by expert judges from the community.
-  - More information is at: https://oceanprotocol.com/fund 
-
+- Q: How does OceanDAO relate to other Ocean funding programs (Shipyard, Data Economy Challenge)?
+- A: OceanDAO is now the central place where funding comes from. Both Shipyard and Data Economy Challenge are being rolled into the DAO. It is now being improved to provide:
+  - Small & Large grants.
+  - Support for veteran & new teams.
+  - A wide range of grant categories.
+  - More information is at: https://oceanprotocol.com/dao
 
 ###
 
@@ -21,7 +20,7 @@
 ###
 
 - Q: I've submitted my project to Shipyard. Can I also submit it to OceanDAO? And what about the other way?
-- A: Yes, both ways. However please be transparent about it. That is, indicate in your Shipyard proposal that you've also submitted to OceanDAO, and vice versa. The curators for each will take this into consideration.
+- A: Yes, OceanDAO is now the main source for funding, and community curators will take this into consideration.
 
 ###
 
