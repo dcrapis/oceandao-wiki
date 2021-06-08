@@ -1,5 +1,9 @@
 OceanDAO Town Hall 25 is Wednesday, June 2 at 3:00pm GMT
 
+## Recording
+
+https://us02web.zoom.us/rec/share/kwZffUOsG2iNbi98l1Bp4m7uyAzEMv7MNIuJJJqwRCIeeyGPTXJiX45NCXxHonc.Le2W_IHxR-DGGIzf?startTime=1622645984000
+
 
 ## Agenda
 
