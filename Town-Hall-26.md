@@ -1,5 +1,10 @@
 OceanDAO Town Hall 26 is Wednesday, June 9 at 3:00pm GMT
 
+## Recording
+
+https://us02web.zoom.us/rec/share/sUJhBYC_-p6UdMPJEbyTO1VUReORt292O0ATzRVxS40AueXjV_lgQjzSlgqs3pDv.aGypblaRNEdGvZGB?startTime=1623250626000
+
+
 
 ## Agenda
 
