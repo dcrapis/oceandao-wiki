@@ -48,16 +48,16 @@ Proposals with 50% or more “Yes” Votes receive a grant, until “Total Round
 
 | **Funding Round**                      | **Proposals Due By**      | 2 Day Due Diligence Window |  **Voting Starts & Add OCEAN to Voting Wallet By**     | **Voting Ends**           | **Funding Amount** | **Max Individual Proposal Limit** |  **Total Round Funding Available** | **[Round Earmark](Round-Earmark)** |
 | --                             | --                        | --                        |  --                             | -- | -- | -- | -- |  -- |
-| [Round 6](https://port.oceanprotocol.com/c/oceandao/round-6/63)  | June 1, 2021 at 23:59 GMT  | Ends June 3, 2021 at 23:59 GMT  | June 3, 2021 at 23:59 GMT  | June 7, 2021 at 12:00 PM GMT| Request your amount of OCEAN       | 27.200 OCEAN | 272.000  OCEAN | 35% For New Proposals |
+| [Round 7](https://port.oceanprotocol.com/c/oceandao/round-6/63)  | July 6, 2021 at 23:59 GMT  | Ends July 8, 2021 at 23:59 GMT  | July 8, 2021 at 23:59 GMT  | July 12, 2021 at 12:00 PM GMT| Request your amount of OCEAN       | xx.xxx OCEAN | xxx.xxx  OCEAN | 35% For New Proposals |
 
 
 Future OceanDAO Funding Rounds are now **THE FIRST TUESDAY OF EVERY MONTH**:
-* Project proposal due deadline: on the 1st day of the month at 23:59 GMT.
-* Voting wallet balance snapshot: on the 3rd day of the month at 23:59 GMT.
-* Voting closes: 7th day of the month at 12:00pm GMT. 
+* Project proposal due deadline: First Tuesday of the month at 23:59 GMT.
+* Voting wallet balance snapshot: First Thursday of the month at 23:59 GMT.
+* Voting closes: Second Week of the month, Monday at 12:00pm GMT. 
 * Funding: [Via Request](https://github.com/oceanprotocol/oceandao/wiki/Request-Grant-Guidelines) (please note this is NEW as of Round Five)
 
-![Round 6 Action Plan   Changes](https://user-images.githubusercontent.com/73855248/118773581-361aa400-b842-11eb-95bc-f9eeb32ae8d0.png)
+![Round 6 Action Plan Changes](https://user-images.githubusercontent.com/73855248/118773581-361aa400-b842-11eb-95bc-f9eeb32ae8d0.png)
 
 
 *Each round is subject to change and there may be variations in: amount of funding, # teams funded, and action steps themselves, etc as the DAO matures. This wiki will be updated accordingly to reflect any and all changes.
