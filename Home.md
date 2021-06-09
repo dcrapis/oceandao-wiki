@@ -57,7 +57,7 @@ Future OceanDAO Funding Rounds are now **THE FIRST TUESDAY OF EVERY MONTH**:
 * Voting closes: Second Week of the month, Monday at 12:00pm GMT. 
 * Funding: [Via Request](https://github.com/oceanprotocol/oceandao/wiki/Request-Grant-Guidelines) (please note this is NEW as of Round Five)
 
-![Round 6 Action Plan Changes](https://user-images.githubusercontent.com/73855248/118773581-361aa400-b842-11eb-95bc-f9eeb32ae8d0.png)
+![Round 7 Action Plan Changes](https://user-images.githubusercontent.com/69865342/121441121-09881280-c93e-11eb-8943-38dd42432f97.png)
 
 
 *Each round is subject to change and there may be variations in: amount of funding, # teams funded, and action steps themselves, etc as the DAO matures. This wiki will be updated accordingly to reflect any and all changes.
