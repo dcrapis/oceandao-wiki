@@ -13,9 +13,14 @@ OceanDAO funding rounds are ongoing monthly.
 | [Round 5](https://port.oceanprotocol.com/c/oceandao/round-5/62) |  May 1, 2021 at 23:59 GMT  | May 5, 2021 at 12:00 PM GMT| 7500 OCEAN | 11 | 3 proposals in Outreach |
 | [Round 6](https://port.oceanprotocol.com/c/oceandao/round-6/63) |  Jun 3, 2021 at 23:59 GMT  | June 7th, 2021 at 12:00 PM GMT| 27200 OCEAN | 13 | 35% for New Proposals |
 
-### Expanded Details
+## Expanded Details
 
-## OceanDAO Round 5
+### OceanDAO Round 6
+
+
+
+
+### OceanDAO Round 5
  
 OceanDAO aims to fund 65% of Proposals, up to our Target.
 
