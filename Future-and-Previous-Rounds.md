@@ -1,11 +1,6 @@
 ### Future
 
-OceanDAO funding rounds are ongoing monthly, with proposals due on the first of every month then a 3 day voting window thereafter.
-
-| **Round**                      | **Proposals Due By**      | **Voting Ends**           | **Amount Each**                 | **Grantees** | **[Round Earmark](Round-Earmark)** |
-| --                             | --                        | --                        |  --                             | -- | -- |
-| Round 7                        | --                        | --                        | --                            | -- | -- |
-| ..                             | ..                        | ..                        | ..                              | .. | -- |
+OceanDAO funding rounds are ongoing monthly.
 
 
 ### Previous
