@@ -39,7 +39,7 @@ The **[Town Hall page](OceanDAO-Town-Hall)** has more info, including dates.
 ### Discord
 Join the [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) for ongoing collaboration and discussion. 
 
-## OceanDAO Round 6
+## OceanDAO Round 7
 
 
 
