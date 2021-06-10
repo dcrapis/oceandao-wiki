@@ -45,6 +45,8 @@ Join the [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) for ongoing collabora
 
 Proposals with 50% or more “Yes” Votes receive a grant, until “Total Round Funding Available” is depleted in descending number of votes received order.
 
+35% of “Total Round Funding Available” is earmarked for New Projects. Earmarked proposals are eligible for entire “Total Round Funding Available”; returning (general) grants are eligible for 65%.
+
 
 | **Funding Round**                      | **Proposals Due By**      | 2 Day Due Diligence Window |  **Voting Starts & Add OCEAN to Voting Wallet By**     | **Voting Ends**           | **Funding Amount** | **Max Individual Proposal Limit** |  **Total Round Funding Available** | **[Round Earmark](Round-Earmark)** |
 | --                             | --                        | --                        |  --                             | -- | -- | -- | -- |  -- |
