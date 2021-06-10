@@ -50,7 +50,7 @@ Proposals with 50% or more “Yes” Votes receive a grant, until “Total Round
 
 
 
-| **Funding Round**                      | **Proposals Due By**      | 2 Day Due Diligence Window |  **Voting Starts & Add OCEAN to Voting Wallet By**     | **Voting Ends**           | **Funding Amount** | **Max Individual Proposal Limit** |  **Total Round Funding Available** | **[Round Earmark](Round-Earmark)** |
+| **Funding Round**                      | **Proposals Due By**      | 2 Day Due Diligence Window |  **Voting Starts & Add OCEAN to Voting Wallet By**     | **Voting Ends**           | **Funding Amount** | **Max Individual Proposal Limit** |  **Total Round Funding Available** | **Round Earmark** |
 | --                             | --                        | --                        |  --                             | -- | -- | -- | -- |  -- |
 | [Round 7](https://port.oceanprotocol.com/c/oceandao/round-7/64)  | July 6, 2021 at 23:59 GMT  | Ends July 8, 2021 at 23:59 GMT  | July 8, 2021 at 23:59 GMT  | July 12, 2021 at 12:00 PM GMT| Request your amount of OCEAN       | 32.000 OCEAN | 400.000  OCEAN | 35% For New Proposals |
 
