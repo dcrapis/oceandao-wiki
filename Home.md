@@ -48,6 +48,8 @@ Proposals with 50% or more “Yes” Votes receive a grant, until “Total Round
 35% of “Total Round Funding Available” is earmarked for New Projects. Earmarked proposals are eligible for entire “Total Round Funding Available”; returning (general) grants are eligible for 65%.
 
 
+
+
 | **Funding Round**                      | **Proposals Due By**      | 2 Day Due Diligence Window |  **Voting Starts & Add OCEAN to Voting Wallet By**     | **Voting Ends**           | **Funding Amount** | **Max Individual Proposal Limit** |  **Total Round Funding Available** | **[Round Earmark](Round-Earmark)** |
 | --                             | --                        | --                        |  --                             | -- | -- | -- | -- |  -- |
 | [Round 6](https://port.oceanprotocol.com/c/oceandao/round-6/63)  | Jun 1, 2021 at 23:59 GMT  | Ends Jun 3, 2021 at 23:59 GMT  | Jun 3, 2021 at 23:59 GMT  | Jun 07, 2021 at 12:00 PM GMT| Request your amount of OCEAN       | 27.200 OCEAN | 272.000  OCEAN | 35% For New Proposals |
