@@ -68,7 +68,7 @@ Here are other metrics that may be useful.
 * Total revenue to all Ocean marketplace runners
 * Total number of datatoken contracts
 * APY for Ocean Market stakers 
-* Number of weekly active users (WAUs) in Ocean Market or all markets
+* Ocean WAUs - Number of weekly active users in Ocean Market, All Markets, or Ecosystem
 * Retention %, aka churn
 
 We also welcome proposals that help OceanDAO itself. Here are some metrics of interest:
