@@ -64,7 +64,7 @@ OceanDAO Funding Rounds are now **THE FIRST TUESDAY OF EVERY MONTH**:
 ![Round 7 Action Plan Changes](https://user-images.githubusercontent.com/69865342/121541796-74782e80-c9bc-11eb-9c5f-b3507a8c20b5.png)
 
 
-*Each round is subject to change and there may be variations in: amount of funding, # teams funded, and action steps themselves, etc as the DAO matures. This wiki will be updated accordingly to reflect any and all changes. Each Round The OceanDAO Core team can incentivize projects to propose for certain aspects of the DAO by "Earmarking Funds" for specific grant allocations.
+*Each round is subject to change and there may be variations in: amount of funding, # teams funded, and action steps themselves, etc as the DAO matures. This wiki will be updated accordingly to reflect any and all changes. Each Round the OceanDAO team can incentivize projects to propose for certain aspects of the DAO by "Earmarking Funds" for specific grant allocations.
 
 See more details on Future and Previous Rounds [here](future-and-previous-rounds).
 
