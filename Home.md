@@ -55,7 +55,7 @@ Proposals with 50% or more “Yes” Votes receive a grant, until “Total Round
 | [Round 7](https://port.oceanprotocol.com/c/oceandao/round-7/64)  | July 6, 2021 at 23:59 GMT  | Ends July 8, 2021 at 23:59 GMT  | July 8, 2021 at 23:59 GMT  | July 12, 2021 at 12:00 PM GMT| Request your amount of OCEAN       | 32.000 OCEAN | 400.000  OCEAN | 35% For New Proposals |
 
 
-Future OceanDAO Funding Rounds are now **THE FIRST TUESDAY OF EVERY MONTH**:
+OceanDAO Funding Rounds are now **THE FIRST TUESDAY OF EVERY MONTH**:
 * Project proposal due deadline: First Tuesday of the month at 23:59 GMT.
 * Voting wallet balance snapshot: First Thursday of the month at 23:59 GMT.
 * Voting closes: Second Week of the month, Monday at 12:00pm GMT. 
