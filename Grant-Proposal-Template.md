@@ -4,7 +4,7 @@
 Instructions:
 1. Fill out the template <u>as applicable</u> below.
 2. Projects must meet the "**[Project Submission Criteria](https://github.com/oceanprotocol/oceandao/wiki/project-criteria)**".
-3. Submit the Proposal on **[OceanDAO Port Forum](https://port.oceanprotocol.com/c/oceandao/56)** as a **New Topic** in the current Funding **Round #** Channel you are applying for.
+3. Submit the Proposal on **[OceanDAO Port Forum](https://port.oceanprotocol.com/c/oceandao/56)** as a **New Topic** in the current OceanDAO subcategory called **Round ##** that you are applying for funding.
 
 ----
 
