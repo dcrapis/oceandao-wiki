@@ -3,7 +3,8 @@ OceanDAO Town Hall 27 is Wednesday, June 16 at 3:00pm GMT
 
 ## Agenda
 
-- TBD
+- OceanDAO Updates
+- Round 7 Progress
 
 ## Zoom Link
 
