@@ -2,6 +2,8 @@
 
 OceanDAO funding rounds are ongoing monthly.
 
+Each round is subject to change and there may be variations in: amount of funding, # teams funded, and action steps themselves, etc as the DAO matures. This wiki will be updated accordingly to reflect any and all changes. Each Round the OceanDAO team can incentivize projects to propose for certain aspects of the DAO by "Earmarking Funds" for specific grant allocations.
+
 
 ### Previous
 | **Round**                      | **Proposals Due By**      | **Voting Ends**           | **Amount Each (MAX)**                 | **Grantees** | **[Round Earmark](Round-Earmark)** |
