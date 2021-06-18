@@ -41,19 +41,7 @@ Join the [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) for ongoing collabora
 
 ## OceanDAO Round 7
 
-
-
-Proposals with 50% or more “Yes” Votes receive a grant, until “Total Round Funding Available” is depleted in descending number of votes received order.
-
-35% of “Total Round Funding Available” is earmarked for New Projects. Earmarked proposals are eligible for entire “Total Round Funding Available”; returning (general) grants are eligible for 65%.
-
-
-
-
-| **Funding Round**                      | **Proposals Due By**      | 2 Day Due Diligence Window |  **Voting Starts & Add OCEAN to Voting Wallet By**     | **Voting Ends**           | **Funding Amount** | **Max Proposal Request Limit** |  **Total Round Funding Available** | **Round Earmark** |
-| --                             | --                        | --                        |  --                             | -- | -- | -- | -- |  -- |
-| [Round 7](https://port.oceanprotocol.com/c/oceandao/round-7/64)  | July 6, 2021 at 23:59 GMT  | Ends July 8, 2021 at 23:59 GMT  | July 8, 2021 at 23:59 GMT  | July 12, 2021 at 12:00 PM GMT| Request your amount of OCEAN       | 32.000 OCEAN | 400.000  OCEAN | 35% For New Proposals |
-
+Please visit the [Round 7 - Proposal Overview Page](https://bit.ly/Round7Proposals) for a full breakdown of Round 7.
 
 OceanDAO Funding Rounds are now **THE FIRST TUESDAY OF EVERY MONTH**:
 * Project proposal due deadline: First Tuesday of the month at 23:59 GMT.
