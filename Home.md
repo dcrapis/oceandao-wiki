@@ -41,7 +41,7 @@ Join the [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) for ongoing collabora
 
 ## OceanDAO Round 7
 
-Please visit [Round 7 - Proposals](https://bit.ly/Round7Proposals) page for a full breakdown of Round 7.
+Please visit [Round 7 - Proposals](https://bit.ly/Round7Proposals) page for a full breakdown.
 
 OceanDAO Funding Rounds are now **THE FIRST TUESDAY OF EVERY MONTH**:
 * Project proposal due deadline: First Tuesday of the month at 23:59 GMT.
