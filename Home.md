@@ -49,8 +49,6 @@ OceanDAO Funding Rounds are now **THE FIRST TUESDAY OF EVERY MONTH**:
 * Voting closes: Second Week of the month, Monday at 12:00pm GMT. 
 * Funding: [Via Request](https://github.com/oceanprotocol/oceandao/wiki/Request-Grant-Guidelines) (please note this is NEW as of Round Five)
 
-![Round 7 Action Plan Changes](https://user-images.githubusercontent.com/69865342/121541796-74782e80-c9bc-11eb-9c5f-b3507a8c20b5.png)
-
 See more details on Future and Previous Rounds [here](future-and-previous-rounds).
 
 ## Project Submission Criteria
@@ -103,6 +101,8 @@ If you were not selected for a grant in this Funding Round, we highly encourage 
 ## On OceanDAO Evolution
 
 The best practices and technology around DAOs are still evolving. OceanDAO’s strategy is to “bake slowly” — to ratchet up value-at-risk over time, to give space to learn and for technology to improve. Accordingly, the amount of funds per Funding Round may vary, and OPF reserves the right to make changes in general. The aim is: if OceanDAO creates positive value, then the funds allocated to OceanDAO will go up.
+
+You can [learn more about our Roadmap](https://blog.oceanprotocol.com/oceandao-roadmap-update-mid-2021-3ea6ba80795d) and gain insights into what's ahead for OceanDAO.
 
 ## Further resources
 
