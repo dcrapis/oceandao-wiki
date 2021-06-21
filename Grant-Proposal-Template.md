@@ -8,9 +8,7 @@ Instructions:
 
 ----
 
-# Grant Proposal Template
-
-### Part 1 - Proposal Submission (*Mandatory)
+## Part 1 - Proposal Submission (*Mandatory)
 
 - Name of Project: 
 Which category best describes your project? Pick one.
