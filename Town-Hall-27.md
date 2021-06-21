@@ -1,6 +1,11 @@
 OceanDAO Town Hall 27 is Wednesday, June 16 at 3:00pm GMT
 
 
+## Recording
+
+https://us02web.zoom.us/rec/share/gsE0bHNzlUqX8HaNe-XyuSwRV7uymnIJNtmxiG775DLy3v9SOHs5wzQ5OU8pqWZA.TOqg2qTCkdzdWaxN?startTime=1623855454000
+
+
 ## Agenda
 
 - OceanDAO Updates
