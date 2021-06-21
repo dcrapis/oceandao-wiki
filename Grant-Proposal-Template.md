@@ -89,7 +89,7 @@ If the project includes community engagement:
 - Running the campaign on social media for how many weeks?
 - Other?
 
-## Project Deliverables - Roadmap
+### Project Deliverables - Roadmap
 
 - Any prior work completed thus far?
 - What is the project roadmap? That is: what are key milestones, and the target date for each milestone.
@@ -98,7 +98,7 @@ If the project includes community engagement:
   - Any maintenance?
   - Foreseen or possible additions?
 
-## Team members
+### Team members
 For each team member, give their name, role and background such as the following.
 
 **John Doe**
@@ -114,6 +114,6 @@ For each team member, give their name, role and background such as the following
   - Lead developer at yyy 
   - Creator of xxx.js the official JavaScript library for xxx
 
-## Additional Information
+### Additional Information
 Any additional information, custom fields, or images you would like to add? For example: Any grants or fundraising to date?
 
