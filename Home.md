@@ -11,6 +11,7 @@
 🦈 **[Town Halls](OceanDAO-Town-Hall)**
 🐋 **[Vote (Snapshot)](https://vote.oceanprotocol.com/)**
 🐚 **[Grant Recipients](https://www.notion.so/Grant-Recipients-3cadee15c7c14ee2a6f1ab61de70dfc2)**
+🐳
 
 ## What's OceanDAO?
 
