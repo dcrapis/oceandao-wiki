@@ -39,6 +39,8 @@ Grant Deliverables: (Provide us with a list of deliverables for the funding prov
 
 Funding Requested: (Amount of OCEAN your team is requesting - Round 7 Max @ 32,000)
 
+If your proposal is voted to receive a OceanDAO Grant, how would the proposal contribute a value greater than the grant amount back to the Ocean Ecosystem (best expressed as “[Expected ROI](On-ROI)”)?
+
 Proposal Wallet Address: (must have minimum 500 OCEAN in wallet to be eligible. This wallet is where you will receive the grant amount if selected).
 
 Team Website (if applicable): 
