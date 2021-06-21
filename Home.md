@@ -49,7 +49,7 @@ Visit the [Round Proposals Page](https://bit.ly/Round7Proposals) for an overview
 
 Or you can visit the [Round Vote Page](https://bit.ly/Round7Votes) for a full breakdown of Votes and Grants.
 
-See more details on [Future and Previous Rounds](future-and-previous-rounds) to understand our grants history.
+To understand our Grants history, you can view our [Previous and Future Rounds](future-and-previous-rounds).
 
 You can view our [Public Roadmap](future-and-previous-rounds) to follow the goals of each Funding Round.
 
