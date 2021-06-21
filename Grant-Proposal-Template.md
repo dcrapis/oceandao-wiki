@@ -10,7 +10,7 @@ Instructions:
 
 # Part 1 - Proposal Submission (*Mandatory)
 
-- Name of Project: 
+Name of Project: 
 Which category best describes your project? Pick one.
   - [ ] Build / improve applications or integrations to Ocean
   - [ ] Outreach / community / spread awareness (grants don't need to be technical in nature)
@@ -18,7 +18,7 @@ Which category best describes your project? Pick one.
   - [ ] Build / improve core Ocean software
   - [ ] Improvements to OceanDAO
 
-- Which Fundamental Metric best describes your project? Pick one.
+Which Fundamental Metric best describes your project? Pick one.
   - [ ] Data Consume Volume
   - [ ] Datatoken Contracts
   - [ ] Total Value Locked
@@ -27,29 +27,29 @@ Which category best describes your project? Pick one.
   - [ ] $ Proposed / $ Funded (Your project helps generate, and fund more proposals)
   - [ ] Other. Explain…
 
-- Proposal in one sentence:
+Proposal in one sentence:
 
-- Description of the project and what problem is it solving:
+Description of the project and what problem is it solving:
 
-- What is the final product?:
+What is the final product?:
 
-- Grant Deliverables: (Provide us with a list of deliverables for the funding provided) 
+Grant Deliverables: (Provide us with a list of deliverables for the funding provided) 
 
-- Funding Requested: (Amount of OCEAN your team is requesting - Round 7 Max @ 32,000)
+Funding Requested: (Amount of OCEAN your team is requesting - Round 7 Max @ 32,000)
 
-- Proposal Wallet Address: (must have minimum 500 OCEAN in wallet to be eligible. This wallet is where you will receive the grant amount if selected).
+Proposal Wallet Address: (must have minimum 500 OCEAN in wallet to be eligible. This wallet is where you will receive the grant amount if selected).
 
-- Team Website (if applicable): 
+Team Website (if applicable): 
 
-- Project lead Contact Email:
+Project lead Contact Email:
 
-- Twitter Handle (if applicable):
+Twitter Handle (if applicable):
 
-- Discord Handle (if applicable):
+Discord Handle (if applicable):
 
-- Country of Residence:
+Country of Residence:
 
-- Have you previously received an OceanDAO Grant (Y/N)?
+Have you previously received an OceanDAO Grant (Y/N)?
 
 
 
@@ -57,28 +57,28 @@ Which category best describes your project? Pick one.
 # Part 2 - Proposal Details (*Recommended)
 
 
-- How does this project drive value to the “fundamental metric” (listed above) and the overall Ocean ecosystem? This is best expressed as Expected ROI, details [here](On-ROI). 
+How does this project drive value to the “fundamental metric” (listed above) and the overall Ocean ecosystem? This is best expressed as Expected ROI, details [here](On-ROI). 
 
-- Project Deliverables - Category
+<u>Project Deliverables - Category:</u>
 
-<u>IF: Build / improve applications or integration to Ocean, then:</u>
+- [ ] IF: Build / improve applications or integration to Ocean, then:
 - App will be live, at: ____ (url or app store)
 - Is your software open-source? Project can be found (with permissive license if necessary) at: github.com/___
 
-<u>IF: Outreach / community, then (one or more of):</u>
+- [ ] IF: Outreach / community, then (one or more of):
 - __ (e.g. 3) blog posts will be published at: _____ (e.g. medium.com/____)
 - A video production will be published at: _____ (e.g. youtube.com/___)
 - __ (e.g. 3) podcasts will be published at: _____ (url)
 - (or other! Surprise us, delight us:)
 
-<u>IF: Unleash data , then:</u>
+- [ ] IF: Unleash data , then:
 - Data will be made available on Ocean Market (or _____ market)
 
-<u>IF: Build / improve Ocean core software, then:</u>
+- [ ] IF: Build / improve Ocean core software, then:
 - A PR will be made to these Ocean components: _______, following best practices for quality etc
 - I commit to working with Ocean core developers to merging the PR
 
-<u>IF: Improvements to OceanDAO, then:</u>
+- [ ] IF: Improvements to OceanDAO, then:
 - Any improved DAO tooling will be publicly available. Work is close collaboration with OceanDAO core team.
 
 If the project includes software:
