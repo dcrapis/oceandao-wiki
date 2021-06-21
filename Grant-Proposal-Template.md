@@ -10,37 +10,56 @@ Instructions:
 
 # Grant Proposal Template
 
-### Key Project Data
+### Part 1 - Proposal Submission (*Mandatory)
 
-- Name of project: 
-- Team Website (if applicable): 
-- Proposal Wallet Address (*mandatory; must have minimum 500 OCEAN already in wallet to be eligible. This wallet is where you will receive the grant amount if selected).
-- Current country of residence (*mandatory)
-- Contact Email (*mandatory)
-- Twitter Handle:
-- Discord Handle:
-- The proposal in one sentence: 
-- Which category best describes your project? Pick one or more.
+Name of Project: 
+Which category best describes your project? Pick one.
   - [ ] Build / improve applications or integrations to Ocean
   - [ ] Outreach / community / spread awareness (grants don't need to be technical in nature)
   - [ ] Unleash data
   - [ ] Build / improve core Ocean software
   - [ ] Improvements to OceanDAO
-- Funding Amount: Enter the amount of OCEAN your team is requesting (limit 32.000 OCEAN in Round 7)
-- Current Remaining Grant Treasury Balance (if previous recipient)
-- Have you previously received an OceanDAO Grant?
+
+Which Fundamental Metric best describes your project? Pick one.
+  - [ ] Data Consume Volume
+  - [ ] Datatoken Contracts
+  - [ ] Total Value Locked
+  - [ ] Network Revenue
+  - [ ] Market WAU (Weekly market participants in Ocean Market or across all data markets)
+  - [ ] $ Proposed / $ Funded (Your project helps generate, and fund more proposals)
+  - [ ] Other. Explain…
+
+Proposal in one sentence:
+
+Description of the project and what problem is it solving:
+
+What is the final product?:
+
+Grant Deliverables: (Provide us with a list of deliverables for the funding provided) 
+
+Funding Requested: (Amount of OCEAN your team is requesting - Round 7 Max @ 32,000)
+
+Proposal Wallet Address: (must have minimum 500 OCEAN in wallet to be eligible. This wallet is where you will receive the grant amount if selected).
+
+- Team Website (if applicable): 
+
+Project lead Contact Email:
+
+- Twitter Handle (if applicable):
+
+- Discord Handle (if applicable):
+
+Country of Residence:
+
+- Have you previously received an OceanDAO Grant (Y/N)?
 
 
-### Project Overview
 
-- Description of the project:
 
-- What problem is your project solving?
+### Part 2 - Proposal Details (*Recommended)
 
-- What is the final product (e.g. App, URL, Medium, etc)?
 
-- How does this project drive value to the Ocean ecosystem? This is best expressed as Expected ROI, details [here](On-ROI).
-
+How does this project drive value to the “fundamental metric” (listed above) and the overall Ocean ecosystem? This is best expressed as Expected ROI, details [here](On-ROI). 
 
 ## Project Deliverables - Category
 
@@ -64,6 +83,13 @@ Instructions:
 <u>IF: Improvements to OceanDAO, then:</u>
 - Any improved DAO tooling will be publicly available. Work is close collaboration with OceanDAO core team.
 
+If the project includes software:
+- Are there any mockups or designs to date? 
+- An overview of the technology stack?
+
+If the project includes community engagement: 
+- Running the campaign on social media for how many weeks?
+- Other?
 
 ## Project Deliverables - Roadmap
 
@@ -73,16 +99,6 @@ Instructions:
 - Please include the team's future plans and intentions.
   - Any maintenance?
   - Foreseen or possible additions?
-
-## Project Details
-
-If the project includes software:
-- Are there any mockups or designs to date? 
-- An overview of the technology stack?
-
-If the project includes community engagement: 
-- Running the campaign on social media for how many weeks?
-- Other?
 
 ## Team members
 For each team member, give their name, role and background such as the following.
@@ -102,5 +118,4 @@ For each team member, give their name, role and background such as the following
 
 ## Additional Information
 Any additional information, custom fields, or images you would like to add? For example: Any grants or fundraising to date?
-
 
