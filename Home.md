@@ -41,17 +41,15 @@ Join the [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) for ongoing collabora
 
 ## OceanDAO Round 7
 
-Please visit [Round 7 - Proposals](https://bit.ly/Round7Proposals) page for a full breakdown.
+OceanDAO Funding Rounds deadline is now **THE FIRST TUESDAY OF EVERY MONTH**.
 
-OceanDAO Funding Rounds are now **THE FIRST TUESDAY OF EVERY MONTH**:
-* Project proposal due deadline: First Tuesday of the month at 23:59 GMT.
-* Voting wallet balance snapshot: First Thursday of the month at 23:59 GMT.
-* Voting closes: Second Week of the month, Monday at 12:00pm GMT. 
-* Funding: [Via Request](https://github.com/oceanprotocol/oceandao/wiki/Request-Grant-Guidelines) (please note this is NEW as of Round Five)
+Please visit [Round 7 - Proposals](https://bit.ly/Round7Proposals) page for an overview of the round, including the DAOCalendar that will inform you of important dates.
+
+You can visit the [Round 7 - Votes](https://bit.ly/Round7Votes) page for a full Vote breakdown, and how Grants are distributed.
 
 See more details on [Future and Previous Rounds](future-and-previous-rounds) to understand our grants history.
 
-You can view our [Public Roadmap](future-and-previous-rounds) to follow our goals each Funding Round.
+You can view our [Public Roadmap](future-and-previous-rounds) to follow the goals of each Funding Round.
 
 ## Project Submission Criteria
 
@@ -86,8 +84,8 @@ Follow this [step-by-step guide](https://github.com/oceanprotocol/oceandao/wiki/
 
 ### Grant Recipients:
 
-- **Amount:** In each funding round, winning projects will receive the current specified grant amount (see above) of OCEAN from OceanDAO. 
-- **Grantees:** Each funding round, the Ocean Protocol Foundation (OPF) will define how many projects will receive grants. Further, these grantees will be selected by the top number of highest voted on proposals (additionally, to receive a grant you must also receive greater than 1% of the vote).
+- **Amount:** In each funding round, winning projects will receive from OceanDAO, up to the maximum of OCEAN Requested if there is enough funds available to be distributed.
+- **Grantees:** Each funding round, Ocean Protocol Foundation (OPF) will define a Maximum OCEAN Requested amount. Further, these grantees will be selected by the top number of highest voted on proposals (additionally, to receive a grant you must also receive over 50% YES votes). Funds are then distributed in order, until there is nothing remaining. Any remaining funds will be burned.
 
 Funding is conducted [Via Request](https://github.com/oceanprotocol/oceandao/wiki/Request-Grant-Guidelines). If you're voted to receive a grant, submit an invoice to the OPF.
 
@@ -97,8 +95,9 @@ Learn more about the current OceanDAO grant recipients projects in the [List of 
 
 ### Non-Grant Recipients:
 
-If you were not selected for a grant in this Funding Round, we highly encourage you to continue to stay involved in the Ocean community. You are appreciated! There are future OceanDAO funding rounds on the first of every month starting in February 2021, and other opportunities to receive [funding](https://oceanprotocol.com/fund).
+If you were not selected for a grant in this Funding Round, we highly encourage you to continue to stay involved in the Ocean community.  
 
+You are appreciated!  
 
 ## On OceanDAO Evolution
 
