@@ -51,15 +51,13 @@ Country of Residence:
 
 Have you previously received an OceanDAO Grant (Y/N)?
 
-
+How does this project drive value to the “fundamental metric” (listed above) and the overall Ocean ecosystem? This is best expressed as Expected ROI, details [here](On-ROI). 
 
 
 # Part 2 - Proposal Details (*Recommended)
 
 
-How does this project drive value to the “fundamental metric” (listed above) and the overall Ocean ecosystem? This is best expressed as Expected ROI, details [here](On-ROI). 
-
-## Project Deliverables - Category:
+### Project Deliverables - Category:
 
 - [ ] IF: Build / improve applications or integration to Ocean, then:
 - App will be live, at: ____ (url or app store)
