@@ -45,7 +45,7 @@ OceanDAO Funding Rounds deadline is now **THE FIRST TUESDAY OF EVERY MONTH**.
 
 Visit the [Round Proposals Page](https://bit.ly/Round7Proposals) for an overview of the funding round, including all proposals submitted. View the DAOCalendar to learn about important dates.
 
-Or you can visit the [Round Vote Page]((https://bit.ly/Round7Votes) for a full breakdown of Votes and Grants.
+Or you can visit the [Round Vote Page](https://bit.ly/Round7Votes) for a full breakdown of Votes and Grants.
 
 See more details on [Future and Previous Rounds](future-and-previous-rounds) to understand our grants history.
 
