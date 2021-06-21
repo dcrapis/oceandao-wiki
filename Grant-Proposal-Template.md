@@ -54,7 +54,7 @@ Which category best describes your project? Pick one.
 
 
 
-### Part 2 - Proposal Details (*Recommended)
+# Part 2 - Proposal Details (*Recommended)
 
 
 - How does this project drive value to the “fundamental metric” (listed above) and the overall Ocean ecosystem? This is best expressed as Expected ROI, details [here](On-ROI). 
