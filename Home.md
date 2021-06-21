@@ -41,7 +41,8 @@ Join the [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) for ongoing collabora
 
 ## OceanDAO Round 7
 
-OceanDAO Funding Rounds happen every month and deadline is now **THE FIRST TUESDAY OF EVERY MONTH**.
+OceanDAO Funding Rounds happen every month and deadline is now **THE FIRST TUESDAY OF EVERY MONTH**.  
+
 To learn about important dates, visit our [DAOCalendar](https://bit.ly/Round7Proposals).
 
 Visit the [Round Proposals Page](https://bit.ly/Round7Proposals) for an overview of the funding round, including all proposals submitted.
