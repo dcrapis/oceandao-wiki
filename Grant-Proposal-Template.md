@@ -59,9 +59,9 @@ Which category best describes your project? Pick one.
 ### Part 2 - Proposal Details (*Recommended)
 
 
-How does this project drive value to the “fundamental metric” (listed above) and the overall Ocean ecosystem? This is best expressed as Expected ROI, details [here](On-ROI). 
+- How does this project drive value to the “fundamental metric” (listed above) and the overall Ocean ecosystem? This is best expressed as Expected ROI, details [here](On-ROI). 
 
-## Project Deliverables - Category
+- Project Deliverables - Category
 
 <u>IF: Build / improve applications or integration to Ocean, then:</u>
 - App will be live, at: ____ (url or app store)
