@@ -12,7 +12,7 @@ Instructions:
 
 ### Part 1 - Proposal Submission (*Mandatory)
 
-Name of Project: 
+- Name of Project: 
 Which category best describes your project? Pick one.
   - [ ] Build / improve applications or integrations to Ocean
   - [ ] Outreach / community / spread awareness (grants don't need to be technical in nature)
@@ -20,7 +20,7 @@ Which category best describes your project? Pick one.
   - [ ] Build / improve core Ocean software
   - [ ] Improvements to OceanDAO
 
-Which Fundamental Metric best describes your project? Pick one.
+- Which Fundamental Metric best describes your project? Pick one.
   - [ ] Data Consume Volume
   - [ ] Datatoken Contracts
   - [ ] Total Value Locked
@@ -29,27 +29,27 @@ Which Fundamental Metric best describes your project? Pick one.
   - [ ] $ Proposed / $ Funded (Your project helps generate, and fund more proposals)
   - [ ] Other. Explain…
 
-Proposal in one sentence:
+- Proposal in one sentence:
 
-Description of the project and what problem is it solving:
+- Description of the project and what problem is it solving:
 
-What is the final product?:
+- What is the final product?:
 
-Grant Deliverables: (Provide us with a list of deliverables for the funding provided) 
+- Grant Deliverables: (Provide us with a list of deliverables for the funding provided) 
 
-Funding Requested: (Amount of OCEAN your team is requesting - Round 7 Max @ 32,000)
+- Funding Requested: (Amount of OCEAN your team is requesting - Round 7 Max @ 32,000)
 
-Proposal Wallet Address: (must have minimum 500 OCEAN in wallet to be eligible. This wallet is where you will receive the grant amount if selected).
+- Proposal Wallet Address: (must have minimum 500 OCEAN in wallet to be eligible. This wallet is where you will receive the grant amount if selected).
 
 - Team Website (if applicable): 
 
-Project lead Contact Email:
+- Project lead Contact Email:
 
 - Twitter Handle (if applicable):
 
 - Discord Handle (if applicable):
 
-Country of Residence:
+- Country of Residence:
 
 - Have you previously received an OceanDAO Grant (Y/N)?
 
