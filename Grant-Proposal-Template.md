@@ -59,7 +59,7 @@ Have you previously received an OceanDAO Grant (Y/N)?
 
 How does this project drive value to the “fundamental metric” (listed above) and the overall Ocean ecosystem? This is best expressed as Expected ROI, details [here](On-ROI). 
 
-<u>Project Deliverables - Category:</u>
+## Project Deliverables - Category:
 
 - [ ] IF: Build / improve applications or integration to Ocean, then:
 - App will be live, at: ____ (url or app store)
