@@ -43,15 +43,19 @@ Join the [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) for ongoing collabora
 
 OceanDAO Funding Rounds happen every month and deadline is now **THE FIRST TUESDAY OF EVERY MONTH**.  
 
-To learn about important dates, visit our [DAOCalendar](https://bit.ly/Round7Proposals).
+| **Funding Round**                      | **Proposals Due By**      | 2 Day Due Diligence Window |  **Voting Starts & Add OCEAN to Voting Wallet By**     | **Voting Ends**           | **Funding Amount** | **Max Proposal Request Limit** |  **Total Round Funding Available** | **Round Earmark** |
+| --                             | --                        | --                        |  --                             | -- | -- | -- | -- |  -- |
+| [Round 7](https://port.oceanprotocol.com/c/oceandao/round-7/64)  | July 6, 2021 at 23:59 GMT  | Ends July 8, 2021 at 23:59 GMT  | July 8, 2021 at 23:59 GMT  | July 12, 2021 at 12:00 PM GMT| Request your amount of OCEAN       | 32.000 OCEAN | 400.000  OCEAN | 35% For New Proposals |
 
 Visit the [Round Proposals Page](https://bit.ly/Round7Proposals) for an overview of the funding round, including all proposals submitted.
 
 Or you can visit the [Round Vote Page](https://bit.ly/Round7Votes) for a full breakdown of Votes and Grants.
 
+To learn about important dates, visit our [DAOCalendar](https://bit.ly/Round7Proposals).
+
 To understand our Grants history, you can view our [Previous and Future Rounds](future-and-previous-rounds).
 
-You can view our [Public Roadmap](future-and-previous-rounds) to follow the goals of each Funding Round.
+You can view our [Public Roadmap](https://docs.google.com/presentation/d/1R8j0TQtvogKORbBn1q9_8g2sKBXbtUZEDyGb5Yc9QW8/edit#slide=id.p) to follow the goals of each Funding Round.
 
 ## Project Submission Criteria
 
