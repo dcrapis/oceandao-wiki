@@ -1,5 +1,9 @@
 OceanDAO Town Hall 28 is Wednesday, June 23 at 3:00pm GMT
 
+## Recording
+
+https://us02web.zoom.us/rec/share/anHC_ttz8K9VtpTMoG0ORg8gxWs7zkv3m5lixwLslhbmALHQpX8sKxyiz9f-0nGQ.1cEOvcekG4nnfxNG?startTime=1624460219000
+
 
 ## Agenda
 
