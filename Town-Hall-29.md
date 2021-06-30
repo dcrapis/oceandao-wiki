@@ -3,7 +3,8 @@ OceanDAO Town Hall 29 is Wednesday, June 30 at 3:00pm GMT
 
 ## Agenda
 
-- TBD
+- OceanDAO Round 7 Updates
+- Project updates
 
 ## Zoom Link
 
