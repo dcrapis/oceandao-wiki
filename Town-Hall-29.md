@@ -2,6 +2,8 @@ OceanDAO Town Hall 29 is Wednesday, June 30 at 3:00pm GMT
 
 ## Recording
 
+https://us02web.zoom.us/rec/share/751O8jFELbqe-Jmms0Edxwp3S6GGivzPJl82xL8aCn2xorhEW_zyieHy-t0ONWw0.vVWpQ_CAUlWF1P2J?startTime=1625064524000
+
 
 ## Agenda
 
