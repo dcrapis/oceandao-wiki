@@ -3,7 +3,9 @@ OceanDAO Town Hall 30 is Wednesday, July 7 at 3:00pm GMT
 
 ## Agenda
 
-- TBD
+- OceanDAO overview
+- OceanDAO Round 7 proposal submissions review
+- Round 7 Voting kick-off
 
 ## Zoom Link
 
