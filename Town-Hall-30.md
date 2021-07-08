@@ -1,6 +1,10 @@
 OceanDAO Town Hall 30 is Wednesday, July 7 at 3:00pm GMT
 
 
+## Recording
+
+https://us02web.zoom.us/rec/share/hhhygjXDyS1e0pwIiOFZxQJpRieG5hkdCO0c2UVliWqGiZLONse7D2maWfuitQ4C.VlsiFm0YfiESUfHz?startTime=1625669822000
+
 ## Agenda
 
 - OceanDAO overview
