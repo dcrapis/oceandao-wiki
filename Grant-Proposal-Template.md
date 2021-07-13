@@ -37,7 +37,7 @@ What is the final product?:
 
 Grant Deliverables: (Provide us with a list of deliverables for the funding provided) 
 
-Funding Requested: (Amount of OCEAN your team is requesting - Round 7 Max @ 32,000)
+Funding Requested: (Amount of USD your team is requesting - Round 8 Max @ 17,600)
 
 If your proposal is voted to receive a OceanDAO Grant, how would the proposal contribute a value greater than the grant amount back to the Ocean Ecosystem (best expressed as “[Expected ROI](On-ROI)”)?
 
