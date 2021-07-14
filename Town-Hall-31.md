@@ -3,7 +3,7 @@ OceanDAO Town Hall 31 is Wednesday, July 14 at 3:00pm GMT
 
 ## Agenda
 
-- TBD
+- Round 7 Results Recap
 
 ## Zoom Link
 
