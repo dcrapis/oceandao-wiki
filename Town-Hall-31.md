@@ -1,5 +1,9 @@
 OceanDAO Town Hall 31 is Wednesday, July 14 at 3:00pm GMT
 
+## Recording
+
+https://us02web.zoom.us/rec/share/Oge4a9OpZcBi6-OaswTGPKM1JxxybDXMs0pIgAU1-JorAkc5LfF9l4o-cTLr-VXa.UPs6q4AgsP-htUS4?startTime=1626274380000
+
 
 ## Agenda
 
