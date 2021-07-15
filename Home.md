@@ -45,7 +45,7 @@ OceanDAO Funding Rounds happen every month and deadline is now **THE FIRST TUESD
 
 | **Funding Round**                      | **Proposals Due By**      | 2 Day Due Diligence Window |  **Voting Starts & Add OCEAN to Voting Wallet By**     | **Voting Ends**           | **Funding Amount** | **Max Proposal Request Limit** |  **Total Round Funding Available** | **Round Earmark** |
 | --                             | --                        | --                        |  --                             | -- | -- | -- | -- |  -- |
-| [Round 7](https://port.oceanprotocol.com/c/oceandao/round-7/64)  | July 6, 2021 at 23:59 GMT  | Ends July 8, 2021 at 23:59 GMT  | July 8, 2021 at 23:59 GMT  | July 12, 2021 at 12:00 PM GMT| Request your amount of OCEAN       | 32.000 OCEAN | 400.000  OCEAN | 35% For New Proposals |
+| [Round 8](https://port.oceanprotocol.com/c/oceandao/round-8/67)  | Aug 3, 2021 at 23:59 GMT  | Ends Aug 5, 2021 at 23:59 GMT  | Aug 5, 2021 at 23:59 GMT  | Aug 9, 2021 at 12:00 PM GMT| Request your amount of USD       | 17,600.00 USD | 275,000.00 USD | 35% For New Proposals |
 
 Visit the [Round Proposals Page](https://bit.ly/Round7Proposals) for an overview of the funding round, including all proposals submitted.
 
