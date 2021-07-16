@@ -38,9 +38,9 @@ Funding Requested: (Amount of USD your team is requesting - Round 8 Max @ 17,600
 Proposal Wallet Address: (must have minimum 500 OCEAN in wallet to be eligible. This wallet is where you will receive the grant amount if selected).
 
 Grant Deliverables: (Provide us with a check-boxed list of deliverables for the funding provided.) 
-- [ ] Grant Deliverable 1.
-- [ ] Grant Deliverable 2.
-- [ ] Grant Deliverable 3.
+- [ ] Grant Deliverable 1
+- [ ] Grant Deliverable 2
+- [ ] Grant Deliverable 3
 
 How does this project drive value to the “fundamental metric” (listed above) and the overall Ocean ecosystem? This is best expressed as Expected ROI, details [here](On-ROI). 
 
