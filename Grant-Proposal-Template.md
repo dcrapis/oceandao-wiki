@@ -12,7 +12,8 @@ Instructions:
 
 ## Part 1 - Proposal Submission (*Mandatory)
 
-Name of Project: 
+Name of Project:  
+
 Which category best describes your project? Pick one.
   - [ ] Build / improve applications or integrations to Ocean
   - [ ] Outreach / community / spread awareness (grants don't need to be technical in nature)
