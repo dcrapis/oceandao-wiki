@@ -33,10 +33,6 @@ Proposal in one sentence:
 
 Description of the project and what problem is it solving:
 
-Funding Requested: (Amount of USD your team is requesting - Round 8 Max @ 17,600)
-
-Proposal Wallet Address: (must have minimum 500 OCEAN in wallet to be eligible. This wallet is where you will receive the grant amount if selected).
-
 Grant Deliverables: (Provide us with a check-boxed list of deliverables for the funding provided.) 
 - [ ] Grant Deliverable 1
 - [ ] Grant Deliverable 2
@@ -45,6 +41,12 @@ Grant Deliverables: (Provide us with a check-boxed list of deliverables for the 
 How does this project drive value to the “fundamental metric” (listed above) and the overall Ocean ecosystem? This is best expressed as Expected ROI, details [here](On-ROI). 
 
 What is the final product?:
+
+Funding Requested: (Amount of USD your team is requesting - Round 8 Max @ 17,600)
+
+Proposal Wallet Address: (must have minimum 500 OCEAN in wallet to be eligible. This wallet is where you will receive the grant amount if selected).
+
+Have you previously received an OceanDAO Grant (Y/N)?
 
 Team Website (if applicable): 
 
@@ -55,8 +57,6 @@ Discord Handle (if applicable):
 Project lead Contact Email:
 
 Country of Residence:
-
-Have you previously received an OceanDAO Grant (Y/N)?
 
 
 ## Part 2 - Proposal Details (*Recommended)
