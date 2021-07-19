@@ -8,7 +8,9 @@
 
 If you have been awarded an OCEAN grant, please create an invoice using [Request](https://invoicing.request.network/) and make sure to address it to bills@oceanprotocol.com.
 
-Please follow the instructions [here](https://support.request.network/getting-started-guide) to set up your Request account and create your first invoice!
+Please follow the instructions [here](https://support.request.network/getting-started-guide) to set up your Request account and create your first invoice! 
+
+IMPORTANT NOTE: Allow for up to 7 days for your invoice to be paid.
 
 In case you need it, the OPF’s tax number is: 201729912W.
 
