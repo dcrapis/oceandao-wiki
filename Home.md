@@ -47,7 +47,7 @@ OceanDAO Funding Rounds happen every month and deadline is now **THE FIRST TUESD
 | --                             | --                        | --                        |  --                             | -- | -- | -- | -- |  -- |
 | [Round 8](https://port.oceanprotocol.com/c/oceandao/round-8/67)  | Aug 3, 2021 at 23:59 GMT  | Ends Aug 5, 2021 at 23:59 GMT  | Aug 5, 2021 at 23:59 GMT  | Aug 9, 2021 at 12:00 PM GMT| Request your amount of USD       | 17,600.00 USD | 275,000.00 USD | 35% For New Proposals |
 
-PLEASE NOTE: The amount requested is in USD, but the amount paid is in OCEAN token. The conversion rate is the market price on the Proposal Submission Deadline (August 3rd at Midnight GMT). This determines how many OCEAN will be awarded if a proposal is voted to receive a grant.
+PLEASE NOTE: The amount requested is in USD, but the amount paid is in OCEAN token. The conversion rate is the market price on the given Round's Proposal Due By Deadline. This determines how many OCEAN will be awarded if a proposal is voted to receive a grant.
 
 Visit the [Round Proposals Page](https://bit.ly/Round7Proposals) for an overview of the funding round, including all proposals submitted.
 
