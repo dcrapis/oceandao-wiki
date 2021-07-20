@@ -14,6 +14,15 @@ Instructions:
 
 Name of Project:  
 
+Proposal in one sentence:
+
+Description of the project and what problem is it solving:
+
+Grant Deliverables: (Provide us with a check-boxed list of deliverables for the funding provided.) 
+- [ ] Grant Deliverable 1
+- [ ] Grant Deliverable 2
+- [ ] Grant Deliverable 3
+
 Which category best describes your project? Pick one.
   - [ ] Build / improve applications or integrations to Ocean
   - [ ] Outreach / community / spread awareness (grants don't need to be technical in nature)
@@ -30,18 +39,9 @@ Which Fundamental Metric best describes your project? Pick one.
   - [ ] $ Proposed / $ Funded (Your project helps generate, and fund more proposals)
   - [ ] Other. Explain…
 
-Proposal in one sentence:
-
-Description of the project and what problem is it solving:
-
-Grant Deliverables: (Provide us with a check-boxed list of deliverables for the funding provided.) 
-- [ ] Grant Deliverable 1
-- [ ] Grant Deliverable 2
-- [ ] Grant Deliverable 3
+What is the final product?:
 
 How does this project drive value to the “fundamental metric” (listed above) and the overall Ocean ecosystem? This is best expressed as Expected ROI, details [here](On-ROI). 
-
-What is the final product?:
 
 Funding Requested: (Amount of USD your team is requesting - Round 8 Max @ 17,600)
 
