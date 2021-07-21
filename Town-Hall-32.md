@@ -3,7 +3,11 @@ OceanDAO Town Hall 32 is Wednesday, July 21 at 3:00pm GMT
 
 ## Agenda
 
-- TBD
+- What is OceanDAO
+- Round 8 Announcements
+> Good standing
+> Conversion date
+- Project Updates
 
 ## Zoom Link
 
