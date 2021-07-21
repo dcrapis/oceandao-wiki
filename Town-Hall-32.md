@@ -7,7 +7,7 @@ OceanDAO Town Hall 32 is Wednesday, July 21 at 3:00pm GMT
 - Round 8 Announcements
 > Good standing
 
-> Conversion Date
+> USD/OCEAN Conversion Date
 - Project Updates
 
 ## Zoom Link
