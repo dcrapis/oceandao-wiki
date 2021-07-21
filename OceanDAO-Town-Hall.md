@@ -5,12 +5,13 @@ The Town Hall is a videochat among community members, open to all. It’s a grea
 
 Future:
 
-* [Town Hall 32](Town-Hall-32) - Wed July 21, 2021 at 15:00 GMT
 * [Town Hall 33](Town-Hall-33) - Wed July 28, 2021 at 15:00 GMT
 * (more to come)
 
 Previous:
 
+
+* [Town Hall 32](Town-Hall-32) - Wed July 21, 2021 at 15:00 GMT
 * [Town Hall 31](Town-Hall-31) - Wed July 14, 2021 at 15:00 GMT
 * [Town Hall 30](Town-Hall-30) - Wed July 7, 2021 at 15:00 GMT
 * [Town Hall 29](Town-Hall-29) - Wed June 30, 2021 at 15:00 GMT
