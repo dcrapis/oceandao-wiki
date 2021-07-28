@@ -3,7 +3,9 @@ OceanDAO Town Hall 33 is Wednesday, July 28 at 3:00pm GMT
 
 ## Agenda
 
-- TBD
+- Upcoming Round 8
+- OceanDAO updates
+
 
 ## Zoom Link
 
