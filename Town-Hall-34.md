@@ -3,8 +3,9 @@ OceanDAO Town Hall 34 is Wednesday, Aug 4 at 3:00pm GMT
 
 ## Agenda
 
-- Round 8 Submissions
-- OceanDAO voting starting
+- OceanDAO overview
+- OceanDAO Round 8 proposal submissions review
+- Round 8 voting info
 
 
 ## Zoom Link
