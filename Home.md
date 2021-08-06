@@ -61,7 +61,7 @@ You can view our [Public Roadmap](https://docs.google.com/presentation/d/1R8j0TQ
 
 ## Project Submission Criteria
 
-Project criteria: (1) [ROI](On-ROI) towards growth, (2) aligned with Ocean mission, (3) meet a minimum proposal requirement. 
+Project criteria: (1) [ROI](On-ROI) towards growth, (2) aligned with Ocean mission, (3) meet a minimum proposal requirement, (4) One Project/One proposal.
 
 Important Details are at [Project Criteria](project-criteria).
 
