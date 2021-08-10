@@ -26,7 +26,17 @@ When proposing a project, these are the three criteria to keep in consideration:
 - Anyone can propose a project to OceanDAO. However, to be considered, you **must have at least 500 OCEAN** in the same Ethereum wallet as listed in your proposal by the time the proposal process ends. If selected for a grant, this will be the same wallet where you will receive your grant funding. This helps to filter towards people with a vested interest or “skin in the game” in OCEAN - that is, Ocean community members. Ocean Protocol team members will verify.
 
 **Criterion (4). One Project/One proposal**
-- "One Project/One proposal Rule".
+
+Coordination is important in every DAO. To increase transparency and reduce confusion, we are recommending every project reports their “Core Team” and their “Advisors”.
+
+- In a given round an individual can only be on one "Core Team" but could be "Advisor" on any number of teams.
+- If any person is in >1 team as a “Core Team” member, then every proposal that person is in will be disqualified.
+- If a “Core Team” member has previously received a grant, any project in the future with that participant will not be eligible for a “New Team” earmark.
+
+The Grant Proposal Template is updated to make this easy for teams to communicate their project structure.
+
+At the end of the day what matters is not how many projects you are on BUT shipping the actual project deliverables. And if you’re unable to ship your deliverables, the community has the ability to ask questions and vote how they choose.
+
 
 ## On ROI
 
