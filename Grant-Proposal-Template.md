@@ -63,13 +63,7 @@ Country of Residence:
 
 ## Part 2 - Team
 
-Communicating "Core Team" versus "Advisor":
-
-In a given round an individual can only be on one "Core Team" but could be "Advisor" on any number of teams.
-
-If any person is in >1 team as a “Core Team” member, then every proposal that person is in will be disqualified.
-
-If a “Core Team” member has previously received a grant, any project in the future with that participant will not be eligible for a “New Team” earmark.
+Important: See [Criterion (4). One Project/One proposal](https://github.com/oceanprotocol/oceandao/wiki/project-criteria) on communicating "Core Team" versus "Advisor". You may be ineligible if not correctly updated.
 
 
 ### Core Team
