@@ -45,15 +45,17 @@ OceanDAO Funding Rounds happen every month and deadline is now **THE FIRST TUESD
 
 | **Funding Round**                      | **Proposals Due By**      | 2 Day Due Diligence Window |  **Voting Starts & Add OCEAN to Voting Wallet By**     | **Voting Ends**           | **Funding Amount** | **Max Proposal Request Limit** |  **Total Round Funding Available** | **Round Earmark** |
 | --                             | --                        | --                        |  --                             | -- | -- | -- | -- |  -- |
-| [Round 8](https://port.oceanprotocol.com/c/oceandao/round-8/67)  | Aug 3, 2021 at 23:59 GMT  | Ends Aug 5, 2021 at 23:59 GMT  | Aug 5, 2021 at 23:59 GMT  | Aug 9, 2021 at 12:00 PM GMT| Request your amount of USD       | 17,600.00 USD | 275,000.00 USD | 35% For New Proposals |
+| [Round 9](https://port.oceanprotocol.com/c/oceandao/round-9/68)  | Starts Sept 7, 2021 at 23:59 GMT  | Ends Sept 9, 2021 at 23:59 GMT  | Sept 9, 2021 at 23:59 GMT  | Sept 13, 2021 at 23:59 PM GMT| Request your amount of USD       | 17,500.00 USD | 300,000.00 USD | $87,500 For New Teams |
 
 PLEASE NOTE: The amount requested is in USD, but the amount paid is in OCEAN token. The conversion rate is the market price on the given Round's Proposal Due By Deadline. This determines how many OCEAN will be awarded if a proposal is voted to receive a grant.
 
-Visit the [Round Proposals Page](https://bit.ly/Round7Proposals) for an overview of the funding round, including all proposals submitted.
+Visit the [Round Proposals Page](https://bit.ly/Round9Proposals) for an overview of the funding round, including all proposals submitted.
 
-Or you can visit the [Round Vote Page](https://bit.ly/Round7Votes) for a full breakdown of Votes and Grants.
+Or you can visit the [Round Vote Page](https://bit.ly/Round9Votes) for a full breakdown of Votes and Grants.
 
-To learn about important dates, visit our [DAOCalendar](https://bit.ly/Round7Proposals).
+To learn about important dates, visit our [DAOCalendar](https://bit.ly/Round9Proposals).
+
+To review Projects in more detail, you can visit the [Project Standings](future-and-previous-rounds) page.
 
 To understand our Grants history, you can view our [Previous and Future Rounds](future-and-previous-rounds).
 
