@@ -61,8 +61,40 @@ Project lead Contact Email:
 
 Country of Residence:
 
+## Part 2 - Team
 
-## Part 2 - Proposal Details (*Recommended)
+Communicating "Core Team" versus "Advisor":
+
+In a given round an individual can only be on one "Core Team" but could be "Advisor" on any number of teams.
+
+If any person is in >1 team as a “Core Team” member, then every proposal that person is in will be disqualified.
+
+If a “Core Team” member has previously received a grant, any project in the future with that participant will not be eligible for a “New Team” earmark.
+
+
+### Core Team
+For each team member, give their name, role and background such as the following.
+
+**John Doe**
+- **Role:** developer, UX/UI designer
+- **Relevant Credentials** (e.g.):
+  - **GitHub:** https://github.com/johndoe
+  - **LinkedIn:** https://linkedin.com/in/johndoe
+  - **Dribble:** https://dribbble.com/johndoe
+  - **Upwork:** https://upwork.com/o/profiles/users/~johndoe
+  - **Other:** ...
+- **Background/Experience:** 
+  - Co-founder at xxx
+  - Lead developer at yyy 
+  - Creator of xxx.js the official JavaScript library for xxx
+
+## Advisers
+For each Advisor, give their name, role and background such as the aforementioned team formatting.
+
+
+
+
+## Part 3 - Proposal Details (*Recommended)
 
 
 ### Project Deliverables - Category:
@@ -103,22 +135,6 @@ If the project includes community engagement:
 - Please include the team's future plans and intentions.
   - Any maintenance?
   - Foreseen or possible additions?
-
-### Team members
-For each team member, give their name, role and background such as the following.
-
-**John Doe**
-- **Role:** developer, UX/UI designer
-- **Relevant Credentials** (e.g.):
-  - **GitHub:** https://github.com/johndoe
-  - **LinkedIn:** https://linkedin.com/in/johndoe
-  - **Dribble:** https://dribbble.com/johndoe
-  - **Upwork:** https://upwork.com/o/profiles/users/~johndoe
-  - **Other:** ...
-- **Background/Experience:** 
-  - Co-founder at xxx
-  - Lead developer at yyy 
-  - Creator of xxx.js the official JavaScript library for xxx
 
 ### Additional Information
 Any additional information, custom fields, or images you would like to add? For example: Any grants or fundraising to date?
