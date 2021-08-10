@@ -10,7 +10,7 @@ Project criteria:
 
 In OceanDAO, governance is about directing the flow of resources towards the teams and projects that offer the best chance for growth. OCEAN holders are incentivized to do work to learn more about each team and project proposal, and then use OceanDAO to vote for the most promising teams/projects.
 
-When proposing a project, these are the three criteria to keep in consideration: (1) ROI towards **growth** (2) aligned with Ocean **mission**. Projects that fail (2) will not be considered for voting. Once voting opens, only criterion (1) remains. Additionally, your proposal must (3) meet a minimum proposal requirement. Let’s elaborate!
+When proposing a project, these are the three criteria to keep in consideration: (1) ROI towards **growth** (2) aligned with Ocean **mission**. Projects that fail (2) will not be considered for voting. Once voting opens, only criterion (1) remains. Additionally, your proposal must (3) meet a minimum proposal requirement and only submit (4) One Project / One proposal. Let’s elaborate!
 
 **Criterion (1). On average, value added to the Ocean ecosystem must exceed the grant value spent.**
 - That is, the average “return on investment” (ROI) must be > 1.0. Value added by a project is hard to know in advance. Some will fail; others will succeed and bring 10x value. But this must hold true on average across projects. 
@@ -28,7 +28,7 @@ When proposing a project, these are the three criteria to keep in consideration:
 
 **Criterion (4). One Project/One proposal**
 
-Coordination is important in every DAO. To increase transparency and reduce confusion, we are recommending every project reports their “Core Team” and their “Advisors”.
+Coordination is important in every DAO. To increase transparency and reduce confusion, we recommend every project reports their “Core Team” and their “Advisors”.
 
 - In a given round an individual can only be on one "Core Team" but could be "Advisor" on any number of teams.
 - If any person is in >1 team as a “Core Team” member, and not an "Advisor", then every proposal that person is in will be disqualified.
