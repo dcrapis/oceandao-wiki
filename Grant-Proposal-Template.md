@@ -88,7 +88,7 @@ For each team member, give their name, role and background such as the following
   - Lead developer at yyy 
   - Creator of xxx.js the official JavaScript library for xxx
 
-## Advisers
+### Advisers
 For each Advisor, give their name, role and background such as the aforementioned team formatting.
 
 
