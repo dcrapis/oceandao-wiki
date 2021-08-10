@@ -63,7 +63,7 @@ Country of Residence:
 
 ## Part 2 - Team
 
-Important: See [Criterion (4). One Project/One proposal](https://github.com/oceanprotocol/oceandao/wiki/project-criteria) on communicating "Core Team" versus "Advisor". You may be ineligible if not correctly updated.
+IMPORTANT: See [Criterion (4). One Project/One proposal](https://github.com/oceanprotocol/oceandao/wiki/project-criteria) on communicating "Core Team" versus "Advisor". You may be ineligible if not correctly updated.
 
 
 ### Core Team
