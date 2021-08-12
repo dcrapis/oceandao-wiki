@@ -95,10 +95,7 @@ Follow this [step-by-step guide](https://github.com/oceanprotocol/oceandao/wiki/
 ### Grant Recipients:
 
 - **Amount:** In each funding round, winning projects will receive from OceanDAO, up to the maximum of OCEAN Requested if there is enough funds available to be distributed.
-- **Grantees:** Each funding round, Ocean Protocol Foundation (OPF) will define a Maximum OCEAN Requested amount. Grantees are determined by highest "Final Score”. “Final Score” for each proposal is determined by the formula:
-[Final Score = Yes Votes - No votes]. This means that “No Votes” are weighted in the final calculation. Funds are distributed in descending order, until there are no funds remaining. Any remaining funds will be burned.
-
-
+- **Grantees:** Each funding round, Ocean Protocol Foundation (OPF) will define a Maximum OCEAN Requested amount. In Round 9 we are introducing a weight to “No Votes”. This means that “No Votes” will be used to calculate a “Final Score” for each proposal. Projects that receive greater than 50% Yes Votes, will then have a “Final Score” calculated by the formula: Final Score = Yes Votes - No votes. Grantees are determined by highest “Final Score”. Funds are distributed in descending order, until there are no funds remaining. Any remaining funds will be burned.
 
 Funding is conducted [Via Request](https://github.com/oceanprotocol/oceandao/wiki/Request-Grant-Guidelines). If you're voted to receive a grant, submit an invoice to the OPF.
 
