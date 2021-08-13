@@ -1,5 +1,9 @@
 OceanDAO Town Hall 35 is Wednesday, Aug 11 at 3:00pm GMT
 
+## Recording
+
+https://us02web.zoom.us/rec/share/iIWpnSw6Rbky0mgC3XoOmDEVeNj4BW5uPDe3kLlMZcxqt0Vj87kD_BwhxHIR3U6-.U1XUTjwvuNrjdZCQ
+
 
 ## Agenda
 
