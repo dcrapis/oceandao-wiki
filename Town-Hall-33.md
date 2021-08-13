@@ -1,5 +1,9 @@
 OceanDAO Town Hall 33 is Wednesday, July 28 at 3:00pm GMT
 
+## Recording
+
+https://us02web.zoom.us/rec/share/NgKCdycLsw0NE5LEvskN-0ZMS1DmUWKPQEv5cchCZVsRBCmcFrDZzT_ab3iPXs0c.OeDcQawRSEj72vcX
+
 
 ## Agenda
 
