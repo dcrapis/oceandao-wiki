@@ -1,5 +1,9 @@
 OceanDAO Town Hall 34 is Wednesday, Aug 4 at 3:00pm GMT
 
+## Recording
+
+https://us02web.zoom.us/rec/share/1ThTtYWzZwgap3Lp0noX0fegjoImcZbgyGVfEzV1jUnnz_n_sSFIcMQvtag0XV9b.7q-fMDw24RYu8P02
+
 
 ## Agenda
 
