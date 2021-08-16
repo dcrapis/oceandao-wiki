@@ -22,6 +22,7 @@ Grant Deliverables: (Provide us with a check-boxed list of deliverables for the 
 - [ ] Grant Deliverable 1
 - [ ] Grant Deliverable 2
 - [ ] Grant Deliverable 3
+- etc...
 
 Which category best describes your project? Pick one.
   - [ ] Build / improve applications or integrations to Ocean
