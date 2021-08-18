@@ -4,6 +4,8 @@
 Monthly OceanDAO Governance Design community calls. Discussion about OceanDAO roadmap, rules, mechanisms, and governance. Bring feedback, improvements, or new ideas all together. All collaboration is welcome.
 
 
+This is a separate call from the Weekly Wednesday OceanDAO Town Halls 
+
 ## Join Zoom Meeting
 
 https://us02web.zoom.us/j/84414479820?pwd=cGJpUVNUWWhMMkdvb1ZMczhUU0sxdz09
