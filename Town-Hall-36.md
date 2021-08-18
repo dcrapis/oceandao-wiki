@@ -22,7 +22,7 @@ https://port.oceanprotocol.com/t/finalized-votes4lps/817/13?u=idiom-bytes
 Project Standings:
 - We have rolled out the Project Standings system, and have started to collect updates, and register them on Airtable.
 https://www.notion.so/Project-Standing-a26be0e2054e4927ab5ab8e7bde8558f
-- Please feel free to ping @Alex N | Ocean Protocol and myself @RA | Ocean if you have any questions.
+- Please feel free to ping @Alex N | Ocean Protocol & @RA | Ocean if you have any questions.
 
 ## Agenda
 
