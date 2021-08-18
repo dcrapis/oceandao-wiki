@@ -13,26 +13,26 @@ https://us02web.zoom.us/j/84414479820?pwd=cGJpUVNUWWhMMkdvb1ZMczhUU0sxdz09
 Every month on the Fourth Tuesday
 
 Time: 04:00 PM Greenwich Mean Time
-        Aug 24, 2021 04:00 PM
-        Sep 28, 2021 04:00 PM
-        Oct 26, 2021 04:00 PM
-        Nov 23, 2021 04:00 PM
-        Dec 28, 2021 04:00 PM
-        Jan 25, 2022 04:00 PM
-        Feb 22, 2022 04:00 PM
-        Mar 22, 2022 04:00 PM
-        Apr 26, 2022 04:00 PM
-        May 24, 2022 04:00 PM
-        Jun 28, 2022 04:00 PM
-        Jul 26, 2022 04:00 PM
-        Aug 23, 2022 04:00 PM
-        Sep 27, 2022 04:00 PM
-        Oct 25, 2022 04:00 PM
-        Nov 22, 2022 04:00 PM
-        Dec 27, 2022 04:00 PM
-        Jan 24, 2023 04:00 PM
-        Feb 28, 2023 04:00 PM
-        Mar 28, 2023 04:00 PM
+   *      Aug 24, 2021 04:00 PM
+*         Sep 28, 2021 04:00 PM
+*         Oct 26, 2021 04:00 PM
+*         Nov 23, 2021 04:00 PM
+*         Dec 28, 2021 04:00 PM
+*         Jan 25, 2022 04:00 PM
+*         Feb 22, 2022 04:00 PM
+*         Mar 22, 2022 04:00 PM
+*         Apr 26, 2022 04:00 PM
+*         May 24, 2022 04:00 PM
+*         Jun 28, 2022 04:00 PM
+*         Jul 26, 2022 04:00 PM
+*         Aug 23, 2022 04:00 PM
+*         Sep 27, 2022 04:00 PM
+*         Oct 25, 2022 04:00 PM
+*         Nov 22, 2022 04:00 PM
+*         Dec 27, 2022 04:00 PM
+*         Jan 24, 2023 04:00 PM
+*         Feb 28, 2023 04:00 PM
+*         Mar 28, 2023 04:00 PM
 
 Please download and import the following iCalendar (.ics) files to your calendar system.
 Monthly: https://us02web.zoom.us/meeting/tZApdu2sqTIiGNSRVvyopK-JNQ1BaYSjzkMY/ics?icsToken=98tyKuGsqjouHtOcuBuHRpwIBoj4LOjwtlhHjY1urinzGi9DSU7cGNMTELNGI9LK
