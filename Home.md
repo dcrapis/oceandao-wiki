@@ -36,6 +36,12 @@ The OceanDAO Town Hall is a regular videochat gatherings among community members
 
 The **[Town Hall page](OceanDAO-Town-Hall)** has more info, including dates.
 
+### OceanDAO Governance Design
+
+Monthly OceanDAO Governance Design community calls. Discussion about OceanDAO roadmap, rules, mechanisms, and governance. Bring feedback, improvements, or new ideas all together. All collaboration is welcome.
+
+The **[OceanDAO Governance Design Call](Governance-Call)** has more details.
+
 ### Discord
 Join the [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) for ongoing collaboration and discussion. 
 
