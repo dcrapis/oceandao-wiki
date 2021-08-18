@@ -4,6 +4,26 @@ OceanDAO Town Hall is every Wednesday at 3:00pm GMT
 
 https://us02web.zoom.us/rec/share/k_1IZ-rArz2iMlV9k-SToMTrMsRmCHne3tdkplEQDhgOToou9mrP2RCNparjvZ_9.x45-Ama2CVneshaj?startTime=1629298682000
 
+## Notes
+
+
+OceanDAO Design/Governance Call:
+- We are organizing a OceanDAO call on the 24th of August (same time as Town Hall) to talk about ongoing work on governance, and design of OceanDAO.
+- We're looking forward to providing more insights and mental models surrounding the overall funding and growth ecosystem.
+- We are very excited to increase transparency and communication with everyone in the DAO, in order to continue improving towards the greater outcomes of ocean protocol.
+- We'll be sharing the link here and invite everyone to join.
+
+Voting Improvements:
+- We're doing test as a larger initiative to increase voter access, and we are working on implementing: uniswap v2 + sushiswap + bancor strategies.
+- If you see something funny on https://vote.oceanprotocol.com/#/ we are likely doing some tests.
+- You can find out how to contribute below:
+https://port.oceanprotocol.com/t/finalized-votes4lps/817/13?u=idiom-bytes
+
+Project Standings:
+- We have rolled out the Project Standings system, and have started to collect updates, and register them on Airtable.
+https://www.notion.so/Project-Standing-a26be0e2054e4927ab5ab8e7bde8558f
+- Please feel free to ping @Alex N | Ocean Protocol and myself @RA | Ocean if you have any questions.
+
 ## Agenda
 
 - OceanDAO Updates
