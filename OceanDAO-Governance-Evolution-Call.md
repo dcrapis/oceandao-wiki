@@ -1,5 +1,4 @@
-### OceanDAO Governance Design Call
-
+### OceanDAO Governance Evolution Call
 
 Monthly OceanDAO Governance Design community calls. Discussion about OceanDAO roadmap, rules, mechanisms, and governance. Bring feedback, improvements, or new ideas all together. All collaboration is welcome.
 
@@ -15,7 +14,7 @@ https://us02web.zoom.us/j/84414479820?pwd=cGJpUVNUWWhMMkdvb1ZMczhUU0sxdz09
 Every month on the Fourth Tuesday
 
 Time: 04:00 PM Greenwich Mean Time
-   *      Aug 24, 2021 04:00 PM
+   *      Aug 24, 2021 04:00 PM: Recording: https://us02web.zoom.us/rec/share/zDAkFZ4dCx0NQnRc_0lo6IEx2fKJ-t79vDMUOB2I0rYxQFLgLBcq2SnT2w7-l7Si.1xGHBYXty16jCRNb?startTime=1629820839000
 *         Sep 28, 2021 04:00 PM
 *         Oct 26, 2021 04:00 PM
 *         Nov 23, 2021 04:00 PM
