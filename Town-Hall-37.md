@@ -1,5 +1,9 @@
 OceanDAO Town Hall is every Wednesday at 3:00pm GMT
 
+## Recording
+
+https://us02web.zoom.us/rec/share/uHW9BMRdoU-MUpdPUClw2aZHWY2wWK9lb15f-nZotsB95KYBO6y5yFY85-uHrtP9.mczQVzvKJRMGRA-B?startTime=1629902389000
+
 ## Agenda
 
 - OceanDAO overview
