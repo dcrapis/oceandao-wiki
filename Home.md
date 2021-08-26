@@ -40,7 +40,7 @@ The **[Town Hall page](OceanDAO-Town-Hall)** has more info, including dates.
 
 Monthly OceanDAO Governance Design community calls. Discussion about OceanDAO roadmap, rules, mechanisms, and governance. Bring feedback, improvements, or new ideas all together. All collaboration is welcome.
 
-The **[OceanDAO Governance Design Call](OceanDAO-Governance-Design-Call)** has more details.
+The **[OceanDAO Governance Evolution Call](https://github.com/oceanprotocol/oceandao/wiki/OceanDAO-Governance-Evolution-Call)** has more details.
 
 ### Discord
 Join the [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) for ongoing collaboration and discussion. 
