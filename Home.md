@@ -65,7 +65,7 @@ To review Projects in more detail, you can visit the [Project Standings](future-
 
 To understand our Grants history, you can view our [Previous and Future Rounds](future-and-previous-rounds).
 
-You can view our [Public Roadmap](https://docs.google.com/presentation/d/1R8j0TQtvogKORbBn1q9_8g2sKBXbtUZEDyGb5Yc9QW8/edit#slide=id.p) to follow the goals of each Funding Round.
+You can view our [Public Roadmap](https://blog.oceanprotocol.com/oceandao-roadmap-update-mid-2021-3ea6ba80795d) to follow the goals of each Funding Round.
 
 ## Project Submission Criteria
 
