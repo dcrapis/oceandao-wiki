@@ -2,7 +2,8 @@ OceanDAO Town Hall is every Wednesday at 3:00pm GMT
 
 ## Agenda
 
-- 
+- Round 9 Submissions
+- Voting kick off
 
 ## Zoom Link
 
