@@ -45,7 +45,7 @@ The **[OceanDAO Governance Evolution Call](https://github.com/oceanprotocol/ocea
 ### Discord
 Join the [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) for ongoing collaboration and discussion. 
 
-## [OceanDAO Round 10]
+## OceanDAO Round 10
 
 OceanDAO Funding Rounds happen every month and deadline is now **THE FIRST TUESDAY OF EVERY MONTH**.  
 
