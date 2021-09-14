@@ -49,21 +49,37 @@ Join the [OceanDAO Discord](https://discord.gg/uvyQFWGBn8) for ongoing collabora
 
 OceanDAO Funding Rounds happen every month and deadline is now **THE FIRST TUESDAY OF EVERY MONTH**.  
 
-| **Funding Round**                      | **Proposals & 500 OCEAN Due By**      | 2 Day Due Diligence Window |  **Voting Starts**     | **Voting Ends**           | **Funding Amount** | **Total Round Funding Available** | **Round Earmark** |
+| **Funding Round**                      | **Proposals & 500 OCEAN Due By**      | 2 Day Due Diligence Window |  **Voting Starts**     | **Voting Ends**           | **Max Funding Amount** | **Total Round Funding Available** | **Round Earmark** |
 | --                             | --                        | --                        |  --                             | -- | -- | -- |  -- |
-| [Round 10](https://port.oceanprotocol.com/c/oceandao/round-10/69)  | Oct 5, 2021 at 23:59 GMT  | Ends Oct 7, 2021 at 23:59 GMT  | Oct 7, 2021 at 23:59 GMT  | Oct 11, 2021 at 23:59 PM GMT| $100,000 USD | $530,000 USD | $20,000 For New Teams |
+| [Round 10](https://port.oceanprotocol.com/c/oceandao/round-10/69)  | Oct 5, 2021 at 23:59 GMT  | Ends Oct 7, 2021 at 23:59 GMT  | Oct 7, 2021 at 23:59 GMT  | Oct 11, 2021 at 23:59 PM GMT| $50,000 USD | $530,000 USD | $100,000 For New Teams |
 
 PLEASE NOTE: The amount requested is in USD, but the amount paid is in OCEAN token. The conversion rate is the market price on the given Round's Proposal Due By Deadline. This determines how many OCEAN will be awarded if a proposal is voted to receive a grant. This is done automatically and updated in our [Funding Rounds Airtable](https://airtable.com/shrvk1ENKwlG8vOBL).
 
-Visit the [Round Proposals Page](https://bit.ly/Round9Proposals) for an overview of the funding round, including all proposals submitted.
+### [R10 Update] Completed Proposals & Max Funding
+OceanDAO is on a path of growth and sustainability. It builds upon fundamental concepts of decentralization, and delivering the required components for participants to self-actualize. As projects complete their outcomes, and deliver towards their ROI, the DAO should provide support to continue scaling.
 
-Or you can visit the [Round Vote Page](https://bit.ly/Round9Votes) for a full breakdown of Votes and Grants.
+**[1 - New Entrant :fish:]**
+- No one in your team has ever received a grant from OceanDAO.
+- Funding Ceiling: $20k USD
+- There are earmarked funds each round for this group.
 
-To learn about important dates, visit our [DAOCalendar](https://bit.ly/Round9Proposals).
+**[2 - Existing Teams :dolphin:]**
+- You have completed 1-2 grants previously.
+- Funding Ceiling: $20k USD
 
-To review Projects in more detail, you can visit the [Project Standings](future-and-previous-rounds) page.
+**[3 - Veteran Team :whale2:]**
+- You have completed 3+ grants.
+- Funding Ceiling: $50k USD
 
-To understand our Grants history, you can view our [Previous and Future Rounds](future-and-previous-rounds).
+Visit the [Round 10 - Proposals Page](https://bit.ly/Round10Proposals) for an overview of the funding round, including all proposals submitted.
+
+Or you can visit the [Round 10 - Vote Page](https://bit.ly/Round10Votes) for a full breakdown of Votes and Grants.
+
+To learn about important dates, visit our [DAOCalendar](https://bit.ly/Round10Proposals).
+
+To submit a Project Update and view overall standings, you can visit the [Project Standings](https://www.notion.so/Project-Standing-a26be0e2054e4927ab5ab8e7bde8558f) page.
+
+To understand Funding Rounds & Grants history, you can view our [Future and Previous Rounds](future-and-previous-rounds).
 
 You can view our [Public Roadmap](https://blog.oceanprotocol.com/oceandao-roadmap-update-mid-2021-3ea6ba80795d) to follow the goals of each Funding Round.
 
