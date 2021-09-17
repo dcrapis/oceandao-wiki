@@ -28,8 +28,6 @@ When proposing a project, these are the three criteria to keep in consideration:
 
 **Criterion (4). One Project / One Proposal**
 
-Coordination is important in every DAO.
-
 - We have increased the ability for teams to access more funding. Each project should only submit one proposal per funding round. 
 - We ask every individual to list themselves as part of the "Core Team" or "Advisor" on any number of teams.
 - If a “Core Team” member has previously received a grant, any project in the future with that participant will not be eligible for a “New Team” earmark. The [Grant Proposal Template](https://github.com/oceanprotocol/oceandao/wiki/Grant-Proposal-Template) has been updated to make this easy.
