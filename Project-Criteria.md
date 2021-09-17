@@ -30,13 +30,14 @@ When proposing a project, these are the three criteria to keep in consideration:
 
 Coordination is important in every DAO. To increase transparency and reduce confusion, we recommend every project reports their “Core Team” and their “Advisors”.
 
-- In a given round an individual can only be on one "Core Team" but could be "Advisor" on any number of teams.
-- If any person is in >1 team as a “Core Team” member, and not an "Advisor", then every proposal that person is in will be disqualified.
+- We ask every individual to list themselves as part of the "Core Team" or "Advisor" on any number of teams.
 - If a “Core Team” member has previously received a grant, any project in the future with that participant will not be eligible for a “New Team” earmark.
 
 The Grant Proposal Template is updated to make this easy for teams to communicate their project structure.
 
 At the end of the day what matters is not how many projects you are on BUT shipping the actual project deliverables. And if you’re unable to ship your deliverables, the community has the ability to ask questions and vote how they choose.
+
+Visit the [Project Standing](https://www.notion.so/Project-Standing-a26be0e2054e4927ab5ab8e7bde8558f) page to learn how to submit updates to your project.
 
 
 ## On ROI
