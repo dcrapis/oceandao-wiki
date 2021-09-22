@@ -4,7 +4,7 @@ OceanDAO Town Hall is every Wednesday at 3:00pm GMT
 
 - Welcome to OceanDAO
 - Matthias from Ocean Core team; updates on Account Page
-- Ocean Protocol Marketing Team: OceanDAO Projects Milestones
+- Ocean Protocol Marketing Team: [OceanDAO Projects Milestones Form](https://docs.google.com/forms/d/1LCITZiCEbM1geyj2q9Yeo0dDYUKVQfQe1p5KgY4k8W8/edit)
 - Round 10 in progress 
 - DAO Project Updates
 
