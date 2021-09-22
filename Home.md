@@ -55,8 +55,8 @@ OceanDAO Funding Rounds happen every month and deadline is now **THE FIRST TUESD
 
 PLEASE NOTE: The amount requested is in USD, but the amount paid is in OCEAN token. The conversion rate is the market price on the given Round's Proposal Due By Deadline. This determines how many OCEAN will be awarded if a proposal is voted to receive a grant. This is done automatically and updated in our [Funding Rounds Airtable](https://airtable.com/shrvk1ENKwlG8vOBL).
 
-### [R10 Update] Completed Proposals & Max Funding
-OceanDAO is on a path of growth and sustainability. It builds upon fundamental concepts of decentralization, and delivering the required components for participants to self-actualize. As projects complete their outcomes, and deliver towards their ROI, the DAO should provide support to continue scaling.
+### [R10 Update] Funding Levels
+OceanDAO is on a path of growth and sustainability. It builds upon fundamental concepts of decentralization, and delivering the required components for participants to self-actualize. As projects complete their outcomes, and deliver towards their ROI, the DAO should provide support to continue scaling. As teams complete their proposals, they may access increased funding.
 
 **[1 - New Entrant :fish:]**
 - No one in your team has ever received a grant from OceanDAO.
