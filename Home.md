@@ -28,7 +28,7 @@ Funding is for projects of these types:
 
 [Here](Proposal-Ideas) are proposal ideas. [Here](https://github.com/oceanprotocol/oceandao/wiki/OceanDAO-Grant-Recipients) are DAO grant recipients (winners) to date. 
 
-## Dicussion
+## Discussion
 
 ### Town Halls
 
