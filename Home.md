@@ -10,7 +10,7 @@
 🐙 **[Chat (Discord)](https://discord.com/channels/612953348487905282/776848812534398986)**
 🦈 **[Town Halls](OceanDAO-Town-Hall)**
 🐋 **[Vote (Snapshot)](https://vote.oceanprotocol.com/)**
-🐚 **[Grant Recipients](https://www.notion.so/Grant-Recipients-3cadee15c7c14ee2a6f1ab61de70dfc2)**
+🐚 **[Grant Recipients](https://oceandao.notion.site/Funding-Round-Recipients-3cadee15c7c14ee2a6f1ab61de70dfc2)**
 🐳
 
 ## What's OceanDAO?
@@ -71,17 +71,17 @@ OceanDAO is on a path of growth and sustainability. It builds upon fundamental c
 - You have completed 3+ grants.
 - Funding Ceiling: $50k USD
 
-Visit the [Round 10 - Proposals Page](https://bit.ly/Round10Proposals) for an overview of the funding round, including all proposals submitted.
+Visit the [Round 10 - Proposals Page](https://oceandao.notion.site/Round-10-Proposals-148025807c36456780c05835833741b4) for an overview of the funding round, including all proposals submitted.
 
-Or you can visit the [Round 10 - Vote Page](https://bit.ly/Round10Votes) for a full breakdown of Votes and Grants.
+Or you can visit the [Round 10 - Vote Page](https://oceandao.notion.site/Round-10-Votes-83fd9adf657c490f804067cbaf6276e1) for a full breakdown of Votes and Grants.
 
-To learn about important dates, visit our [DAOCalendar](https://bit.ly/Round10Proposals).
+To learn about important dates, visit our [DAOCalendar](https://oceandao.notion.site/Round-10-Proposals-148025807c36456780c05835833741b4).
 
-To submit a Project Update and view overall standings, you can visit the [Project Standings](https://www.notion.so/Project-Standing-a26be0e2054e4927ab5ab8e7bde8558f) page.
+To submit a Project Update and view overall standings, you can visit the [Project Standings](https://oceandao.notion.site/Project-Standing-a26be0e2054e4927ab5ab8e7bde8558f) page.
 
 To understand Funding Rounds & Grants history, you can view our [Future and Previous Rounds](future-and-previous-rounds).
 
-You can view our [Public Roadmap](https://blog.oceanprotocol.com/oceandao-roadmap-update-mid-2021-3ea6ba80795d) to follow the goals of each Funding Round.
+You can view our [Public Roadmap](https://blog.oceanprotocol.com/oceandao-roadmap-update-q3-2021-to-eoy-2022-c73038699a6f) to follow the goals of each Funding Round.
 
 ## Project Submission Criteria
 
@@ -135,7 +135,7 @@ You are appreciated!
 
 The best practices and technology around DAOs are still evolving. OceanDAO’s strategy is to “bake slowly” — to ratchet up value-at-risk over time, to give space to learn and for technology to improve. Accordingly, the amount of funds per Funding Round may vary, and OPF reserves the right to make changes in general. The aim is: if OceanDAO creates positive value, then the funds allocated to OceanDAO will go up.
 
-You can [learn more about our Roadmap](https://blog.oceanprotocol.com/oceandao-roadmap-update-mid-2021-3ea6ba80795d) and gain insights into what's ahead for OceanDAO.
+You can [learn more about our Roadmap](https://blog.oceanprotocol.com/oceandao-roadmap-update-q3-2021-to-eoy-2022-c73038699a6f) and gain insights into what's ahead for OceanDAO.
 
 ## Further resources
 
