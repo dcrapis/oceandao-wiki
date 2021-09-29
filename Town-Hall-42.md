@@ -2,7 +2,10 @@ OceanDAO Town Hall is every Wednesday at 3:00pm GMT
 
 ## Agenda
 
-- 
+- OceanDAO Welcome
+- Norbert, Frontend Engineer @ Ocean Protocol: Token Split up presentation
+- Round 10 incoming
+- Project updates 
 
 ## Zoom Link
 
