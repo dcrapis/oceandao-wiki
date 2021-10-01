@@ -44,7 +44,7 @@ What is the final product?:
 
 How does this project drive value to the “fundamental metric” (listed above) and the overall Ocean ecosystem? This is best expressed as Expected ROI, details [here](On-ROI). 
 
-Funding Requested: (Amount of USD your team is requesting - see the available funding levels (here)[https://github.com/oceanprotocol/oceandao/wiki#r10-update-funding-levels])
+Funding Requested: (Amount of USD your team is requesting - see the available funding levels [here](https://github.com/oceanprotocol/oceandao/wiki#r10-update-funding-levels))
 
 PLEASE NOTE: The amount requested is in USD, but the amount paid is in OCEAN token. The conversion rate is the market price on the given Round's Proposal Due By Deadline. This determines how many OCEAN will be awarded if a proposal is voted to receive a grant.
 
