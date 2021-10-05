@@ -2,7 +2,11 @@ OceanDAO Town Hall is every Wednesday at 3:00pm GMT
 
 ## Agenda
 
-- 
+- About OceanDAO
+- Round 10 submissions deadline 
+- Voting Live
+- Project Updates
+- Ocean Deep Share with @trentmc, updates on Ocean’s roadmap - what’s next for Q4 2021 & Q1 2022. 
 
 ## Zoom Link
 
