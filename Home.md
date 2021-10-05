@@ -58,16 +58,16 @@ PLEASE NOTE: The amount requested is in USD, but the amount paid is in OCEAN tok
 ### [R10 Update] Funding Levels
 OceanDAO is on a path of growth and sustainability. It builds upon fundamental concepts of decentralization, and delivering the required components for participants to self-actualize. As projects complete their outcomes, and deliver towards their ROI, the DAO should provide support to continue scaling. As teams complete their proposals, they may access increased funding.
 
-**[1 - New Entrant :fish:]**
-- No one in your team has ever received a grant from OceanDAO.
+**[1 - New Project :fish:]**
+- No one in your project has ever received a grant from OceanDAO.
 - Funding Ceiling: $20k USD
 - There are earmarked funds each round for this group.
 
-**[2 - Existing Teams :dolphin:]**
+**[2 - Existing Project :dolphin:]**
 - You have completed 1-2 grants previously.
 - Funding Ceiling: $20k USD
 
-**[3 - Veteran Team :whale2:]**
+**[3 - Veteran Project :whale2:]**
 - You have completed 3+ grants.
 - Funding Ceiling: $50k USD
 
