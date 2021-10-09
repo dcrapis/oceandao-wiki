@@ -8,7 +8,7 @@ Future:
 
 
 
-* [Town Hall 43](Town-Hall-43) - Wed Oct 6, 2021 at 15:00 GMT
+
 * [Town Hall 44](Town-Hall-44) - Wed Oct 13, 2021 at 15:00 GMT
 * [Town Hall 45](Town-Hall-45) - Wed Oct 20, 2021 at 15:00 GMT
 
@@ -19,6 +19,8 @@ Future:
 
 Previous:
 
+
+* [Town Hall 43](Town-Hall-43) - Wed Oct 6, 2021 at 15:00 GMT
 * [Town Hall 42](Town-Hall-42) - Wed Sep 29, 2021 at 15:00 GMT
 * [Town Hall 41](Town-Hall-41) - Wed Sep 22, 2021 at 15:00 GMT
 * [Town Hall 40](Town-Hall-40) - Wed Sep 15, 2021 at 15:00 GMT
