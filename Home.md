@@ -137,6 +137,10 @@ The best practices and technology around DAOs are still evolving. OceanDAO’s s
 
 You can [learn more about our Roadmap](https://blog.oceanprotocol.com/oceandao-roadmap-update-q3-2021-to-eoy-2022-c73038699a6f) and gain insights into what's ahead for OceanDAO.
 
+### Snapshot Integration
+- Ocean-Marketplace voting strategy can be found [here](https://github.com/snapshot-labs/snapshot-strategies/tree/master/src/strategies/ocean-marketplace)
+- To submit a new strategy into OceanDAO, submit a new PR and `test/scores.ts` that validates the latest OceanDAO strategy. [here](https://github.com/oceanprotocol/snapshot-strategies).
+
 ## Further resources
 
 * **[FAQ](FAQ)** - Frequently Asked Questions
