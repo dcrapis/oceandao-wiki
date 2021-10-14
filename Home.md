@@ -77,7 +77,7 @@ OceanDAO is on a path of growth and sustainability. It builds upon fundamental c
 
 ### [R11 Update] ROI-Group
 
-In order to improve alignment and nurture W3SL values across the DAO, we are introducing ROI-Stewards.
+In order to improve alignment and nurture W3SL values across the DAO, we are introducing the ROI-Group.
 - New teams are able to access guidance via 1h, weekly "OceanDAO Guidance" public meetings.
 - Existing teams are able to access guidance from Stewards as a mix of public and private meetings to allow for more candid discussions.
 
