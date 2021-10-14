@@ -79,7 +79,7 @@ OceanDAO is on a path of growth and sustainability. It builds upon fundamental c
 
 In order to improve alignment and nurture W3SL values across the DAO, we are introducing the ROI-Group.
 - New teams are able to access guidance via 1h, weekly "OceanDAO Guidance" public meetings.
-- Existing teams are able to access guidance from Stewards as a mix of public and private meetings to allow for more candid discussions.
+- Existing teams are able to access guidance from ROI-Group as a mix of public and private meetings to allow for more candid discussions.
 
 Initial Membership: AlexN, Roberto, AlexC, Trent, Bruce, Razvan, Sheridan, Monica, Manan.
 Future Membership: OceanDAO participants for further decentralization.
