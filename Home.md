@@ -65,6 +65,7 @@ OceanDAO is on a path of growth and sustainability. It builds upon fundamental c
 
 **[2 - Existing Project 🐠]**
 - **Funding Ceiling:** $10k USD
+- **Requires:** You have completed 1 or more grants.
 - **Benefits:** Same as above. Receive promotion via Newsletter, Twitter, and other channels.
 
 **[3 - Experienced Project :dolphin:]**
