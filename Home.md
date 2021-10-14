@@ -51,7 +51,7 @@ OceanDAO Funding Rounds happen every month and deadline is now **THE FIRST TUESD
 
 | **Funding Round**                      | **Proposals & 500 OCEAN Due By**      | 2 Day Due Diligence Window |  **Voting Starts**     | **Voting Ends**           | **Max Funding Amount** | **Total Round Funding Available** | **Round Earmark** |
 | --                             | --                        | --                        |  --                             | -- | -- | -- |  -- |
-| [Round 10](https://port.oceanprotocol.com/c/oceandao/round-10/69)  | Oct 5, 2021 at 23:59 GMT  | Ends Oct 7, 2021 at 23:59 GMT  | Oct 7, 2021 at 23:59 GMT  | Oct 11, 2021 at 23:59 PM GMT| $50,000 USD | $530,000 USD | $100,000 For New Teams |
+| [Round 11](https://port.oceanprotocol.com/c/oceandao/round-11/71)  | Nov 2, 2021 at 23:59 GMT  | Ends Nov 4, 2021 at 23:59 GMT  | Nov 4, 2021 at 23:59 GMT  | Nov 8, 2021 at 23:59 PM GMT| $35,000 USD | $500,000 USD | $90,000 For New Teams |
 
 PLEASE NOTE: The amount requested is in USD, but the amount paid is in OCEAN token. The conversion rate is the market price on the given Round's Proposal Due By Deadline. This determines how many OCEAN will be awarded if a proposal is voted to receive a grant. This is done automatically and updated in our [Funding Rounds Airtable](https://airtable.com/shrvk1ENKwlG8vOBL).
 
@@ -60,21 +60,22 @@ OceanDAO is on a path of growth and sustainability. It builds upon fundamental c
 
 **[1 - New Project :fish:]**
 - Funding Ceiling: $3k USD
-- Requires: No one in your project has ever received a grant from OceanDAO.
+- Requires: No one in your project has ever received a grant from OceanDAO. Open to all.
 - Benefits: Earmarked. Receive feedback during application process. Introduced to related projects.
 
-**[2 - Existing Project OR ​Stewarded Project 🐠]**
+**[2 - Existing Project]**
 - Funding Ceiling: $10k USD
-- Stewarded-Project Requires: No previous grants. 2 referrals from Stewards.
 - Benefits: Same as above. Receive promotion via Newsletter, Twitter, and other channels.
 
 **[3 - Existing Project :dolphin:]**
-- You have completed 2 or more grants.
 - Funding Ceiling: $20k USD
+- Requires: You have completed 2 or more grants.
 
 **[4 - Veteran Project :whale2:]**
-- You have completed 5 or more grants.
 - Funding Ceiling: $35k USD
+- Requires: You have completed 5 or more grants.
+
+### [R11 Update] Funding Levels
 
 Visit the [Round 11 - Proposals Page](https://oceandao.notion.site/Round-11-Proposals-df939b8b91654ea4aab6006de00fd955) for an overview of the funding round, including all proposals submitted.
 
