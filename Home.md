@@ -63,7 +63,7 @@ OceanDAO is on a path of growth and sustainability. It builds upon fundamental c
 - **Requires:** No one in your project has ever received a grant from OceanDAO. Open to all.
 - **Benefits:** Earmarked. Receive feedback during application process. Introduced to related projects.
 
-**[2 - Existing Project]**
+**[2 - Existing Project 🐠]**
 - **Funding Ceiling:** $10k USD
 - **Benefits:** Same as above. Receive promotion via Newsletter, Twitter, and other channels.
 
