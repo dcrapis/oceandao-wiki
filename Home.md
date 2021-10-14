@@ -59,21 +59,21 @@ PLEASE NOTE: The amount requested is in USD, but the amount paid is in OCEAN tok
 OceanDAO is on a path of growth and sustainability. It builds upon fundamental concepts of decentralization, and delivering the required components for participants to self-actualize. As projects complete their outcomes, and deliver towards their ROI, the DAO should provide support to continue scaling. As teams complete their proposals, they may access increased funding.
 
 **[1 - New Project :fish:]**
-- Funding Ceiling: $3k USD
-- Requires: No one in your project has ever received a grant from OceanDAO. Open to all.
-- Benefits: Earmarked. Receive feedback during application process. Introduced to related projects.
+- **Funding Ceiling:** $3k USD
+- **Requires:** No one in your project has ever received a grant from OceanDAO. Open to all.
+- **Benefits:** Earmarked. Receive feedback during application process. Introduced to related projects.
 
 **[2 - Existing Project]**
-- Funding Ceiling: $10k USD
-- Benefits: Same as above. Receive promotion via Newsletter, Twitter, and other channels.
+- **Funding Ceiling:** $10k USD
+- **Benefits:** Same as above. Receive promotion via Newsletter, Twitter, and other channels.
 
 **[3 - Existing Project :dolphin:]**
-- Funding Ceiling: $20k USD
-- Requires: You have completed 2 or more grants.
+- **Funding Ceiling:** $20k USD
+- **Requires:** You have completed 2 or more grants.
 
 **[4 - Veteran Project :whale2:]**
-- Funding Ceiling: $35k USD
-- Requires: You have completed 5 or more grants.
+- **Funding Ceiling:** $35k USD
+- **Requires:** You have completed 5 or more grants.
 
 ### [R11 Update] ROI-Stewards
 
