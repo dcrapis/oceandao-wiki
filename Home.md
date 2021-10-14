@@ -144,19 +144,19 @@ Follow this [step-by-step guide](https://github.com/oceanprotocol/oceandao/wiki/
 - **Amount:** In each funding round, winning projects will receive from OceanDAO, up to the maximum of OCEAN Requested if there is enough funds available to be distributed.
 - **Grantees:** Each funding round, Ocean Protocol Foundation (OPF) will define a Maximum OCEAN Requested amount. In Round 9 we are introducing a weight to “No Votes”. This means that “No Votes” will be used to calculate a “Final Score” for each proposal. Projects that receive greater than 50% Yes Votes, will then have a “Final Score” calculated by the formula: Final Score = Yes Votes - No votes. Grantees are determined by highest “Final Score”. Funds are distributed in descending order, until there are no funds remaining. 
 
-#### [R11 Update] Remaining funds return to treasury.
-
-As of Round 11, any remaining funds left over by an earmark, are returned to the Treasury. 
-
-We are assessing burn design and mechanisms, and will provide an update.
-
 Funding is conducted [Via Request](https://github.com/oceanprotocol/oceandao/wiki/Request-Grant-Guidelines). If you're voted to receive a grant, submit an invoice to the OPF.
 
 Funds for OceanDAO currently come from the OPF.
 
 Learn more about the current OceanDAO grant recipients projects in the [List of OceanDAO Grant Recipients](https://github.com/oceanprotocol/oceandao/wiki/OceanDAO-Grant-Recipients). 
 
-### Non-Grant Recipients:
+#### [R11 Update] Remaining funds return to treasury.
+
+As of Round 11, any remaining funds left over by an earmark, are returned to the Treasury. 
+
+We are assessing burn design and mechanisms, and will provide an update.
+
+#### Non-Grant Recipients:
 
 If you were not selected for a grant in this Funding Round, we highly encourage you to continue to stay involved in the Ocean community.  
 
