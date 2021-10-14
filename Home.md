@@ -59,27 +59,32 @@ PLEASE NOTE: The amount requested is in USD, but the amount paid is in OCEAN tok
 OceanDAO is on a path of growth and sustainability. It builds upon fundamental concepts of decentralization, and delivering the required components for participants to self-actualize. As projects complete their outcomes, and deliver towards their ROI, the DAO should provide support to continue scaling. As teams complete their proposals, they may access increased funding.
 
 **[1 - New Project :fish:]**
-- No one in your project has ever received a grant from OceanDAO.
+- Funding Ceiling: $3k USD
+- Requires: No one in your project has ever received a grant from OceanDAO.
+- Benefits: Earmarked. Receive feedback during application process. Introduced to related projects.
+
+**[2 - Existing Project OR ​Stewarded Project 🐠]**
+- Funding Ceiling: $10k USD
+- Stewarded-Project Requires: No previous grants. 2 referrals from Stewards.
+- Benefits: Same as above. Receive promotion via Newsletter, Twitter, and other channels.
+
+**[3 - Existing Project :dolphin:]**
+- You have completed 2 or more grants.
 - Funding Ceiling: $20k USD
-- There are earmarked funds each round for this group.
 
-**[2 - Existing Project :dolphin:]**
-- You have completed 1-2 grants previously.
-- Funding Ceiling: $20k USD
+**[4 - Veteran Project :whale2:]**
+- You have completed 5 or more grants.
+- Funding Ceiling: $35k USD
 
-**[3 - Veteran Project :whale2:]**
-- You have completed 3+ grants.
-- Funding Ceiling: $50k USD
+Visit the [Round 11 - Proposals Page](https://oceandao.notion.site/Round-11-Proposals-df939b8b91654ea4aab6006de00fd955) for an overview of the funding round, including all proposals submitted.
 
-Visit the [Round 10 - Proposals Page](https://oceandao.notion.site/Round-10-Proposals-148025807c36456780c05835833741b4) for an overview of the funding round, including all proposals submitted.
+Or you can visit the [Round 11 - Vote Page](https://oceandao.notion.site/Round-11-Votes-fb8c4538405e4f10bcbcaa7c10bbf060) for a full breakdown of Votes and Grants.
 
-Or you can visit the [Round 10 - Vote Page](https://oceandao.notion.site/Round-10-Votes-83fd9adf657c490f804067cbaf6276e1) for a full breakdown of Votes and Grants.
-
-To learn about important dates, visit our [DAOCalendar](https://oceandao.notion.site/Round-10-Proposals-148025807c36456780c05835833741b4).
+To learn about important dates, visit our [DAOCalendar](https://oceandao.notion.site/OceanDAO-Calendar-4cefa1944a314128afd2ae0ea1a04eb6).
 
 To submit a Project Update and view overall standings, you can visit the [Project Standings](https://oceandao.notion.site/Project-Standing-a26be0e2054e4927ab5ab8e7bde8558f) page.
 
-To understand Funding Rounds & Grants history, you can view our [Future and Previous Rounds](future-and-previous-rounds).
+To understand Funding Rounds & Grants history, you can view our [Future and Previous Rounds Page](https://oceandao.notion.site/Funding-Round-Recipients-3cadee15c7c14ee2a6f1ab61de70dfc2).
 
 You can view our [Public Roadmap](https://blog.oceanprotocol.com/oceandao-roadmap-update-q3-2021-to-eoy-2022-c73038699a6f) to follow the goals of each Funding Round.
 
