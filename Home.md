@@ -91,7 +91,8 @@ Roles of Stewards:
 4. Stewards review and vote on teams they do not represent, to further signal and reduce bias during election.
 
 **We are actively developing & refining the ROI-Stewards group.**
-**This group will be further defined, and decentralized.**
+
+**This group is to be further defined, and decentralized.**
 
 ### Important Links
 
