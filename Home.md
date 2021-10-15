@@ -76,24 +76,6 @@ OceanDAO is on a path of growth and sustainability. It builds upon fundamental c
 - **Funding Ceiling:** $35k USD
 - **Requires:** You have completed 5 or more grants.
 
-### [R11 Update] ROI-Group
-
-In order to improve alignment and nurture W3SL values across the DAO, we are introducing the ROI-Group.
-- New teams are able to access guidance via 1h, weekly "OceanDAO Guidance" public meetings.
-- Existing teams are able to access guidance from ROI-Group as a mix of public and private meetings to allow for more candid discussions.
-
-Initial Membership: AlexN, Roberto, AlexC, Trent, Bruce, Razvan, Sheridan, Monica, Manan.
-Future Membership: OceanDAO participants for further decentralization.
-
-Roles of ROI-Group:
-1. Every 2 Weeks, 2 members host a public meeting for 1 hour, to provide guidance to new participants and discuss ROI > 1 strategies.
-2. Every 2 weeks, 2 members meet with their allocated OceanDAO grantees to provide guidance towards ROI > 1.
-3. ROI-Group help guide teams, and provide signaling via Port to support higher-level rewards.
-4. ROI-Group review and vote on teams they do not represent, to further signal and reduce bias during election.
-
-**We are actively developing & refining the ROI-Group.**
-**This Group is to be further defined, and decentralized.**
-
 ### Important Links
 
 Visit the [Round 11 - Proposals Page](https://oceandao.notion.site/Round-11-Proposals-df939b8b91654ea4aab6006de00fd955) for an overview of the funding round, including all proposals submitted.
