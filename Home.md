@@ -51,7 +51,7 @@ OceanDAO Funding Rounds happen every month and deadline is now **THE FIRST TUESD
 
 | **Funding Round**                      | **Proposals & 500 OCEAN Due By**      | 2 Day Due Diligence Window |  **Voting Starts**     | **Voting Ends**           | **Max Funding Amount** | **Total Round Funding Available** | **Round Earmark** |
 | --                             | --                        | --                        |  --                             | -- | -- | -- |  -- |
-| [Round 11](https://port.oceanprotocol.com/c/oceandao/round-11/71)  | Nov 2, 2021 at 23:59 GMT  | Ends Nov 4, 2021 at 23:59 GMT  | Nov 4, 2021 at 23:59 GMT  | Nov 8, 2021 at 23:59 PM GMT| $35,000 USD | 500,000 $OCEAN | 90,000 For New Teams |
+| [Round 11](https://port.oceanprotocol.com/c/oceandao/round-11/71)  | Nov 2, 2021 at 23:59 GMT  | Ends Nov 4, 2021 at 23:59 GMT  | Nov 4, 2021 at 23:59 GMT  | Nov 8, 2021 at 23:59 PM GMT| $35,000 USD | 500,000 $OCEAN | 120,000 $OCEAN |
 
 PLEASE NOTE: The amount requested is in USD, but the amount paid is in OCEAN token. The conversion rate is the market price on the given Round's Proposal Due By Deadline. This determines how much OCEAN will be awarded if a proposal is voted to receive a grant. This is done automatically and updated in our [Funding Rounds Airtable](https://airtable.com/shrvk1ENKwlG8vOBL).
 
