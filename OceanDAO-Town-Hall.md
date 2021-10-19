@@ -10,7 +10,10 @@ Future:
 
 
 * [Town Hall 45](Town-Hall-45) - Wed Oct 20, 2021 at 15:00 GMT
-
+* [Town Hall 46](Town-Hall-46) - Wed Oct 27, 2021 at 15:00 GMT
+* [Town Hall 47](Town-Hall-47) - Wed Nov 3, 2021 at 15:00 GMT
+* [Town Hall 48](Town-Hall-48) - Wed Nov 10, 2021 at 15:00 GMT
+* [Town Hall 49](Town-Hall-49) - Wed Nov 17, 2021 at 15:00 GMT
 
 
 
