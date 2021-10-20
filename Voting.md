@@ -48,6 +48,8 @@ Note: the vote counts the amount of OCEAN in your wallet and OCEAN staked on Oce
 
 Your total OCEAN allocated to a proposal is converted to VOTES using the N OCEAN -> $\sqrt{N}$ <pre xml:lang="latex">$\sqrt{N}$</pre> VOTES.
 
+<img src="https://latex.codecogs.com/gif.latex?N OCEAN -> \sqrt{N} VOTES" />
+
 For example:
 
 | OCEAN      | VOTES |
