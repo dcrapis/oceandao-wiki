@@ -46,7 +46,7 @@ Note: the vote counts the amount of OCEAN in your wallet and OCEAN staked on Oce
 
 - What does it mean that the quadratic voting weight is the square root of the OCEAN tokens?
 
-Your total OCEAN allocated to a proposal is converted to VOTES using the N OCEAN -> $$\sqrt{N}$$ VOTES.
+Your total OCEAN allocated to a proposal is converted to VOTES using the N OCEAN -> $\sqrt{N}$ <pre xml:lang="latex">\sqrt{N}</pre> VOTES.
 
 For example:
 
