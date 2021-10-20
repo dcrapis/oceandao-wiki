@@ -1,24 +1,27 @@
 # Logistics
 
-- Voting will take place on: [vote.oceanprotocol.com](https://vote.oceanprotocol.com/)
+- Voting will take place on: [vote.oceanprotocol.com](https://vote.oceanprotocol.com/).
 
 - See all of the proposals [here](https://port.oceanprotocol.com/c/oceandao/56); filter by round.
 
 - Questions? [join the Discord conversation](https://discord.com/channels/612953348487905282/776848812534398986).
 
-# How To Vote:
+# How To Vote
 
-![](https://github.com/dcrapis/prog-lang-tools/blob/master/Screen%20Shot%202021-10-20%20at%2011.10.35%20AM.png)
+![](https://github.com/dcrapis/oceandao-wiki-files/blob/main/voting-oceandao.png)
 
-- Once voting begins you will see the active proposals on the ballot.
+Once voting begins you will see the active proposals on the ballot. You can use your OCEAN tokens to vote Yes or No for each proposal.
+
+Voting:
 - Connect your Web3 wallet containing your OCEAN tokens.
-- Select the proposal you wish to vote for.
-- Click “Vote” and sign with your wallet.
-- There are no gas fees, no ETH required, and OCEAN tokens never leave your wallet
-- Vote percentages will adjust accordingly as votes are counted.
-- The proposals with the highest votes will receive grants based on how many grants will be distributed in the current round. 
+- Select the fraction of OCEAN tokens you want to allocate to each preference. In the example, we are voting with 10% of our OCEAN for "Acute Apple - Yes", 20% for "Oblong Orange - Yes" and 70% for "Artisanal Banana - No". If we have 1,000 OCEAN in our wallet this will allocate 100 OCEAN, 200 OCEAN, and 700 OCEAN respectively.
+- Click “Vote” and Sign with your wallet (Note: there are no gas fees, no ETH required, and OCEAN tokens never leave your wallet).
 
-Note: the vote simply just counts the amount of OCEAN in your wallet and OCEAN staked on Ocean Market. No OCEAN will be taken from your wallet. It is a gasless transaction; there is no fee.
+Results:
+- The current results tab will adjust accordingly as votes are counted.
+- XXX The proposals with the highest votes will receive grants based on how many grants will be distributed in the current round. 
+
+Note: the vote counts the amount of OCEAN in your wallet and OCEAN staked on Ocean Market. No OCEAN will be taken from your wallet. Again: it is a gasless transaction and there is no fee.
 
 # Voting Parameters:
 
