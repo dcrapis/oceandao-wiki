@@ -10,16 +10,16 @@
 
 ![](https://github.com/dcrapis/oceandao-wiki-files/blob/main/voting-oceandao.png)
 
-Once voting begins you will see the active proposals on the ballot. You can use your OCEAN tokens to vote Yes or No for each proposal.
+Once voting begins you will see the active proposals on the ballot. Starting in R11, all Grant Proposals will be listed in a *single voting ballot*. This means that you can use your OCEAN tokens *once* to vote Yes/No on proposals (Note: this is different from previous rounds that had multiple ballots and you could use all your ocean repeatedly on different proposals).
 
-Voting:
+**Voting:**
 - Connect your Web3 wallet containing your OCEAN tokens.
 - Select the fraction of OCEAN tokens you want to allocate to each preference. 
 	- In the example, we are voting with 10% of our OCEAN for `Acute Apple - Yes`, 20% for `Oblong Orange - Yes` and 70% for `Artisanal Banana - No`.
 	- If we have 1,000 OCEAN in our wallet this will allocate 100 OCEAN, 200 OCEAN, and 700 OCEAN respectively.
 - Click `Vote` and Sign with your wallet (Note: there are no gas fees, no ETH required, and OCEAN tokens never leave your wallet).
 
-Results:
+**Results:**
 - The current results tab will adjust accordingly as votes are counted.
 - XXX The proposals with the highest votes will receive grants based on how many grants will be distributed in the current round. 
 
