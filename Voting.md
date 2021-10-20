@@ -10,8 +10,10 @@
 
 ![](https://github.com/dcrapis/oceandao-wiki-files/blob/main/voting-oceandao.png)
 
+Once voting begins you will see the active proposals that you can vote on.
+
 **Single Ballot:**
-- Once voting begins you will see the active proposals. Starting in R11, all Grant Proposals will be listed in a *single voting ballot*. This means that you can use your OCEAN tokens *once* to vote Yes or No on proposals (Note: this is different from previous rounds that had one Yes/No ballot for each proposal and you could use all your ocean repeatedly on different proposals).
+- Starting in R11, all Grant Proposals will be listed in a *single voting ballot*. This means that you can use your OCEAN tokens *once* to vote Yes or No on proposals (Note: this is different from previous rounds that had one Yes/No ballot for each proposal and you could use all your ocean repeatedly on different proposals).
 
 **Voting:**
 - Connect your Web3 wallet containing your OCEAN tokens.
@@ -26,7 +28,7 @@
 
 Note: the vote counts the amount of OCEAN in your wallet and OCEAN staked on Ocean Market. No OCEAN will be taken from your wallet. Again: it is a gasless transaction and there is no fee.
 
-# Voting Parameters:
+# Voting Parameters
 
 - At proposal deadline (the first Tuesday of every month at 23:59 pm GMT), Proposals that meet the “Project Criteria” will be migrated to the OceanDAO Voting Page.
 
@@ -55,7 +57,3 @@ Note: the vote counts the amount of OCEAN in your wallet and OCEAN staked on Oce
 **2. Why are we using QV and not traditional voting?**
 - QV balances "one person one vote" (democratic ideal) with "one token one vote" (skin-in-the-game).
 - QV gives voice to smaller holders and softens the impact of whale voters while still acknowledging higher skin-in-the-game.
-
-# Resources
-
-- To learn more about QV visit this link
