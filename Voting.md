@@ -44,9 +44,9 @@ Note: the vote counts the amount of OCEAN in your wallet and OCEAN staked on Oce
 
 # FAQs
 
-- What does it mean that the quadratic voting weight is the square root of the OCEAN tokens?
+1/ What does it mean that the quadratic voting weight is the square root of the OCEAN tokens?
 
-Your total OCEAN allocated to a proposal is converted to VOTES using the rule `N OCEAN -> square_root(N) VOTES`.
+- Your total OCEAN allocated to a proposal is converted to VOTES using the rule `N OCEAN -> square_root(N) VOTES`.
 
 For example:
 
@@ -56,7 +56,11 @@ For example:
 | 4   | 2        |
 | 9   | 3        |
 | 16   | 4        |
-- Why are we using QV and not traditional linear voting?
+
+
+2/ Why are we using QV and not traditional voting?
+- QV balances “one person one vote” (democratic ideal) with “one token one vote” (skin-in-the-game).
+- QV gives voice to smaller holders and softens the impact of whale voters while still acknowledging higher skin-in-the-game.
 
 # Resources
 
