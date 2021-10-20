@@ -4,11 +4,11 @@
 
 - See all of the proposals [here](https://port.oceanprotocol.com/c/oceandao/56); filter by round.
 
-- Questions, [join the Discord conversation](https://discord.com/channels/612953348487905282/776848812534398986).
+- Questions? [join the Discord conversation](https://discord.com/channels/612953348487905282/776848812534398986).
 
 # How To Vote:
 
-![](https://miro.medium.com/max/1050/0*xy_BvLdqNnvVvdYv)
+![](https://drive.google.com/file/d/1x7Pdp2MJxgDqDKd3fDzOGLN65SNT0L8y/view?usp=sharing)
 
 - Once voting begins you will see the active proposals on the ballot.
 - Connect your Web3 wallet containing your OCEAN tokens.
