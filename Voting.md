@@ -1,12 +1,12 @@
-* ****PLEASE NOTE: We have migrated from all proposals in the same voting ballot to individual yes/no proposal voting 
+# Logistics
 
-Voting will take place on: [vote.oceanprotocol.com](https://vote.oceanprotocol.com/)
+- Voting will take place on: [vote.oceanprotocol.com](https://vote.oceanprotocol.com/)
 
-See all of the proposals [here](https://port.oceanprotocol.com/c/oceandao/56); filter by round.
+- See all of the proposals [here](https://port.oceanprotocol.com/c/oceandao/56); filter by round.
 
-Questions, [join the Discord conversation](https://discord.com/channels/612953348487905282/776848812534398986).
+- Questions, [join the Discord conversation](https://discord.com/channels/612953348487905282/776848812534398986).
 
-## How To Vote:
+# How To Vote:
 
 ![](https://miro.medium.com/max/1050/0*xy_BvLdqNnvVvdYv)
 
@@ -20,7 +20,7 @@ Questions, [join the Discord conversation](https://discord.com/channels/61295334
 
 Note: the vote simply just counts the amount of OCEAN in your wallet and OCEAN staked on Ocean Market. No OCEAN will be taken from your wallet. It is a gasless transaction; there is no fee.
 
-## Voting Parameters:
+# Voting Parameters:
 
 - At proposal deadline (the first day of every month at 23:59 pm GMT), Proposals that meet the “Project Criteria” will be migrated to the OceanDAO Voting Page.
 
@@ -33,3 +33,11 @@ Note: the vote simply just counts the amount of OCEAN in your wallet and OCEAN s
 - You can only vote with the OCEAN tokens in your wallet or staked on Ocean Market. You will be unable to vote with OCEAN that is deposited as liquidity in Bancor, Uniswap, or otherwise. It is your choice if you would like to remove liquidity, vote, and re-add the liquidity back later from AMMs. Risks come with removing liquidity (impermanent loss etc). This is up to you to manage.
 
 - Voting with staked OCEAN in Ocean Market: your initial voting power in Snapshot will reflect how many OCEAN as ERC20 are in your wallet. However, once you cast your vote and if staking, your number of OCEAN on the marketplace will then be included.
+
+# FAQs
+
+- Why are we using QV and not traditional linear voting?
+
+# Resources
+
+- To learn more about QV visit this link
