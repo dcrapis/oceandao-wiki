@@ -10,7 +10,8 @@
 
 ![](https://github.com/dcrapis/oceandao-wiki-files/blob/main/voting-oceandao.png)
 
-Once voting begins you will see the active proposals on the ballot. Starting in R11, all Grant Proposals will be listed in a *single voting ballot*. This means that you can use your OCEAN tokens *once* to vote Yes/No on proposals (Note: this is different from previous rounds that had multiple ballots and you could use all your ocean repeatedly on different proposals).
+**Single Ballot:**
+- Once voting begins you will see the active proposals. Starting in R11, all Grant Proposals will be listed in a *single voting ballot*. This means that you can use your OCEAN tokens *once* to vote Yes or No on proposals (Note: this is different from previous rounds that had one Yes/No ballot for each proposal and you could use all your ocean repeatedly on different proposals).
 
 **Voting:**
 - Connect your Web3 wallet containing your OCEAN tokens.
@@ -29,7 +30,9 @@ Note: the vote counts the amount of OCEAN in your wallet and OCEAN staked on Oce
 
 - At proposal deadline (the first day of every month at 23:59 pm GMT), Proposals that meet the “Project Criteria” will be migrated to the OceanDAO Voting Page.
 
-- Vote with your OCEAN Tokens in your wallet or staked on Ocean Market. 1 OCEAN = 1 vote.
+- Vote with your OCEAN Tokens in your wallet or staked on Ocean Market.
+
+- Votes are counted using [Quadratic Voting](https://en.wikipedia.org/wiki/Quadratic_voting) (QV): for each proposal that you vote on, your voting weight is the square root of the OCEAN you voted with.
 
 - In order for your vote to count, you must have the OCEAN already in the non-custodial wallet you plan on voting with before the vote opens (the first day of every month at 23:59 pm GMT) or staked on the Ocean Marketplace. This is so your existing OCEAN balance can be counted. Voting from exchanges is not supported.
 
@@ -41,6 +44,18 @@ Note: the vote counts the amount of OCEAN in your wallet and OCEAN staked on Oce
 
 # FAQs
 
+- What does it mean that the quadratic voting weight is the square root of the OCEAN tokens?
+
+Your total OCEAN allocated to a proposal is converted to VOTES using the N OCEAN -> $$\sqrt{N}$$ VOTES.
+
+For example:
+
+| OCEAN      | VOTES |
+| ---------- | ---------- |
+| 1      | 1       |
+| 4   | 2        |
+| 9   | 3        |
+| 16   | 4        |
 - Why are we using QV and not traditional linear voting?
 
 # Resources
