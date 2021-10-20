@@ -8,7 +8,7 @@
 
 # How To Vote:
 
-![](https://drive.google.com/file/d/1x7Pdp2MJxgDqDKd3fDzOGLN65SNT0L8y/view?usp=sharing)
+![](https://github.com/dcrapis/prog-lang-tools/blob/master/Screen%20Shot%202021-10-20%20at%2011.10.35%20AM.png)
 
 - Once voting begins you will see the active proposals on the ballot.
 - Connect your Web3 wallet containing your OCEAN tokens.
