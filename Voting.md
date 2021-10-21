@@ -57,3 +57,11 @@ Note: the vote counts the amount of OCEAN in your wallet and OCEAN staked on Oce
 **2. Why are we using QV and not traditional voting?**
 - QV balances "one person one vote" (democratic ideal) with "one token one vote" (skin-in-the-game).
 - QV gives voice to smaller holders and softens the impact of whale voters while still acknowledging higher skin-in-the-game.
+
+# Resources
+
+
+- QV implementation on [Snapshot](https://docs.snapshot.org/proposals/voting-types#quadratic-voting)
+- Vitalik Buterin's quadratic payments [blog post](https://vitalik.ca/general/2019/12/07/quadratic.html)
+- Simulation/example of QV in Ocean from TE [spreadsheet](https://docs.google.com/spreadsheets/d/1kxyfD60BZB6eKgB7VqP45_4ct0dcK5fXzKVddJZk7C4/edit#gid=0)
+- Deep dive into QV efficiency - [technical paper](https://export.arxiv.org/pdf/2010.01193v1)
