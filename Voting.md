@@ -32,7 +32,7 @@ Note: the vote counts the amount of OCEAN in your wallet and OCEAN staked on Oce
 
 - At proposal deadline (the first Tuesday of every month at 23:59 pm GMT), Proposals that meet the “Project Criteria” will be migrated to the OceanDAO Voting Page.
 
-- Votes are counted using [Quadratic Voting](https://en.wikipedia.org/wiki/Quadratic_voting) (QV): for each proposal that you vote on, your voting weight is the square root of the OCEAN you voted with. (See example in FAQ 1 below.)
+- Votes are counted using Quadratic Voting (QV): for each proposal that you vote on, your voting weight is the square root of the OCEAN you voted with. (See FAQ 1 below for more details.)
 
 - Vote with your OCEAN Tokens in your wallet or staked on Ocean Market.
 	- In order for your vote to count, you must have the OCEAN already in the non-custodial wallet you plan on voting with before the vote opens (the first Thursday of every month at 23:59 pm GMT) or staked on the Ocean Marketplace. This is so your existing OCEAN balance can be counted. Voting from exchanges is not supported.
@@ -43,7 +43,7 @@ Note: the vote counts the amount of OCEAN in your wallet and OCEAN staked on Oce
 
 # FAQs
 
-**1. What does it mean that the quadratic voting weight is the square root of the OCEAN tokens?**
+**1. How does QV in OceanDAO work?**
 
 - Your total OCEAN allocated to a proposal is converted to VOTES using the rule `N OCEAN -> square_root(N) VOTES`. For example:
 
@@ -54,14 +54,21 @@ Note: the vote counts the amount of OCEAN in your wallet and OCEAN staked on Oce
 | 9   | 3        |
 | 16   | 4        |
 
+- In in practice, after counting the votes from the voters there is an additional step to the voting mechanism: a matching pool equal to the total number of votes casted is proportionally distributed to match the votes of each proposal.
+
+	- You can view the simulation/example of QV in Ocean provided by TE in this [spreadsheet](https://docs.google.com/spreadsheets/d/1kxyfD60BZB6eKgB7VqP45_4ct0dcK5fXzKVddJZk7C4/edit#gid=0).
+
 **2. Why are we using QV and not traditional voting?**
 - QV balances "one person one vote" (democratic ideal) with "one token one vote" (skin-in-the-game).
 - QV gives voice to smaller holders and softens the impact of whale voters while still acknowledging higher skin-in-the-game.
 
 # Resources
 
+Ocean
+- OceanDAO Round 11 announcement [blog post](https://blog.oceanprotocol.com/oceandao-round-11-is-live-2b8ea0205074)
 
-- QV implementation on [Snapshot](https://docs.snapshot.org/proposals/voting-types#quadratic-voting)
-- Vitalik Buterin's quadratic payments [blog post](https://vitalik.ca/general/2019/12/07/quadratic.html)
-- Simulation/example of QV in Ocean from TE [spreadsheet](https://docs.google.com/spreadsheets/d/1kxyfD60BZB6eKgB7VqP45_4ct0dcK5fXzKVddJZk7C4/edit#gid=0)
+Technical
+- QV implementation on Snapshot: [docs](https://docs.snapshot.org/proposals/voting-types#quadratic-voting), [code](https://github.com/snapshot-labs/snapshot/blob/develop/src/helpers/voting/quadratic.ts)
+- Vitalik Buterin's quadratic payments primer [blog post](https://vitalik.ca/general/2019/12/07/quadratic.html)
+- Quadratic voting with matching pool original paper from Buterin, Hitzig and Weyl - [technical paper](https://arxiv.org/pdf/1809.06421.pdf)
 - Deep dive into QV efficiency - [technical paper](https://export.arxiv.org/pdf/2010.01193v1)
