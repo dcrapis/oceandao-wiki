@@ -66,6 +66,7 @@ Note: the vote counts the amount of OCEAN in your wallet and OCEAN staked on Oce
 
 Ocean
 - OceanDAO Round 11 announcement [blog post](https://blog.oceanprotocol.com/oceandao-round-11-is-live-2b8ea0205074)
+- Video tutorial for the main sections above - [youtube](https://www.youtube.com/watch?v=Err1BpERDiQ)
 
 Technical
 - QV implementation on Snapshot: [docs](https://docs.snapshot.org/proposals/voting-types#quadratic-voting), [code](https://github.com/snapshot-labs/snapshot/blob/develop/src/helpers/voting/quadratic.ts)
