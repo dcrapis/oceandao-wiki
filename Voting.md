@@ -54,9 +54,11 @@ Note: the vote counts the amount of OCEAN in your wallet and OCEAN staked on Oce
 | 9   | 3        |
 | 16   | 4        |
 
-- In in practice, after counting the votes from the voters there is an additional step to the voting mechanism: a matching pool equal to the total number of votes casted is proportionally distributed to match the votes of each proposal.
+- Then, the VOTES are summed up, and every proposal's sum of VOTES is taken to the square again. This is the voting outcome.
 
-	- You can view the simulation/example of QV in Ocean provided by TE in this [spreadsheet](https://docs.google.com/spreadsheets/d/1kxyfD60BZB6eKgB7VqP45_4ct0dcK5fXzKVddJZk7C4/edit#gid=0).
+- In in practice, there is an additional step to the voting mechanism: a matching pool equal to the total number of votes cast is proportionally distributed to match the voting outcome of each proposal.
+
+	- You can view the simulation/example of QV in Ocean provided by the Token Engineering Community in this [spreadsheet](https://docs.google.com/spreadsheets/d/1kxyfD60BZB6eKgB7VqP45_4ct0dcK5fXzKVddJZk7C4/edit#gid=0).
 
 **2. Why are we using QV and not traditional voting?**
 - QV balances "one person one vote" (democratic ideal) with "one token one vote" (skin-in-the-game).
